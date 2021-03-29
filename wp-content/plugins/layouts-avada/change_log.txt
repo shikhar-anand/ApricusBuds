@@ -1,0 +1,55 @@
+Version 1.5.3
+  - Bug-fix: Fixed issue with Toolset Access error pages
+
+-------------------------------------------------------------------------------------------------------------------
+
+Version 1.5.2
+  - Bug-fix: Fixed issue with compatibility with Avada theme v5.1.1
+  - Bug-fix: Added minimum theme version check for Avada theme v5.1
+
+-------------------------------------------------------------------------------------------------------------------
+
+Version 1.5.1
+  - Feature: Added WooCommerce support and default layouts for products archives and single pages
+  - Bug-fix: Added minimum theme version check for Avada theme v5.0
+
+-------------------------------------------------------------------------------------------------------------------
+
+Version 1.5
+  - Updated default layouts to introduce usage of The Content cell and Layouts default features
+  - Refactored default layouts to demonstrate appropriate HTML structure without some custom row modes and cell types
+  - Implemented Bootstrap settings to tell Layouts about theme already loading the Bootstrap
+  - Implemented forbidden cells in content layouts
+  - Implemented toolset admin notices for help links to user guides on default layouts
+  - Implemented toolset site installer
+
+-------------------------------------------------------------------------------------------------------------------
+
+Version 1.4
+
+    - Compatibility: Fixed compatibility issues with respect to Avada theme version 5.
+    - Usability: Responsiveness issues fixed for mobile devices.
+
+-------------------------------------------------------------------------------------------------------------------
+
+Version 1.3
+
+    - Compatibility: Introduced new row mode for content, to control Bootstrap conflicts.
+
+-------------------------------------------------------------------------------------------------------------------
+
+Version 1.1
+
+  - Feature: Header Area new cell to replicate the header area of the theme.
+  - Feature: Header Area cell now supports native theme options for the related area.
+  - Usability: Custom row modes were removed. These are not needed anymore.
+  - Compatibility: Major compatibility upgrade with respect to Avada Theme version 4 and later.
+  - Compatibility: Layout for header and footer was updated to use new header area cell.
+  - Bug-fix: Fixed broken logo cell issue.
+  - Bug-fix: Fixed array to string conversion issues due to compatibility changes in Avada Theme version 4.
+
+-------------------------------------------------------------------------------------------------------------------
+
+Version 1.0
+
+  - First release.

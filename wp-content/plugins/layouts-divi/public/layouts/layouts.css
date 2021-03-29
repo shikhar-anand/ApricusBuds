@@ -1,0 +1,39 @@
+/*Layouts css goes here*/
+.layouts-page-title {
+  background-color: transparent;
+}
+
+.post-meta {
+    padding-bottom: 15px;
+    font-size: 14px;
+    margin-bottom: 21px;
+}
+
+.post-meta a {
+    color: #666;
+    text-decoration: none;
+}
+
+input#submit {
+    position: relative;
+    padding: 0.3em 1em;
+    border: 2px solid;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: transparent;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.7em !important;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    transition: all 0.2s;
+    color: #2ea3f2;
+    display: block;
+    cursor: pointer;
+}
+
+input#submit:hover {
+    background: rgba(0, 0, 0, 0.05);
+    padding: 0.3em 1em;
+}

@@ -1,0 +1,20 @@
+<?php
+/**
+ * Template File
+ * This file implements Toolset_Admin_Notice_Interface
+ *
+ * @var Toolset_Admin_Notice_Interface $this
+ *
+ */
+
+//$anchor = WPDDL_Integration_Setup::get_help_anchor();
+
+$out = sprintf( __( "%sNeed help styling this layout?%s", "ddl-layouts" ), "<p>", "</p>"  );
+
+$out .= Toolset_Admin_Notices_Manager::tpl_button_primary(
+	__( "Visit our guide for more information.", "ddl-layouts" ),
+	"https://wp-types.com/documentation/user-guides/layouts-genesis-integration/" .
+	"?utm_source=layouts-genesis-integration&utm_campaign=layouts-integration&utm_medium=help-message&utm_term=genesis-integration-guide&utm_content=notice-dismissible",
+	true );
+
+echo $out;

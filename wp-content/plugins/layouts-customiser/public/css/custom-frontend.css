@@ -1,0 +1,52 @@
+.tc-header .brand{
+    width:100%;
+}
+.collapse{
+    display: block;
+}
+.round-div {
+    display: block;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+    position: absolute;
+    width: 150%;
+    height: 160%;
+    z-index: 99;
+    -webkit-border-radius: -1;
+    -moz-border-radius: 900px;
+    border-radius: 9999px;
+    border: 120px solid #fafafa;
+    border-image: none;
+    top: -76px;
+    left: -66px;
+}
+.navigation{
+    margin-bottom:10px;
+}
+
+@media (max-width: 979px){
+    .widget-front .round-div {
+        width: 186%;
+        height: 148%;
+        border: 120px solid #FAFAFA;
+        top: -61px;
+        left: -88px;
+    }
+}
+.default_layouts_info_box{
+    width: 100%;
+    border: 1px solid #F8CCAF;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    background: #FFF0E4;
+}
+
+#wpadminbar{
+    position: fixed !important;
+}
+.nav-collapse.tc-hover-menu-wrapper.collapse.in{
+    height: auto !important;
+}

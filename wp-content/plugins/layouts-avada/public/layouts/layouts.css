@@ -1,0 +1,49 @@
+/*Layouts css goes here*/
+
+.pagination ul {
+    display: inline-block;
+    padding: 0;
+}
+
+.pagination ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+.pagination ul li a {
+    border: 1px solid #747474;
+    display: inline-block;
+    color: #747474;
+    margin-left: 5px;
+    padding: 2px 6px;
+    border-color: #e0dede;
+}
+
+.pagination ul li a:hover {
+    border-color: #a0ce4e;
+}
+
+.pagination ul li .wpv-archive-pagination-link-current {
+    background-color: #a0ce4e;
+    border-color: #a0ce4e;
+    border: 1px solid #a0ce4e;
+    display: inline-block;
+    color: #fff;
+    padding: 2px 6px;
+    margin-left: 5px;
+    background: #a0ce4e;
+}
+
+.fusion-post-slideshow {
+    margin-bottom: 30px;
+}
+
+h2.entry-title.fusion-post-title {
+    font-family: \'Antic Slab\';
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0px;
+    font-size: 18px;
+    line-height: 27px;
+    color: #333333;
+}

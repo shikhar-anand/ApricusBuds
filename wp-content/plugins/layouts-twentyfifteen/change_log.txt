@@ -1,0 +1,13 @@
+1.4
+    - Added missed single-page.php to list of available template list
+
+1.3
+    - Compatibility: Implemented Toolset installer for Layouts 1.9
+
+1.2
+
+1.1
+
+1.0
+
+    - First release of Toolset 2015 Integration Plugin

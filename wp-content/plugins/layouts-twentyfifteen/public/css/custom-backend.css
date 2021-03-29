@@ -1,0 +1,13 @@
+.ddl-tree-category-items a[data-cell-type^='2015'] > .ddl-icon:before {
+    content: '';
+    background-image: url('../img/cell-icon-2015.png');
+    background-size: contain;
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: -2px;
+    top: 0px;
+}
+.theme-integration-position-center{
+    text-align: center;
+}

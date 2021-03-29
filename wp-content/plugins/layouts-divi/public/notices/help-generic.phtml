@@ -1,0 +1,20 @@
+<?php
+/**
+ * Template File
+ * This file implements Toolset_Admin_Notice_Interface
+ *
+ * @var Toolset_Admin_Notice_Interface $this
+ *
+ */
+
+$anchor = WPDDL_Integration_Setup::get_help_anchor();
+
+echo '<p>' . __( 'Need help styling this layout?', 'ddl-layouts' ) . '</p>';
+
+echo Toolset_Admin_Notices_Manager::tpl_button_primary(
+	__( 'Visit our guide for more information.', 'ddl-layouts' ),
+	'https://wp-types.com/documentation/user-guides/toolset-divi-integration/style-guide-for-divi-layouts/' .
+	"?utm_source=layouts-divi-integration&utm_campaign=layouts-integration&utm_medium=help-message&utm_term=divi-styling-guide&utm_content=notice-dismissible" .
+	'#' . $anchor,
+	true
+);

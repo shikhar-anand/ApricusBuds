@@ -1,0 +1,105 @@
+/**
+ * Add Divi Icon to Layouts Divi Cells
+ */
+.ddl-tree-category-items a[data-cell-type^='divi-'] {
+    margin-top: 5px;
+}
+.ddl-tree-category-items a[data-cell-type^='divi-'] > .ddl-icon:before {
+    content: '';
+    background-image: url('../img/cell-icon.png');
+    background-size: contain;
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 0;
+    top: -5px;
+}
+
+/**
+ * Layouts Row Type List
+ */
+.presets-list.row-types li {
+    height: 140px;
+    box-sizing: border-box;
+    width:33%;
+}
+
+/* Hide Layouts Buttons on Visual Editor */
+.js-visual-editor-editor-container .genesis-post-content,
+.js-visual-editor-editor-container .genesis-post-content-editable {
+    display: none !important;
+}
+
+/* Social Icons Cell Preview */
+@font-face {
+	font-family: 'ETmodules';
+	src:url('../../../../themes/Divi/fonts/ETmodules_v2.eot');
+	src:url('../../../../themes/Divi/fonts/ETmodules_v2.eot?#iefix') format('embedded-opentype'),
+	url('../../../../themes/Divi/fonts/ETmodules_v2.ttf') format('truetype'),
+	url('../../../../themes/Divi/fonts/ETmodules_v2.woff') format('woff'),
+	url('../../../../themes/Divi/fonts/ETmodules_v2.svg#ETmodules') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.et-social-icon {
+	display: inline-block;
+}
+
+.et-social-icon span {
+	font-family: 'Open Sans', Arial, sans-serif;
+	display: inline-block;
+	font-size: 14px;
+	position: relative;
+	text-align: center;
+	transition: color 300ms ease 0s;
+	color: #666;
+	text-decoration: none;
+}
+
+.et-social-icon span:before {
+	font-family: 'ETmodules';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.et-social-facebook span.icon:before {content: '\e093';}
+.et-social-twitter span.icon:before {content: '\e094';}
+.et-social-google-plus span.icon:before {content: '\e096';}
+.et-social-rss span.icon:before {content: '\e09e';}
+.js-wpcf-colorbox-with-iframe{z-index:9999999999999999999999!important;}
+
+#et-info-phone,
+#et-info-email,
+.et-cart-info span {
+	position: relative;
+	font-family: "ETmodules" !important;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-size: 14px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	line-height: 1;
+	text-transform: none;
+	speak: none;
+}
+
+#et-info-phone:before {
+	position: relative;
+	top: 2px;
+	margin-right: 2px;
+	content: "\e090";
+}
+
+
+#et-info-email:before {
+	margin-right: 4px;
+	content: "\e076";
+}

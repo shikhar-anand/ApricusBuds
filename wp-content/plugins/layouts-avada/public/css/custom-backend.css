@@ -1,0 +1,27 @@
+/**
+ * Add Avada Badge to Layouts Avada Cells
+ */
+.ddl-tree-category-items a[data-cell-type^='avada-'] {
+	margin-top: 5px;
+}
+.ddl-tree-category-items a[data-cell-type^='avada-'] > .ddl-icon:before {
+	content: '';
+	background-image: url('../img/cell-icon.png');
+	background-size: contain;
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 0;
+	top: -5px;
+}
+
+.fusion-logo-2x {
+	display: none;
+}
+
+.theme-integration-preview-area{
+	text-align: center;
+}
+.theme-integration-preview-area img{
+	max-width: 130px !important;
+}

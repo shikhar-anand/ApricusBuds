@@ -1,0 +1,19 @@
+<?php
+/**
+ * Template File
+ * This file implements Toolset_Admin_Notice_Interface
+ *
+ * @var Toolset_Admin_Notice_Interface $this
+ *
+ */
+
+//$anchor = WPDDL_Integration_Setup::get_help_anchor();
+
+echo '<p>' . __( 'Need help styling this layout?', 'ddl-layouts' ) . '</p>';
+
+echo Toolset_Admin_Notices_Manager::tpl_button_primary(
+	__( 'Visit our guide for more information.', 'ddl-layouts' ),
+	'https://wp-types.com/documentation/user-guides/toolset-avada-integration/' .
+	"?utm_source=layouts-avada-integration&utm_campaign=layouts-integration&utm_medium=help-message&utm_term=avada-integration-guide&utm_content=notice-dismissible",
+	true
+);

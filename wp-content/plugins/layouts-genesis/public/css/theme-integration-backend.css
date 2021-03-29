@@ -1,0 +1,233 @@
+/**
+ * Hide Layout Selector on Posts
+ */
+.genesis-layout-selector {
+    display: none !important;
+}
+
+.genesis-layout-selector + br.clear {
+    display: none;
+}
+
+/**
+ * Add Genesis Icon to Layouts Genesis Cells
+ */
+.ddl-tree-category-items a[data-cell-type^='genesis-'] {
+     margin-top: 5px;
+ }
+.ddl-tree-category-items a[data-cell-type^='genesis-'] > .ddl-icon:before {
+    content: '';
+    background-image: url('../img/cell-icon.png');
+    background-size: contain;
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 0;
+    top: -5px;
+}
+
+/**
+ * Layouts Row Type List
+ */
+.presets-list.row-types li {
+    height: 140px;
+    box-sizing: border-box;
+    width:33%;
+}
+
+/* Hide Genesis Buttons on Visual Editor */
+.js-visual-editor-editor-container .genesis-post-content,
+.js-visual-editor-editor-container .genesis-post-content-editable {
+    display: none !important;
+}
+
+
+/* Image Radio Select */
+.theme-integration-radio-images {
+    width: 555px;
+    float: right;
+    clear: right;
+}
+
+.theme-integration-radio-images img {
+    max-width: 80%;
+    padding: 5%;
+    background-color: #f7f7f7;
+    border: 1px solid #bcbcbc;
+    border-radius: 3px;
+}
+
+.theme-integration-radio-images .input-hidden {
+    position: absolute;
+    left: -9999px;
+}
+
+.theme-integration-radio-images input[type=radio]:checked + label>img {
+    border: 1px solid #F36528;
+}
+
+/* Cell Description Images */
+img.item-preview[data-name^='genesis-'] {
+    width: 100%;
+}
+
+
+/* Cell Backend Output - Post Navigation */
+.cell-content .cell-preview .theme-integration-post-navigation-backend ul {
+    width: 100%;
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+.cell-content .cell-preview .theme-integration-post-navigation-backend:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.cell-content .cell-preview .theme-integration-post-navigation-backend ul.numeric li {
+    display: inline-block;
+    padding: 5px 7px;
+    border: 1px solid #bcbcbc;
+}
+
+.cell-content .cell-preview .theme-integration-post-navigation-backend ul.numeric li:nth-of-type(3) {
+    border-color: #F36528;
+    color: #F36528;
+}
+
+.cell-content .cell-preview .theme-integration-post-navigation-backend ul.numeric li:first-child,
+.cell-content .cell-preview .theme-integration-post-navigation-backend ul.numeric li:last-child {
+    background: #F36528;
+    border-color: #F36528;
+    color: #fff;
+}
+
+.cell-content .cell-preview .theme-integration-post-navigation-backend ul.only-next-prev {
+    display: table;
+}
+.cell-content .cell-preview .theme-integration-post-navigation-backend ul.only-next-prev li {
+    display:none;
+}
+
+.cell-content .cell-preview .theme-integration-post-navigation-backend ul.only-next-prev li:first-child,
+.cell-content .cell-preview .theme-integration-post-navigation-backend ul.only-next-prev li:last-child {
+    display: table-cell;
+    color: #F36528;
+}
+
+.cell-content .cell-preview .theme-integration-post-navigation-backend ul.only-next-prev li:last-child {
+    text-align: right;
+}
+
+
+/* Cell Backend Output - Post Navigation */
+.cell-content .cell-preview .theme-integration-search-form-backend ul {
+    width: 100%;
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+.cell-content .cell-preview .theme-integration-search-form-backend ul li {
+    min-height: 24px;
+    display: inline-block;
+    padding: 5px 7px;
+    border: 1px solid #bcbcbc;
+    background: #fff;
+}
+
+.cell-content .cell-preview .theme-integration-search-form-backend ul li:first-child {
+    width: 100%;
+    margin-bottom: 1px;
+}
+
+.cell-content .cell-preview .theme-integration-search-form-backend ul li:last-child {
+    background: #F36528;
+    border-color: #F36528;
+    color: #fff;
+}
+
+.cell-content .cell-preview .theme-integration-search-form-backend ul.one-row {
+    display: table;
+}
+
+.cell-content .cell-preview .theme-integration-search-form-backend ul.one-row li {
+    display: table-cell;
+    width: auto;
+}
+
+.cell-content .cell-preview .theme-integration-search-form-backend ul.one-row li:first-child {
+    width: 90%;
+}
+
+/* Cell Backend Output - Post Navigation */
+.cell-content .cell-preview .theme-integration-author-box span.desc {
+    font-size: 10px;
+}
+
+.cell-content .cell-preview .theme-integration-author-box ul {
+    display: table;
+    margin-bottom: 20px;
+}
+
+.cell-content .cell-preview .theme-integration-author-box ul li {
+    display: table-cell;
+    vertical-align: top;
+}
+
+.cell-content .cell-preview .theme-integration-author-box ul li:last-child {
+    padding-left: 10px;
+}
+
+/* Cell Backend Output - Footer */
+.cell-content .cell-preview .theme-integration-footer {
+    text-align: center;
+    margin-bottom: 20px;
+    min-height: 34px;
+}
+
+.cell-content .cell-preview .theme-integration-footer .footer-backtotop-fixed {
+    position: absolute;
+    right: 5px;
+    bottom: 5%;
+    padding: 10px;
+    background-color: #F36528;
+    color: #fff;
+}
+
+/* Cell Backend Output - Breadcrumbs */
+.cell-content .cell-preview .theme-integration-breadcrumbs {
+    margin-bottom: 20px;
+}
+
+/* Cell Backend Output - Header Right Widget Area */
+.cell-content .cell-preview .theme-integration-header-right-widget-area {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Cell Backend Output - Theme Integration Menu */
+.cell-content .cell-preview .theme-integration-menu {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Cell Backend Output - Site title */
+.cell-content .cell-preview .theme-integration-title-area {
+    margin-bottom: 20px;
+}
+
+.cell-content .cell-preview .theme-integration-title-area h1 {
+    margin: 0;
+    text-decoration: underline;
+}
+
+/* Fix for Genesis Widget style in Layouts Cell Widget */
+.genesis-widget-column input[type="text"],
+.genesis-widget-column select {
+    max-width: 100% !important;
+}
+
+.genesis-widget-column label {
+    max-width: 100% !important;
+}

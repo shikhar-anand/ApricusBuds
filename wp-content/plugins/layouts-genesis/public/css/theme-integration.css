@@ -1,0 +1,174 @@
+/* Genesis 2.4 */
+nav .wrap,
+.site-footer .wrap {
+    padding: 0;
+}
+
+.site-inner {
+    padding: 0;
+    max-width: 100%;
+}
+
+.content {
+    float: none !important;
+    width: 100% !important;
+}
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9,
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9,
+.col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9,
+.col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+}
+
+.container {
+    padding: 0;
+    max-width: 100%;
+}
+
+@media (min-width: 1200px) {
+    .site-inner, .wrap {
+        margin: 0 auto;
+    }
+}
+
+
+/* Site Header Navigation */
+.header-widget-area {
+    float: right;
+    text-align: right;
+}
+
+.header-widget-area .sub-menu .sub-menu {
+    margin-top: -56px;
+}
+
+.header-widget-area .genesis-nav-menu li li {
+    margin-left: 0;
+}
+
+/* Search Bar */
+.theme-integration-one-row {
+    opacity: 0;
+}
+
+
+/* Pagination */
+.archive-pagination.pagination {
+    width: 100%
+}
+
+/* Footer - Backtotop Button */
+.theme-integration-footer-backtotop-fixed {
+    position: fixed;
+    bottom: 5%;
+    right: 0;
+    z-index: 1000;
+}
+
+.theme-integration-footer-backtotop-fixed.button {
+    display: none;
+    opacity: 0;
+}
+
+.theme-integration-footer-backtotop-fixed.button a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Sidebar */
+.sidebar-primary {
+    width: 100%;
+}
+
+/* Make sure Datepicker has padding set for select. layouts-569 */
+.ui-datepicker.ui-helper-clearfix select {
+    padding: 0;
+}
+
+/* News Pro Theme - Genesis Child Theme */
+.header-full-width .title-area {
+    padding: 40px;
+}
+
+/** WooCommerce Fixes **/
+.wpv-sort-list-dropdown.wpv-sort-list-order-dropdown {
+    width: 6em!important;
+    margin-left: 2px;
+}
+
+.woocommerce .woocommerce-ordering span.wpv-sort-list-item.wpv-sort-list-order-item.wpv-sort-list-current.js-wpv-sort-list-item {
+    width: 100%!important;
+}
+
+.woocommerce .woocommerce-ordering .wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {
+    width: 100%!important;
+}
+
+.woocommerce a.wpv-archive-pagination-prev-link.js-wpv-archive-pagination-prev-link, .woocommerce a.wpv-archive-pagination-next-link.js-wpv-archive-pagination-next-link {
+    margin: 0;
+    text-decoration: none;
+    line-height: 1;
+    font-size: 1em;
+    font-weight: 400;
+    padding: .5em;
+    min-width: 1em;
+    border: 1px solid #d3ced2;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 1px!important;
+}
+
+a.wpv-archive-pagination-prev-link.js-wpv-archive-pagination-prev-link {
+    border-right: none!important;
+    margin-right: -6px!important;
+}
+
+.woocommerce a.wpv-archive-pagination-next-link.js-wpv-archive-pagination-next-link {
+    border-left: none!important;
+    margin-left: -6px!important;
+}
+
+.woocommerce span.wpv-archive-pagination-link.wpv-archive-pagination-link-current {
+    background: #ebe9eb;
+    color: #8a7e88;
+}
+
+.wcviews_onsale_wrap {
+    float: right;
+}
+
+.woocommerce ul.products li.product .onsale, .woocommerce-page ul.products li.product .onsale {
+    left: auto;
+}
+
+.woocommerce div.product div.images {
+    width: auto!important;
+}
+
+.single-product .wc-onsale span.onsale {
+    top: -.5em;
+    left: -.5em;
+}
+
+.single-product .wc-onsale .wcviews_onsale_wrap {
+    float: left;
+}
+
+.star-rating.wc_views_star_rating {
+    float: left!important;
+}
+
+.single-product .related.products .star-rating.wc_views_star_rating {
+    float: none!important;
+}
+
+.single-product .upsells.products .star-rating.wc_views_star_rating {
+    float: none!important;
+}
+
+.archive.woocommerce .star-rating.wc_views_star_rating {
+    float: none!important;
+}

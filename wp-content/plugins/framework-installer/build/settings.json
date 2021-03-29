@@ -1,0 +1,62 @@
+{
+  "skip_tasks": false,
+  "debug_mode": false,
+  "temp_dir": "/tmp",
+  "project": {
+    "namespace": "toolset",
+    "projectSlug": "framework-installer",
+    "productId": "framework-installer",
+    "develop_branch": "develop",
+    "master_branch": "master"
+  },
+  "gitlab": {
+    "apiUrl": "https://git.onthegosystems.com/api/v3/"
+  },
+  "phpunit": {
+    "tests": {
+      "path": "./"
+    }
+  },
+  "deploy": {
+    "del": [
+      "build",
+      "docs",
+      "node_modules",
+      "tests",
+
+      ".*",
+
+      "composer.*",
+      "gulpfile.js",
+      "package.json",
+      "phpcs.xml",
+      "phpunit.xml",
+      "package.json",
+
+      "recreate_classmap.sh",
+
+      "vendor/bin",
+      "vendor/**/*/.*",
+      "vendor/**/*/composer.*",
+      "vendor/**/*/test",
+      "vendor/**/*/tests",
+
+      "vendor/composer/installers",
+      "vendor/wimg",
+      "vendor/xrstf",
+
+      "!changelog.md",
+      "!license.txt",
+      "!readme.txt",
+      "!vendor/**/*/lib/test*",
+      "!vendor/**/*/src/test*"
+    ],
+
+    "searchReplace": [
+      {
+        "match": "\/\\*\\* {ENCRYPTION PATCH HERE} \\*\\*\/",
+        "replacement": ""
+      }
+    ]
+  }
+}

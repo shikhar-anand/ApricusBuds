@@ -1,0 +1,17 @@
+/*Layouts css goes here*/
+.layouts-content {
+    padding-top: 60px;
+}
+
+.pagination ul {
+    list-style: none;
+    display: inline-block;
+}
+
+span.wpv-archive-pagination-link.wpv-archive-pagination-link-current {
+    display: inline-block;
+    font-size: 16px;
+    font-size: 1.6rem;
+    padding-right: 10px;
+    text-decoration: none;
+}
