@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#stortech-ui-tabs").tabs()});

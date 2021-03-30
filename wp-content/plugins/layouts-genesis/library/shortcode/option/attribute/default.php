@@ -1,5 +1,0 @@
-<?php
-
-class Layouts_Integration_Shortcode_Option_Attribute_Default
-	extends Layouts_Integration_Shortcode_Option_Attribute_Abstract {
-}
