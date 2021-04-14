@@ -1,0 +1,209 @@
+/**
+ *	Code for Blog Layouts
+ */
+ 
+body {
+	#primary {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	article {
+		margin-bottom: 1.5em;
+		.entry-meta, .entry-footer {
+			a {
+				text-decoration: none;
+			}
+		}
+		.olively-thumb {
+			img {
+				overflow: hidden;
+			}
+		}
+		.entry-title {
+			margin-top: 0;
+			a {
+				font-weight: 600;
+			}
+		}
+		.entry-meta {
+			@extend %heading-font;
+			margin-bottom: 1em;
+			margin-top: 0;
+			& > span {
+				margin-right: 1em;
+				padding: .5em 1em .75em;
+			}
+			a {
+				color: lightness(white, -40%);
+				text-transform: uppercase;
+				font-size: .75em;
+				letter-spacing: .1em;
+			}
+			i {
+				position: relative;
+				color: $primary;
+				margin-right: .5em;
+				font-size: 1.2em;
+				margin-bottom: -5px;
+				bottom: -1px;
+			}
+		}
+		.post-thumbnail {
+			margin-top: 1em;
+		}
+		&.olively-blog {
+			padding-right: 1em;
+			.wp-post-image {
+				@include transition(box-shadow 300ms $standard);
+				&:hover {
+					box-shadow: $shadow2;
+				}
+			}
+		}
+		.olively-read-more {
+			margin-top: 1.5em;
+		}
+		.more-link {
+			@extend .olively-btn;
+			@extend .primary;
+			font-size: .75em;
+		}
+		.entry-footer {
+			@extend %heading-font;
+			text-transform: uppercase;
+			font-size: .75em;
+			font-weight: 400;
+			margin-top: 2em;
+			* {
+				margin-bottom: .5em;
+			}
+			.cat-links,.tags-links  {
+				font-weight: 600;
+				@media screen and (max-width: 767px) {
+					text-align: center;
+				}
+				a {
+					display: inline-block;
+					padding: 1em 1.25em;
+					margin: auto .5em;
+					line-height: 1;
+					margin-bottom: .75em;
+					background-color: lightness(white, -3%);
+					color: $primary;
+					@extend .shadow1;
+					//margin: auto 2em;
+				}
+			}
+		}
+		// Blog Layout
+		&.olively-blog {
+			margin-bottom: 4em;
+			text-align: center;
+			.entry-title {
+				a {
+					@include line-clamp(1);
+				}
+			}
+		}
+		// List Layouts
+		&.olively-list {
+			margin-bottom: 4em;
+			.list-wrapper {
+				display: flex;
+				align-items: center;
+				width: 100%;
+			}
+			.olively-thumb {
+				@media screen and (max-width: 767px) {
+					margin-bottom: 1em;
+				}
+			}
+			.olively-list-content {
+				padding: 1.5em;
+				border: solid 1px #eeeeee;
+				border-left: 0;
+			}
+			h3.entry-title {
+				font-size: 1.5em;
+				a {
+					display: inline-block;
+					font-weight: 600;
+				}
+			}
+			.entry-meta {
+				& > span {
+					padding-left: 0;
+					a {
+						text-overflow: ellipsis;
+						word-wrap: break-all;
+					}
+				}
+			}
+			.entry-content {
+				@include line-clamp(2);
+			}
+		}
+		// Card Layout
+		&.olively-card {
+			float: left;
+			.olively-thumb {
+				position: relative;
+				z-index: 0;
+				.card-posted-on {
+					position: absolute;
+					top: 0;
+					right: 0;
+					background: alpha($primary, -0.5);
+					@extend %heading-font;
+					font-weight: 400;
+					text-transform: uppercase;
+					padding: .25em .75em;
+					color: white;
+					.card-date {
+						font-size: 1.5em;
+					}
+					.card-month {
+						font-size: .8em;
+					}
+				}
+			}
+			.olively_card_desc {
+				display: block;
+				width: 70%;
+				margin: auto;
+				box-shadow: $shadow1;
+				@include transform(translateY(-2.5em));
+				background-color: white;
+				padding: 1em;
+				.olively_card_cat {
+					margin-bottom: .5em;
+					a {
+						display: inline-block;
+						background-color: $primary-light;
+						border-radius: 1.4em;
+						line-height: 1.5em;
+						font-size: .85em;
+						padding: .6em 1em;
+						margin-bottom: .5em;
+					}
+				}
+				.olively_card_excerpt {
+					font-size: 0.9em;
+					margin: .5em auto 1.2em;
+					@include line-clamp(4);
+					line-height: 1.8em;
+				}
+				.olively_card_meta {
+					border-top: solid 2px $primary-light;
+					padding-top: .5em;
+					display: flex;
+					font-size: .7em;
+					.card-posted-on {
+						margin-left: auto;
+					}
+				}
+			}
+		}
+	}
+	
+}

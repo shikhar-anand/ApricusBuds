@@ -220,7 +220,12 @@ function blossom_travel_dynamic_css(){
 	.site-footer .widget_bttk_popular_post .style-three li .entry-meta span > a:hover, 
 	.site-footer .widget_bttk_pro_recent_post .style-three li .entry-meta span > a:hover, 
 	.site-footer .widget_bttk_popular_post .style-three li .entry-header .entry-title a:hover, 
-	.site-footer .widget_bttk_pro_recent_post .style-three li .entry-header .entry-title a:hover {
+	.site-footer .widget_bttk_pro_recent_post .style-three li .entry-header .entry-title a:hover,
+	.entry-content a:hover,
+	.entry-summary a:hover,
+	.page-content a:hover,
+	.comment-content a:hover,
+	.widget .textwidget a:hover {
 		color: ' . blossom_travel_sanitize_hex_color( $primary_color ) . ';
 	}
 

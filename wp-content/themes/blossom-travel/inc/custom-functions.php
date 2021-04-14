@@ -294,6 +294,10 @@ function blossom_travel_body_classes( $classes ) {
     if( is_single() ){
         $classes[] = 'single-lay-one';
     }
+
+    if( is_single() || is_page() ){
+        $classes[] = 'underline';
+    }
     
 	return $classes;
 }

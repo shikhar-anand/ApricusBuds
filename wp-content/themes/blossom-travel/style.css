@@ -4,10 +4,10 @@ Theme URI: https://blossomthemes.com/wordpress-themes/blossom-travel/
 Author: Blossom Themes
 Author URI: https://blossomthemes.com/
 Description: Blossom Travel is a free WordPress theme which allows you to create various types of feminine blogs such as travel blog, personal blog, fashion blog, beauty blog, and many more. You can create a professional and chic friendly travel and other feminine blog with this theme without writing a single line of code. It is a fully responsive theme which will display your content accurately on every device. This theme features a creative design combined with eye-catching color combination which will make your reader come back again and again on your blog. Blossom Travel features multiple customization options to allow you to customize your website as per your desire via the WordPress Customizer. This theme features a great design on the front-end and easy to use content management system on the back-end. This theme features dedicated sections for Instagram and Email Subscription to help you grow your Instagram followers and Email list. Furthermore, it is a speed optimized theme which provides a great user experience to your visitors while browsing your website. The ultra SEO optimized & Schema.org ready codes help your website rank at the top in Google and other search engine results. This theme comes with a step-by-step extensive documentation guide to help you build your blog from scratch. Also, it is backed up by a quick, responsive and friendly support team to help you solve your theme related queries in no time. Check theme details at https://blossomthemes.com/downloads/blossom-travel-free-wordpress-theme/, demo at https://blossomthemes.com/theme-demo/?theme=blossom-travel/, read the documentation at https://docs.blossomthemes.com/docs/blossom-travel/, and get support at https://blossomthemes.com/support-ticket/.
-Version: 1.1.1
+Version: 1.1.2
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Tested up to: 5.6
+Tested up to: 5.7
 Requires PHP: 5.6
 Text Domain: blossom-travel
 Tags: blog, one-column, two-columns, right-sidebar, left-sidebar, footer-widgets, custom-background, custom-header, custom-menu, custom-logo, featured-images, threaded-comments, full-width-template, rtl-language-support, translation-ready, theme-options, e-commerce
@@ -7351,8 +7351,25 @@ RESPONSIVE STYLESHEET
 
 
 /* Design fixes in portfolio */
-
 .page-template-blossom-portfolio .portfolio-holder {
 	margin-bottom: 65px;
     margin-top: 65px;
+}
+
+/* Single post and single page underline fixes */
+.entry-content a,
+.entry-summary a,
+.page-content a,
+.comment-content a,
+.widget .textwidget a {
+	color: #343434;
+    text-decoration: underline;
+}
+.entry-content a:hover,
+.entry-summary a:hover,
+.page-content a:hover,
+.comment-content a:hover,
+.widget .textwidget a:hover {
+	color: #88ced0;
+    text-decoration: underline;
 }

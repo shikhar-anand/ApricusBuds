@@ -161,7 +161,7 @@ function blossom_travel_get_posts_list( $status ){
     if( $qry->have_posts() ){ ?>    
         <div class="<?php echo esc_attr( $class ); ?>">
     		<?php 
-            if( $title ) echo '<h3 class="post-title">' . esc_html( $title ) . '</h2>'; ?>
+            if( $title ) echo '<h3 class="post-title">' . esc_html( $title ) . '</h3>'; ?>
             <div class="section-grid">
                 <?php while( $qry->have_posts() ){ $qry->the_post(); ?>
                 <article class="post">

@@ -3,8 +3,8 @@
 Contributors: blossomthemes
 Requires at least: 4.7
 Requires PHP: 5.6
-Tested up to: 5.6
-Stable tag: 1.1.1
+Tested up to: 5.7
+Stable tag: 1.1.2
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Tags: blog, one-column, two-columns, right-sidebar, left-sidebar, footer-widgets, custom-background, custom-header, custom-menu, custom-logo, featured-images, threaded-comments, full-width-template, rtl-language-support, translation-ready, theme-options, e-commerce
@@ -52,15 +52,15 @@ Icons License: CC BY 4.0
 Fonts License: SIL OFL 1.1
 Source: http://fontawesome.io/
 
-Selectize, Copyright © 2013–2016 Brian Reavis & Contributors
+Selectize, Copyright Â© 2013â€“2016 Brian Reavis & Contributors
 License: Apache License, Version 2.0
 Source: https://github.com/selectize/selectize.js
 
-Sifter, Copyright © 2013–2015 Brian Reavis & Contributors
+Sifter, Copyright Â© 2013â€“2015 Brian Reavis & Contributors
 License: Apache License, Version 2.0
 Source: https://github.com/brianreavis/sifter.js/
 
-Microplugin, Copyright © 2013 Brian Reavis & Contributors
+Microplugin, Copyright Â© 2013 Brian Reavis & Contributors
 License: Apache License, Version 2.0
 Source: https://github.com/brianreavis/microplugin.js
 
@@ -92,6 +92,11 @@ All other images including icon image used in screenshot and images used in cust
 
 == Changelog ==
     
+    1.1.2 - March 26, 2021
+        * Fixed: related posts header closing tag
+        * Fixed: jQuery deprecated warnings
+        * Added: link underline in single post and in single page
+
     1.1.1 - January 07, 2021
         * Fixed: starter content issue
 
@@ -138,7 +143,7 @@ All other images including icon image used in screenshot and images used in cust
         * Fixed: Name of recommended plugin
         * Fixed: Issue of breadcrumb
         * Fixed: Custom header issue in blog 
-    	* Fixed: Issue of sidebar in search
+        * Fixed: Issue of sidebar in search
 
     1.0.1
         * Fixed: Issues of readme validater
@@ -151,7 +156,7 @@ All other images including icon image used in screenshot and images used in cust
         * Added: Updated on text in single and blog
         * Added: Options to change the related project title
         * Added: wp_body_open tag
-	    * Added: CTA to add site link for social share
+        * Added: CTA to add site link for social share
         * Improved: Related article category font size
         * Improved: Footer link changed
         * Improved: Documentation link changed

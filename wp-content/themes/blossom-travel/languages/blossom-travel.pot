@@ -2,15 +2,26 @@
 # This file is distributed under the GNU General Public License v3 or later.=!>
 msgid ""
 msgstr ""
-"Project-Id-Version: Blossom Travel 1.1.1\n"
+"Project-Id-Version: Blossom Travel 1.1.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blossom-travel\n"
-"POT-Creation-Date: 2021-01-07 07:24:15+00:00\n"
+"POT-Creation-Date: 2021-03-26 07:18:49+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
 "X-Generator: grunt-wp-i18n 1.0.3\n"
 
 #: 404.php:14
@@ -354,65 +365,65 @@ msgstr ""
 msgid "Start Now"
 msgstr ""
 
-#: inc/custom-functions.php:327
+#: inc/custom-functions.php:331
 msgid "Name*"
 msgstr ""
 
-#: inc/custom-functions.php:329
+#: inc/custom-functions.php:333
 msgid "Email*"
 msgstr ""
 
-#: inc/custom-functions.php:331
+#: inc/custom-functions.php:335
 msgid "Website"
 msgstr ""
 
-#: inc/custom-functions.php:344
+#: inc/custom-functions.php:348
 msgid "Comment"
 msgstr ""
 
-#: inc/custom-functions.php:345
+#: inc/custom-functions.php:349
 msgid "Leave A Comment"
 msgstr ""
 
-#: inc/custom-functions.php:390
+#: inc/custom-functions.php:394
 msgid "Category"
 msgstr ""
 
-#: inc/custom-functions.php:397
+#: inc/custom-functions.php:401
 msgid "Tags"
 msgstr ""
 
-#: inc/custom-functions.php:403
+#: inc/custom-functions.php:407
 msgid "Year"
 msgstr ""
 
-#: inc/custom-functions.php:409
+#: inc/custom-functions.php:413
 msgid "Month"
 msgstr ""
 
-#: inc/custom-functions.php:415
+#: inc/custom-functions.php:419
 msgid "Day"
 msgstr ""
 
-#: inc/custom-functions.php:421
+#: inc/custom-functions.php:425
 msgid "Archives"
 msgstr ""
 
-#: inc/custom-functions.php:572
+#: inc/custom-functions.php:576
 msgid "Congratulations!"
 msgstr ""
 
-#: inc/custom-functions.php:573
+#: inc/custom-functions.php:577
 msgid ""
 "%1$s is now installed and ready to use. Click below to see theme "
 "documentation, plugins to install and other details to get started."
 msgstr ""
 
-#: inc/custom-functions.php:574
+#: inc/custom-functions.php:578
 msgid "Go to the getting started."
 msgstr ""
 
-#: inc/custom-functions.php:575
+#: inc/custom-functions.php:579
 msgid "Dismiss"
 msgstr ""
 
@@ -2124,17 +2135,17 @@ msgctxt "header image description"
 msgid "Default Banner"
 msgstr ""
 
-#: inc/custom-functions.php:401 inc/custom-functions.php:403
+#: inc/custom-functions.php:405 inc/custom-functions.php:407
 msgctxt "yearly archives date format"
 msgid "Y"
 msgstr ""
 
-#: inc/custom-functions.php:407 inc/custom-functions.php:409
+#: inc/custom-functions.php:411 inc/custom-functions.php:413
 msgctxt "monthly archives date format"
 msgid "F Y"
 msgstr ""
 
-#: inc/custom-functions.php:413 inc/custom-functions.php:415
+#: inc/custom-functions.php:417 inc/custom-functions.php:419
 msgctxt "daily archives date format"
 msgid "F j, Y"
 msgstr ""
