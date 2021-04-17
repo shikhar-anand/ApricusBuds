@@ -6,7 +6,7 @@ Tags: table, table builder, data tables, tables, charts, simple table, tables fr
 Requires at least: 4.0
 Tested up to: 5.7
 Requires PHP: 5.6
-Stable tag: 2.1.10
+Stable tag: 2.1.11
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -204,6 +204,13 @@ This can be changed from the “Number format” drop-down menu in the wpDataTab
 12. Google chart settings
 
 == Changelog ==
+
+= 2.1.11 =
+* BugFix: Fixed issue with not showing simple editor on Safari browser
+* BugFix: Fixed issue with welcome page on bulk plugin activation
+* BugFix: Fixed some PHP Notice messages
+* BugFix: Fixed issue with table borders in simple table
+* Other small bug fixes and stability improvements.
 
 = 2.1.10 =
 * Feature: Add new option for creating 3D pie chart

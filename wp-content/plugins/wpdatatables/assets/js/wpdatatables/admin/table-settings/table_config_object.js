@@ -88,6 +88,7 @@ var wpdatatable_config = {
             case 'xml':
             case 'json':
             case 'serialized':
+                jQuery('.placeholders-settings-tab').animateFadeIn();
                 jQuery('.wdt-table-settings #wdt-browse-button').removeClass('hidden');
                 if( jQuery('.wdt-table-settings .input-path-block').hasClass('hidden') ) {
                     jQuery('.wdt-table-settings .input-path-block').animateFadeIn();

@@ -20,6 +20,7 @@
            data-has-header="<?php echo $this->getTableSettingsData()->simpleHeader ?>">
 
         <?php
+        $isResponsive = $this->getTableSettingsData()->simpleResponsive;
         $isStripe = $this->getTableSettingsData()->stripeTable;
         $toggleClass = $isStripe ? 'even' : '';
         $header = $this->getTableSettingsData()->simpleHeader;
@@ -44,8 +45,7 @@
         <tr class="wpdt-cell-row <?php echo $toggleClass ?>" <?php if (isset($this->getRowsData()[$i]->height)) echo 'style="height:' . $this->getRowsData()[$i]->height . 'px;"'; ?>>
             <?php for ($j = 0; $j < $this->getColNumber(); $j++) {
                 $cellMetaClasses = $this->getCellClassesByIndexes($this->getRowsData(), $i, $j) ? implode(" ", $this->getCellClassesByIndexes($this->getRowsData(), $i, $j)) : "";
-                $cellMetaClasses .= $this->getCellDataByIndexes($this->getRowsData(), $i, $j) == "" ? " wpdt-empty-cell" : "";
-                $cellMetaClasses = apply_filters('wpdt_filter_simple_table_cell_meta', $cellMetaClasses, $i, $j, $this->getTableID());
+                $cellMetaClasses .= $this->getCellDataByIndexes($this->getRowsData(), $i, $j) == "" ? " wpdt-empty-cell " : "";
 
                 $hiddenCell = $this->getHiddenCellByIndexes($this->getRowsData(), $i, $j) ? 'hidden' : "";
                 $colspanValue = 1;
@@ -58,7 +58,12 @@
                     $colspanAttr = 'colspan="' . $colspanValue . '"';
                     $rowspanAttr = 'rowspan="' . $rowspanValue . '"';
                     $hiddenCell = "";
+                    $cellMetaClasses .= " wpdt-merged-cell ";
                 }
+
+                $cellMetaClasses = apply_filters('wpdt_filter_simple_table_cell_meta', $cellMetaClasses, $i, $j, $this->getTableID());
+
+                if (($hiddenCell == 'hidden' && $isResponsive) || $hiddenCell != 'hidden'){
                 ?>
                 <<?php echo $tag ?> class="wpdt-cell <?php echo $cellMetaClasses ?>"
                 <?php echo ' ' . $colspanAttr . ' ' . $hiddenCell . ' ' . $rowspanAttr . ' ' ?>
@@ -105,6 +110,7 @@
                 ?>
                 <?php echo $cellData ?>
                 </<?php echo $tag ?>>
+                <?php } ?>
             <?php } ?>
             </tr>
         <?php } ?>

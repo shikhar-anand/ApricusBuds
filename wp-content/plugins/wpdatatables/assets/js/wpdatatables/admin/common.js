@@ -264,7 +264,7 @@ jQuery.fn.extend({
                     $('.wdt-button-minus').attr('disabled', false);
                 }
             } else {
-                input.val(0);
+                input.val(0).change();;
             }
         });
         $(".input-number").on("keydown", function (e) {

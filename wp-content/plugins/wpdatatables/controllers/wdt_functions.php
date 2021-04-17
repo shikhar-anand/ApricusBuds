@@ -646,11 +646,13 @@ function wdtFuncsShortcodeHandler($atts, $content = null, $shortcode = null) {
     return $aggregateFunctionsHtml;
 
 }
-function wdtRenderScriptStyleBlock() {
+
+
+function wdtRenderScriptStyleBlock($tableID) {
     $customJs = get_option('wdtCustomJs');
     $scriptBlockHtml = '';
     $styleBlockHtml = '';
-    $wpDataTable = new WPDataTable();
+    $wpDataTable = WDTConfigController::loadTableFromDB($tableID,false);
 
     if ($customJs) {
         $scriptBlockHtml .= '<script type="text/javascript">' . stripslashes_deep(html_entity_decode($customJs)) . '</script>';
@@ -664,7 +666,7 @@ function wdtRenderScriptStyleBlock() {
         include WDT_TEMPLATE_PATH . 'frontend/style_block.inc.php';
         $styleBlockHtml = ob_get_contents();
         ob_end_clean();
-        $styleBlockHtml = apply_filters('wpdatatables_filter_style_block', $styleBlockHtml, $wpDataTable->getWpId());
+        $styleBlockHtml = apply_filters('wpdatatables_filter_style_block', $styleBlockHtml, $wpDataTable->id);
     }
 
     $returnHtml .= $styleBlockHtml;
@@ -791,7 +793,7 @@ function welcome_page_activation_redirect( $plugin ) {
     $filePathArr = explode('/', $filePath);
     $wdtPluginSlug = $filePathArr[0] . '/wpdatatables.php';
 
-    if( $plugin == plugin_basename( $wdtPluginSlug ) ) {
+    if( $plugin == plugin_basename( $wdtPluginSlug ) && (isset($_GET['action']) && $_GET['action'] == 'activate')) {
         exit( wp_redirect( admin_url( 'admin.php?page=wpdatatables-welcome-page' ) ) );
     }
 }

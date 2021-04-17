@@ -1551,7 +1551,7 @@ class WPDataTable
         }
         $returnData .= "</style>\n";
 
-        $returnData .= wdtRenderScriptStyleBlock();
+        $returnData .= wdtRenderScriptStyleBlock($this->getWpId());
         return $returnData;
     }
 

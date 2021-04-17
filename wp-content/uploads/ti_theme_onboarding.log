@@ -1,27 +1,28 @@
-[14/Apr/2021:15:55:57] (I): WordPress Instance Info:
-[14/Apr/2021:15:55:57] (I): Home URL : https://apricustravel2.azurewebsites.net
-[14/Apr/2021:15:55:57] (I): Site URL : https://apricustravel2.azurewebsites.net
-[14/Apr/2021:15:55:57] (I): WordPress Version : 5.7
-[14/Apr/2021:15:55:57] (I): Onboarding Version : 1.1.7
-[14/Apr/2021:15:55:57] (I): Multisite : No
-[14/Apr/2021:15:55:57] (I): Server Info : Microsoft-IIS/10.0
-[14/Apr/2021:15:55:57] (I): PHP Version : 7.3.27
-[14/Apr/2021:15:55:57] (I): HTTPS : Yes
-[14/Apr/2021:15:55:57] (I): PHP Max Execution Time : 0
-[14/Apr/2021:15:55:57] (I): PHP Max Input Vars : 1000
-[14/Apr/2021:15:55:57] (I): Max Upload Size : 52428800
-[14/Apr/2021:15:55:57] (I): Plugins:
-[14/Apr/2021:15:55:57] (I): [PLUGIN] All-in-One WP Migration : v6.68 (ServMask)
-[14/Apr/2021:15:55:57] (I): [PLUGIN] Breadcrumb NavXT : v6.6.0 (John Havlik)
-[14/Apr/2021:15:55:57] (I): [PLUGIN] Duplicate Page : v4.4 (mndpsingh287)
-[14/Apr/2021:15:55:57] (I): [PLUGIN] Easy Google Fonts : v1.4.4 (Titanium Themes)
-[14/Apr/2021:15:55:57] (I): [PLUGIN] Elementor : v3.1.4 (Elementor.com)
-[14/Apr/2021:15:55:57] (I): [PLUGIN] Hello Dolly : v1.7.2 (Matt Mullenweg)
-[14/Apr/2021:15:55:57] (I): [PLUGIN] Magic Liquidizer Responsive Table : v2.0.4 (Elvin D.)
-[14/Apr/2021:15:55:57] (I): [PLUGIN] Password Protected : v2.4 (Ben Huson)
-[14/Apr/2021:15:55:57] (I): [PLUGIN] Popup Maker : v1.16.1 (Popup Maker)
-[14/Apr/2021:15:55:57] (I): [PLUGIN] TablePress Extension: Responsive Tables : v1.8 (Tobias Bäthge)
-[14/Apr/2021:15:55:57] (I): [PLUGIN] TablePress : v1.13 (Tobias Bäthge)
-[14/Apr/2021:15:55:57] (I): [PLUGIN] Templates Patterns Collection : v1.1.7 (ThemeIsle)
-[14/Apr/2021:15:55:57] (I): [PLUGIN] Orbit Fox Companion : v2.10.4 (Themeisle)
-[14/Apr/2021:15:55:57] (I): [PLUGIN] Yoast SEO : v16.0.2 (Team Yoast)
+[17/Apr/2021:05:54:59] (I): WordPress Instance Info:
+[17/Apr/2021:05:54:59] (I): Home URL : https://apricustravel2.azurewebsites.net
+[17/Apr/2021:05:54:59] (I): Site URL : https://apricustravel2.azurewebsites.net
+[17/Apr/2021:05:54:59] (I): WordPress Version : 5.7.1
+[17/Apr/2021:05:54:59] (I): Onboarding Version : 1.1.7
+[17/Apr/2021:05:54:59] (I): Multisite : No
+[17/Apr/2021:05:54:59] (I): Server Info : Microsoft-IIS/10.0
+[17/Apr/2021:05:54:59] (I): PHP Version : 7.3.27
+[17/Apr/2021:05:54:59] (I): HTTPS : Yes
+[17/Apr/2021:05:54:59] (I): PHP Max Execution Time : 0
+[17/Apr/2021:05:54:59] (I): PHP Max Input Vars : 1000
+[17/Apr/2021:05:54:59] (I): Max Upload Size : 52428800
+[17/Apr/2021:05:54:59] (I): Plugins:
+[17/Apr/2021:05:54:59] (I): [PLUGIN] All-in-One WP Migration : v6.68 (ServMask)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] Breadcrumb NavXT : v6.6.0 (John Havlik)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] Duplicate Page : v4.4 (mndpsingh287)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] Easy Google Fonts : v1.4.4 (Titanium Themes)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] Elementor : v3.1.4 (Elementor.com)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] Hello Dolly : v1.7.2 (Matt Mullenweg)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] Magic Liquidizer Responsive Table : v2.0.4 (Elvin D.)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] Password Protected : v2.4 (Ben Huson)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] Popup Maker : v1.16.1 (Popup Maker)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] TablePress Extension: Responsive Tables : v1.8 (Tobias Bäthge)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] TablePress : v1.13 (Tobias Bäthge)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] Templates Patterns Collection : v1.1.7 (ThemeIsle)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] Orbit Fox Companion : v2.10.4 (Themeisle)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] Yoast SEO : v16.1.1 (Team Yoast)
+[17/Apr/2021:05:54:59] (I): [PLUGIN] WP Mapbox GL JS Maps : v3.0.0 (Mapster Tech)

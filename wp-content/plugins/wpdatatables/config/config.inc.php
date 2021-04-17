@@ -9,7 +9,7 @@ defined('ABSPATH') or die("Cannot access pages directly.");
 
 // Current version
 
-define('WDT_CURRENT_VERSION', '2.1.10');
+define('WDT_CURRENT_VERSION', '2.1.11');
 
 /**
  * Regular Expressions

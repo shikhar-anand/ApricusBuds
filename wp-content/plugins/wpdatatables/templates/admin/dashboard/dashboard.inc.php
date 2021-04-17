@@ -342,14 +342,10 @@ $tableChartsCount = WDTTools::getTablesCount('chart');
                         <div class="alert alert-info m-b-0" role="alert">
                             <i class="wpdt-icon-info-circle-full"></i>
                             <ul>
-                                <li> <?php _e('<strong>Feature:</strong> Add new option for creating 3D pie chart.', 'wpdatatables'); ?></li>
-                                <li> <?php _e('<strong>Feature:</strong> Search for tables and charts using ID on browse pages.', 'wpdatatables'); ?></li>
-                                <li> <?php _e('<strong>Improvement:</strong> Added auto-save functionality after insert media in Simple tables.', 'wpdatatables'); ?></li>
-                                <li> <?php _e('<strong>Improvement:</strong> Added German translation', 'wpdatatables'); ?></li>
-                                <li> <?php _e('<strong>Bugfix:</strong> Fixed issue with Fatal errors if allow_url_fopen is turned off on server.', 'wpdatatables'); ?></li>
-                                <li> <?php _e('<strong>BugFix:</strong> Fixed issue with loading simple table preview after clicking on back button in browser from some pages.', 'wpdatatables'); ?></li>
-                                <li> <?php _e('<strong>BugFix:</strong> Fixed issue with inserting “px” in column width option.', 'wpdatatables'); ?></li>
-                                <li> <?php _e('Compatibility with WordPress 5.7 approved.', 'wpdatatables'); ?></li>
+                                <li> <?php _e('<strong>Bugfix:</strong> Fixed issue with not showing simple editor on Safari browser.', 'wpdatatables'); ?></li>
+                                <li> <?php _e('<strong>BugFix:</strong> Fixed issue with welcome page on bulk plugin activation.', 'wpdatatables'); ?></li>
+                                <li> <?php _e('<strong>BugFix:</strong> Fixed some PHP Notice messages.', 'wpdatatables'); ?></li>
+                                <li> <?php _e('<strong>BugFix:</strong> Fixed issue with table borders in simple table.', 'wpdatatables'); ?></li>
                                 <li> <?php _e('Other small bug fixes and stability improvements.', 'wpdatatables'); ?></li>
                             </ul>
                         </div>

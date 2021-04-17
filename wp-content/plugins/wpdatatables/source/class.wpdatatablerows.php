@@ -259,7 +259,7 @@ class WPDataTableRows
     }
 
     /**
-     * @param string $cellMetaData
+     * @param mixed $cellMetaData
      */
     public function setCellMetaData($cellMetaData)
     {
@@ -446,7 +446,7 @@ class WPDataTableRows
             wp_enqueue_script('wdt-simple-table-responsive-js', WDT_JS_PATH . 'responsive/wdt.simpleTable.responsive.init.js', array('jquery'), WDT_CURRENT_VERSION, true);
         }
 
-        $returnData .= wdtRenderScriptStyleBlock();
+        $returnData .= wdtRenderScriptStyleBlock($this->getTableID());
 
         return $returnData;
     }

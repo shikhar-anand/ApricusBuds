@@ -17,14 +17,6 @@
          */
         if (container.length) {
 
-            var perfEntries = performance.getEntriesByType("navigation");
-
-            // Reload page with simple table editor if is coming from some
-            // page after back button in browser
-            if (perfEntries[0].type === "back_forward") {
-                location.reload();
-            }
-
             var wpdtEditor = new Handsontable(container[0], {
                 startRows: rowNumber,
                 startCols: colNumber,
