@@ -102,16 +102,16 @@
 }
 
 .wp-color-picker::-webkit-input-placeholder {
-	color: #646970;
+	color: #787c82;
 }
 
 .wp-color-picker::-moz-placeholder {
-	color: #646970;
+	color: #787c82;
 	opacity: 1;
 }
 
 .wp-color-picker:-ms-input-placeholder {
-	color: #646970;
+	color: #787c82;
 }
 
 .wp-picker-container input[type="text"].iris-error {

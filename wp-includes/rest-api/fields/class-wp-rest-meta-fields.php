@@ -232,10 +232,6 @@ abstract class WP_REST_Meta_Fields {
 			);
 		}
 
-		if ( null === get_metadata_raw( $meta_type, $object_id, wp_slash( $meta_key ) ) ) {
-			return true;
-		}
-
 		if ( ! delete_metadata( $meta_type, $object_id, wp_slash( $meta_key ) ) ) {
 			return new WP_Error(
 				'rest_meta_database_error',

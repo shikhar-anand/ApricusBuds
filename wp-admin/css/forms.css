@@ -226,16 +226,16 @@ textarea[readonly] {
 }
 
 ::-webkit-input-placeholder {
-	color: #646970;
+	color: #787c82;
 }
 
 ::-moz-placeholder {
-	color: #646970;
+	color: #787c82;
 	opacity: 1;
 }
 
 :-ms-input-placeholder {
-	color: #646970;
+	color: #787c82;
 }
 
 .form-invalid .form-required,
@@ -1317,7 +1317,7 @@ table.form-table td .updated p {
 .status-label.status-request-pending {
 	font-weight: 400;
 	font-style: italic;
-	color: #646970;
+	color: #787c82;
 }
 
 .status-label.status-request-failed {

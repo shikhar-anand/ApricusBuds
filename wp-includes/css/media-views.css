@@ -151,16 +151,16 @@
 }
 
 .media-frame ::-webkit-input-placeholder {
-	color: #646970;
+	color: #787c82;
 }
 
 .media-frame ::-moz-placeholder {
-	color: #646970;
+	color: #787c82;
 	opacity: 1;
 }
 
 .media-frame :-ms-input-placeholder {
-	color: #646970;
+	color: #787c82;
 }
 
 /*

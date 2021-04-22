@@ -68,7 +68,7 @@
 }
 
 #titlediv #title-prompt-text {
-	color: #646970;
+	color: #787c82;
 	position: absolute;
 	font-size: 1.7em;
 	padding: 10px;
@@ -963,11 +963,6 @@ form#tags-filter {
 	input#create-page {
 		margin-top: 10px;
 	}
-
-	.wp-core-ui button.privacy-text-copy {
-		white-space: normal;
-		line-height: 1.8;
-	}
 }
 
 @media only screen and (max-width: 1004px) {
@@ -1441,7 +1436,7 @@ p.popular-tags a {
 	content: "(" attr( href ) ")";
 	display: inline-block;
 	padding: 0 4px;
-	color: #646970;
+	color: #787c82;
 	font-size: 13px;
 	word-break: break-all;
 }

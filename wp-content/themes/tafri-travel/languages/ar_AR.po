@@ -1,0 +1,1219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tafri Travel\n"
+"Language-Team: ThemesEye <support@themeseye.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar\n"
+
+#: 404.php:13
+msgid "Not Found"
+msgstr "لم يتم العثور على"
+
+#: 404.php:14 inc/customizer.php:1627
+msgid ""
+"Looks like you have taken a wrong turn&hellip. Dont worry&hellip it happens "
+"to the best of us."
+msgstr "لم يتم العثور على"
+
+#: 404.php:18 inc/customizer.php:1637
+msgid "Back to Home Page"
+msgstr "يبدو أنك اتخذت منعطفا وهليبا خاطئين. لا تقلق و hellip يحدث لأفضل منا."
+
+#: search.php:21 search.php:40 search.php:61 search.php:79 search.php:101
+msgid "Results For: %s"
+msgstr "نتائج لـ:٪ s"
+
+#: comments.php:28
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "فكرة واحدة عن \"٪ s\""
+
+#: comments.php:38
+msgid "comments title"
+msgstr "عنوان التعليقات"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: footer.php:13 footer.php:15 footer.php:17
+msgid "Scroll Up"
+msgstr "انتقل إلى أعلى"
+
+#: footer.php:61
+msgid "By ThemesEye"
+msgstr "بواسطة ThemesEye"
+
+#: footer.php:62
+msgid "Powered By WordPress"
+msgstr "مدعوم من وورد"
+
+#: functions.php:30
+msgid "Left Menu"
+msgstr "القائمة اليسرى"
+
+#: functions.php:31
+msgid "Right Menu"
+msgstr "القائمة اليمنى"
+
+#: functions.php:32
+msgid "Responsive Menu"
+msgstr "القائمة اليمنى"
+
+#: functions.php:58
+msgid "Blog Sidebar"
+msgstr "مدونة الشريط الجانبي"
+
+#: functions.php:59
+msgid "Appears on blog page sidebar"
+msgstr "القائمة المستجيبة"
+
+#: functions.php:68
+msgid "Page Sidebar"
+msgstr "الشريط الجانبي للصفحة"
+
+#: functions.php:69 functions.php:79
+msgid "Appears on page sidebar"
+msgstr "يظهر على الشريط الجانبي للصفحة"
+
+#: functions.php:78
+msgid "Third Column Sidebar"
+msgstr "الشريط الجانبي للعمود الثالث"
+
+#: functions.php:91
+msgid "Footer "
+msgstr "تذييل"
+
+#: functions.php:102
+msgid "Shop Page Sidebar "
+msgstr "متجر الشريط الجانبي للصفحة"
+
+#: functions.php:103
+msgid "Appears on shop page"
+msgstr "يظهر على صفحة المتجر"
+
+#: functions.php:112
+msgid "Single Product Page Sidebar "
+msgstr "الشريط الجانبي لصفحة منتج واحد"
+
+#: functions.php:113
+msgid "Appears on Single Product Page"
+msgstr "يظهر على صفحة منتج واحد"
+
+#: functions.php:386
+msgid "Travel WordPress Theme"
+msgstr "وورد السفر الموضوع"
+
+#: searchform.php:10 searchform.php:11 searchform.php:13
+msgid "Search"
+msgstr "بحثبحث"
+
+#: searchform.php:11
+msgid "placeholder"
+msgstr "نائب"
+
+#: searchform.php:13
+msgid "submit button"
+msgstr "زر الإرسال"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "أرشيف"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "ميتا"
+
+#: single.php:32 single.php:57 single.php:84 single.php:108 single.php:136
+msgid "Next"
+msgstr "التالى"
+
+#: single.php:33 single.php:58 single.php:84 single.php:109 single.php:137
+msgid "Next post"
+msgstr "المشاركة التالية"
+
+#: single.php:34 single.php:59 single.php:85 single.php:110 single.php:138
+msgid "Previous"
+msgstr "السابق"
+
+#: single.php:35 single.php:60 single.php:86 single.php:111 single.php:139
+msgid "Previous post"
+msgstr "المنشور السابق"
+
+#: template-parts/post/content-audio.php:51
+#: template-parts/post/content-gallery.php:40
+#: template-parts/post/content-image.php:35
+#: template-parts/post/content-video.php:50 template-parts/post/content.php:41
+#: template-parts/post/grid-layout:45 inc/customizer.php:2031
+msgid "READ MORE"
+msgstr "قراءة المزيد"
+
+#: inc/customizer.php:29
+msgid "Theme Settings"
+msgstr "إعدادات الموضوع"
+
+#: inc/customizer.php:30
+msgid "Description of what this panel does."
+msgstr "وصف ما تفعله هذه اللوحة."
+
+#: inc/customizer.php:131
+msgid "Color / Fonts Settings"
+msgstr "إعدادات اللون / الخطوط"
+
+#: inc/customizer.php:141
+msgid "Paragraph Color"
+msgstr "لون الفقرة"
+
+#: inc/customizer.php:155
+msgid "Paragraph Fonts"
+msgstr "خطوط الفقرة"
+
+#: inc/customizer.php:165
+msgid "Paragraph Font Size"
+msgstr "حجم خط الفقرة"
+
+#: inc/customizer.php:177
+msgid "\"a\" Tag Color"
+msgstr "لون العلامة"
+
+#: inc/customizer.php:191
+msgid "\"a\" Tag Fonts"
+msgstr "\"الخطوط\" علامة"
+
+#: inc/customizer.php:202
+msgid "\"li\" Tag Color"
+msgstr "\"لي\" لون العلامة"
+
+#: inc/customizer.php:216
+msgid "\"li\" Tag Fonts"
+msgstr "\"li\" علامة الخطوط"
+
+#: inc/customizer.php:227
+msgid "h1 Color"
+msgstr "h1 اللون"
+
+#: inc/customizer.php:241
+msgid "h1 Fonts"
+msgstr "h1 الخطوط"
+
+#: inc/customizer.php:252
+msgid "h1 Font Size"
+msgstr "حجم الخط h1"
+
+#: inc/customizer.php:264
+msgid "h2 Color"
+msgstr "h2 اللون"
+
+#: inc/customizer.php:278
+msgid "h2 Fonts"
+msgstr "h2 الخطوط"
+
+#: inc/customizer.php:289
+msgid "h2 Font Size"
+msgstr "حجم الخط h2"
+
+#: inc/customizer.php:301
+msgid "h3 Color"
+msgstr "h3 اللون"
+
+#: inc/customizer.php:315
+msgid "h3 Fonts"
+msgstr "h3 الخطوط"
+
+#: inc/customizer.php:326
+msgid "h3 Font Size"
+msgstr "حجم الخط h3"
+
+#: inc/customizer.php:338
+msgid "h4 Color"
+msgstr "h4 اللون"
+
+#: inc/customizer.php:352
+msgid "h4 Fonts"
+msgstr "h4 الخطوط"
+
+#: inc/customizer.php:363
+msgid "h4 Font Size"
+msgstr "حجم الخط h4"
+
+#: inc/customizer.php:375
+msgid "h5 Color"
+msgstr "h5 اللون"
+
+#: inc/customizer.php:389
+msgid "h5 Fonts"
+msgstr "h5 الخطوط"
+
+#: inc/customizer.php:400
+msgid "h5 Font Size"
+msgstr "حجم الخط h5"
+
+#: inc/customizer.php:412
+msgid "h6 Color"
+msgstr "h6 اللون"
+
+#: inc/customizer.php:426
+msgid "h6 Fonts"
+msgstr "h6 الخطوط"
+
+#: inc/customizer.php:437
+msgid "h6 Font Size"
+msgstr "حجم الخط h6"
+
+#: inc/customizer.php:445 inc/customizer.php:453
+msgid "Transparent"
+msgstr "شفاف"
+
+#: inc/customizer.php:450
+msgid "Background Skin Mode"
+msgstr "وضع خلفية الجلد"
+
+#: inc/customizer.php:454
+msgid "Background"
+msgstr "خلفية"
+
+#: inc/customizer.php:461
+msgid "Theme Color Option"
+msgstr "خيار لون الموضوعخيار لون السمة"
+
+#: inc/customizer.php:469
+msgid "First Color Option"
+msgstr "خيار اللون الأول"
+
+#: inc/customizer.php:470 inc/customizer.php:481
+msgid "One can change complete theme color on just one click."
+msgstr "يمكن للمرء تغيير لون موضوع كامل بنقرة واحدة فقط."
+
+#: inc/customizer.php:480
+msgid "Second Color Option"
+msgstr "خيار اللون الثاني"
+
+#: inc/customizer.php:488
+msgid "Shop Page Settings"
+msgstr "إعدادات صفحة المتجر"
+
+#: inc/customizer.php:498
+msgid "Related Product"
+msgstr "المنتجات ذات الصلة"
+
+#: inc/customizer.php:508
+msgid "Product Border"
+msgstr "حدود المنتج"
+
+#: inc/customizer.php:518
+msgid "Total Products Per Columns"
+msgstr "إجمالي المنتجات لكل أعمدة"
+
+#: inc/customizer.php:534
+msgid "Total Products Per Page"
+msgstr "إجمالي المنتجات لكل صفحة"
+
+#: inc/customizer.php:544
+msgid "Product Padding (Top Bottom)"
+msgstr "حشو المنتج (الجزء السفلي العلوي)"
+
+#: inc/customizer.php:559
+msgid "Product Padding (Right Left)"
+msgstr "حشو المنتج (اليسار الأيمن)"
+
+#: inc/customizer.php:574
+msgid "Product Border Radius"
+msgstr "نصف قطر حدود المنتج"
+
+#: inc/customizer.php:589
+msgid "Product Shadow"
+msgstr "ظل المنتج"
+
+#: inc/customizer.php:604
+msgid "Button Padding (Top Bottom)"
+msgstr "حشو الزر (الجزء السفلي العلوي)"
+
+#: inc/customizer.php:620
+msgid "Button Padding (Right Left)"
+msgstr "حشو الزر (اليمين الأيسر)"
+
+#: inc/customizer.php:635 inc/customizer.php:920
+msgid "Button Border Radius"
+msgstr "زر الحدود نصف قطرها"
+
+#: inc/customizer.php:646 inc/customizer.php:654 inc/customizer.php:1414
+msgid "Right"
+msgstr "حق"
+
+#: inc/customizer.php:651
+msgid "Product Sale Alignment"
+msgstr "محاذاة بيع المنتج"
+
+#: inc/customizer.php:655 inc/customizer.php:1413 inc/customizer.php:1865
+msgid "Left"
+msgstr "اليسار"
+
+#: inc/customizer.php:664
+msgid "Product Sale Border Radius"
+msgstr "بيع المنتج الشعاع الحدودي"
+
+#: inc/customizer.php:679
+msgid "Top / Bottom Product Sale Padding"
+msgstr "الحشو بيع المنتج أعلى / أسفل"
+
+#: inc/customizer.php:694
+msgid "Left / Right Product Sale Padding"
+msgstr "حشوة بيع المنتج يسار / يمين"
+
+#: inc/customizer.php:709
+msgid "Product Sale Font Size"
+msgstr "حجم خط بيع المنتج"
+
+#: inc/customizer.php:720 inc/customizer.php:727
+msgid "Yes"
+msgstr "نعم"
+
+#: inc/customizer.php:725
+msgid "Woocommerce Products Navigation"
+msgstr "ملاحة منتجات Woocommerce"
+
+#: inc/customizer.php:728
+msgid "No"
+msgstr "لا"
+
+#: inc/customizer.php:735
+msgid "Layout Settings"
+msgstr "إعدادات الشكل الظاهري"
+
+#: inc/customizer.php:745 inc/customizer.php:1688
+msgid "Enable / Disable Fixed Header"
+msgstr "تمكين / تعطيل رأس ثابت"
+
+#: inc/customizer.php:754
+msgid "Fixed Header Padding"
+msgstr "حشو رأس ثابت"
+
+#: inc/customizer.php:770 inc/customizer.php:1658
+msgid "Enable / Disable Preloader"
+msgstr "تمكين / تعطيل التحميل المسبق"
+
+#: inc/customizer.php:775 inc/customizer.php:783 inc/customizer.php:810
+#: inc/customizer.php:819 inc/customizer.php:1274 inc/customizer.php:1282
+#: inc/customizer.php:1288 inc/customizer.php:1296 inc/customizer.php:1855
+#: inc/customizer.php:1863 inc/customizer.php:1885 inc/customizer.php:1892
+#: inc/customizer.php:2051 inc/customizer.php:2059
+msgid "Default"
+msgstr "إفتراضي"
+
+#: inc/customizer.php:780
+msgid "Preloader Option"
+msgstr "خيار التحميل المسبق"
+
+#: inc/customizer.php:784
+msgid "Circle"
+msgstr "دائرة"
+
+#: inc/customizer.php:785
+msgid "Two Circle"
+msgstr "دائرتين"
+
+#: inc/customizer.php:794
+msgid "Preloader Color Option"
+msgstr "خيار لون أداة التحميل المسبق"
+
+#: inc/customizer.php:804
+msgid "Preloader Background Color Option"
+msgstr "خيار لون خلفية التحميل المسبق"
+
+#: inc/customizer.php:815
+msgid "Container Box"
+msgstr "صندوق الحاوية"
+
+#: inc/customizer.php:816
+msgid "Here you can change the Width layout."
+msgstr "هنا يمكنك تغيير تخطيط العرض."
+
+#: inc/customizer.php:820
+msgid "Wide Layout"
+msgstr "تخطيط واسع"
+
+#: inc/customizer.php:821
+msgid "Box Layout"
+msgstr "مربع التخطيط"
+
+#: inc/customizer.php:831
+msgid "Open Menu icon"
+msgstr "افتح أيقونة القائمة"
+
+#: inc/customizer.php:843
+msgid "Close Menu icon"
+msgstr "إغلاق رمز القائمة"
+
+#: inc/customizer.php:854
+msgid "Featured Image Border Radius"
+msgstr "صورة نصف قطرها الحدودي المميزة"
+
+#: inc/customizer.php:869
+msgid "Featured Image Shadow"
+msgstr "ظل الصورة المميز"
+
+#: inc/customizer.php:881
+msgid "Button"
+msgstr "زر"
+
+#: inc/customizer.php:890
+msgid "Top and Bottom Padding "
+msgstr "الحشو العلوي والسفلي"
+
+#: inc/customizer.php:905
+msgid "Left and Right Padding"
+msgstr "الحشو اليسار واليمين"
+
+#: inc/customizer.php:932
+msgid "Topbar Section"
+msgstr "قسم Topbar"
+
+#: inc/customizer.php:933
+msgid "Add topbar content"
+msgstr "أضف محتوى الشريط العلوي"
+
+#: inc/customizer.php:944
+msgid "Show / Hide Top Header"
+msgstr "إظهار / إخفاء الرأس العلوي"
+
+#: inc/customizer.php:953
+msgid "Topbar Top and Bottom Padding"
+msgstr "إظهار / إخفاء الرأس العلوي"
+
+#: inc/customizer.php:969
+msgid "Show / Hide Search"
+msgstr "إظهار / إخفاء البحث"
+
+#: inc/customizer.php:979
+msgid "Change Search Placeholder"
+msgstr "تغيير العنصر النائب للبحث"
+
+#: inc/customizer.php:989
+msgid "Search Icon"
+msgstr "أيقونة البحث"
+
+#: inc/customizer.php:1000
+msgid "Search Font Size"
+msgstr "حجم خط البحث"
+
+#: inc/customizer.php:1015
+msgid "Search Padding"
+msgstr "البحث عن الحشو"
+
+#: inc/customizer.php:1030
+msgid "Search Border Radius"
+msgstr "نصف قطر البحث"
+
+#: inc/customizer.php:1041 inc/customizer.php:1049
+msgid "With Transparent"
+msgstr "مع شفاف"
+
+#: inc/customizer.php:1046
+msgid "Header display options"
+msgstr "خيارات عرض الرأس"
+
+#: inc/customizer.php:1050
+msgid "Without Transparent"
+msgstr "بدون شفافية"
+
+#: inc/customizer.php:1059
+msgid "Social Icons Font Size"
+msgstr "حجم خط الرموز الاجتماعية"
+
+#: inc/customizer.php:1075
+msgid "Time Icon"
+msgstr "توببار أعلى وأسفل الحشو"
+
+#: inc/customizer.php:1086
+msgid "Timing"
+msgstr "توقيت"
+
+#: inc/customizer.php:1097
+msgid "Facebook Icon"
+msgstr "أيقونة الفيس بوك"
+
+#: inc/customizer.php:1108
+msgid "Add Facebook link"
+msgstr "إضافة رابط الفيسبوك"
+
+#: inc/customizer.php:1120
+msgid "Twitter Icon"
+msgstr "أيقونة تويتر"
+
+#: inc/customizer.php:1131
+msgid "Add Twitter link"
+msgstr "أضف رابط Twitter"
+
+#: inc/customizer.php:1143
+msgid "Instagram Icon"
+msgstr "أيقونة انستجرام"
+
+#: inc/customizer.php:1154
+msgid "Add Instagram link"
+msgstr "أضف رابط Instagram"
+
+#: inc/customizer.php:1166
+msgid "Linkedin Icon"
+msgstr "أضف رابط Instagram"
+
+#: inc/customizer.php:1177
+msgid "Add Linkedin link"
+msgstr "إضافة رابط ينكدين"
+
+#: inc/customizer.php:1189
+msgid "Pintrest Icon"
+msgstr "أيقونة بينتيريست"
+
+#: inc/customizer.php:1200
+msgid "Add Pintrest link"
+msgstr "إضافة رابط Pintrest"
+
+#: inc/customizer.php:1212
+msgid "Youtube Icon"
+msgstr "أيقونة يوتيوب"
+
+#: inc/customizer.php:1223
+msgid "Add Youtube link"
+msgstr "إضافة رابط يوتيوب"
+
+#: inc/customizer.php:1235
+msgid "Show / Hide My Account"
+msgstr "إظهار / إخفاء حسابي"
+
+#: inc/customizer.php:1245
+msgid "My Account Icon"
+msgstr "رمز حسابي"
+
+#: inc/customizer.php:1253
+msgid "Navigation Menus Settings"
+msgstr "إعدادات قوائم التنقل"
+
+#: inc/customizer.php:1263
+msgid "Navigation Menus Font Size"
+msgstr "التنقل حجم خط القوائم"
+
+#: inc/customizer.php:1279
+msgid "Navigation Menus Text Transform"
+msgstr "تحويل نص قوائم التنقل"
+
+#: inc/customizer.php:1283
+msgid "Uppercase"
+msgstr "الأحرف الكبيرة"
+
+#: inc/customizer.php:1293
+msgid "Navigation Menus Font Weight"
+msgstr "التنقل خط القوائم الوزن"
+
+#: inc/customizer.php:1297
+msgid "Normal"
+msgstr "عادي"
+
+#: inc/customizer.php:1303
+msgid "Slider Settings"
+msgstr "إعدادات شريط التمرير"
+
+#: inc/customizer.php:1314
+msgid "Show / Hide slider"
+msgstr "إظهار / إخفاء شريط التمرير"
+
+#: inc/customizer.php:1324
+msgid "Show / Hide Slider Title"
+msgstr "إظهار / إخفاء عنوان شريط التمرير"
+
+#: inc/customizer.php:1334
+msgid "Show / Hide Slider Content"
+msgstr "إظهار / إخفاء محتوى شريط التمرير"
+
+#: inc/customizer.php:1344
+msgid "Show / Hide Slider Button"
+msgstr "إظهار / إخفاء زر شريط التمرير"
+
+#: inc/customizer.php:1356
+msgid "Select Slide Image Page"
+msgstr "حدد صفحة صورة الشريحة"
+
+#: inc/customizer.php:1357
+msgid "Size of image should be 1600 x 633"
+msgstr "يجب أن يكون حجم الصورة 1600 × 633"
+
+#: inc/customizer.php:1364 inc/customizer.php:1372
+msgid "Home page"
+msgstr "الصفحة الرئيسية"
+
+#: inc/customizer.php:1369
+msgid "Slider Show in"
+msgstr "عرض المنزلق في"
+
+#: inc/customizer.php:1373
+msgid "Blog Page"
+msgstr "صفحة المدونة"
+
+#: inc/customizer.php:1374
+msgid "Both Home page & Blog Page"
+msgstr "كل من الصفحة الرئيسية وصفحة المدونة"
+
+#: inc/customizer.php:1383
+msgid "Slider Speed"
+msgstr "سرعة المنزلق"
+
+#: inc/customizer.php:1394
+msgid "600"
+msgstr "ستة مائة"
+
+#: inc/customizer.php:1398
+msgid "Slider Height Option"
+msgstr "خيار ارتفاع المنزلق"
+
+#: inc/customizer.php:1404 inc/customizer.php:1412 inc/customizer.php:1864
+msgid "Center"
+msgstr "مركز"
+
+#: inc/customizer.php:1409
+msgid "Slider Content Layout"
+msgstr "شريط التمرير تخطيط المحتوى"
+
+#: inc/customizer.php:1419
+msgid "View All Travels"
+msgstr "عرض كل الرحلات"
+
+#: inc/customizer.php:1423
+msgid "Slider Button Text"
+msgstr "نص زر المنزلق"
+
+#: inc/customizer.php:1433
+msgid "Slider Excerpt length"
+msgstr "شريط التمرير مقتطف الطول"
+
+#: inc/customizer.php:1449
+msgid "Slider Image Opacity"
+msgstr "شريط التمرير عتامة الصورة"
+
+#: inc/customizer.php:1472
+msgid "Top Bottom Slider Content Padding"
+msgstr "حشو محتوى منزلق علوي علوي"
+
+#: inc/customizer.php:1487
+msgid "Left Right Slider Content Padding"
+msgstr "حشو محتوى شريط التمرير إلى اليسار الأيمن"
+
+#: inc/customizer.php:1503
+msgid "Show / Hide Image Overlay Slider"
+msgstr "إظهار / إخفاء شريط تمرير تراكب الصور"
+
+#: inc/customizer.php:1512
+msgid "Image Overlay Slider Color"
+msgstr "لون شريط تمرير تراكب الصور"
+
+#: inc/customizer.php:1519
+msgid "Destination Section"
+msgstr "قسم الوجهة"
+
+#: inc/customizer.php:1520
+msgid "Add section below."
+msgstr "أضف القسم أدناه."
+
+#: inc/customizer.php:1529
+msgid "Section Title"
+msgstr "عنوان القسم"
+
+#: inc/customizer.php:1539
+msgid "Section short description"
+msgstr "وصف قصير للقسم"
+
+#: inc/customizer.php:1563
+msgid "Select Category to display post"
+msgstr "حدد الفئة لعرض المنشور"
+
+#: inc/customizer.php:1564
+msgid "Size of image should be 300 x 300"
+msgstr "يجب أن يكون حجم الصورة 300 × 300"
+
+#: inc/customizer.php:1573
+msgid "Destination Excerpt length"
+msgstr "طول مقتطف الوجهة"
+
+#: inc/customizer.php:1586
+msgid "No Results Settings"
+msgstr "لا توجد إعدادات نتائج"
+
+#: inc/customizer.php:1591
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#: inc/customizer.php:1595
+msgid "No Search Results Title"
+msgstr "ليس هناك عنوان نتائج بحث"
+
+#: inc/customizer.php:1601
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"آسف ، ولكن لا شيء يطابق مصطلحات البحث. أرجو المحاولة مرة أخرى بإستخدام "
+"كلمات أخرى."
+
+#: inc/customizer.php:1605
+msgid "No Search Results Content"
+msgstr "لا يوجد محتوى نتائج البحث"
+
+#: inc/customizer.php:1612
+msgid "Page Not Found Settings"
+msgstr "إعدادات الصفحة غير موجودة"
+
+#: inc/customizer.php:1617
+msgid "404 Not Found"
+msgstr "404 غير موجود"
+
+#: inc/customizer.php:1621
+msgid "Page Not Found Title"
+msgstr "الصفحة غير موجودة"
+
+#: inc/customizer.php:1631
+msgid "Page Not Found Content"
+msgstr "محتوى الصفحة غير موجود"
+
+#: inc/customizer.php:1641
+msgid "Button Text"
+msgstr "زر كتابة"
+
+#: inc/customizer.php:1648
+msgid "Mobile Media Settings"
+msgstr "إعدادات وسائط المحمول"
+
+#: inc/customizer.php:1668
+msgid "Enable / Disable Sidebar"
+msgstr "تمكين / تعطيل الشريط الجانبي"
+
+#: inc/customizer.php:1678
+msgid "Enable / Disable Top Header"
+msgstr "تمكين / تعطيل الرأس العلوي"
+
+#: inc/customizer.php:1698
+msgid "Enable / Disable Slider"
+msgstr "تمكين / تعطيل شريط التمرير"
+
+#: inc/customizer.php:1708
+msgid "Enable / Disable Slider Button"
+msgstr "تمكين / تعطيل زر المنزلق"
+
+#: inc/customizer.php:1718
+msgid "Enable / Disable Scroll To Top"
+msgstr "تمكين / تعطيل التمرير إلى الأعلى"
+
+#: inc/customizer.php:1728
+msgid "Enable / Disable Search"
+msgstr "تمكين / تعطيل البحث"
+
+#: inc/customizer.php:1738
+msgid "Enable / Disable My Account"
+msgstr "تمكين / تعطيل حسابي"
+
+#: inc/customizer.php:1748
+msgid "Enable / Disable Post Date"
+msgstr "تمكين / تعطيل تاريخ النشر"
+
+#: inc/customizer.php:1758
+msgid "Enable / Disable Post Author"
+msgstr "تمكين / تعطيل كاتب النشر"
+
+#: inc/customizer.php:1768
+msgid "Enable / Disable Post Comment"
+msgstr "تمكين / تعطيل نشر التعليق"
+
+#: inc/customizer.php:1778
+msgid "Enable / Disable Single Post Time"
+msgstr "تمكين / تعطيل وقت النشر الفردي"
+
+#: inc/customizer.php:1784
+msgid "Post Settings"
+msgstr "إعدادات المشاركة"
+
+#: inc/customizer.php:1794
+msgid "Post Date"
+msgstr "تاريخ آخرتاريخ آخر"
+
+#: inc/customizer.php:1804
+msgid "Date Icon"
+msgstr "أيقونة التاريخ"
+
+#: inc/customizer.php:1816
+msgid "Post Comments"
+msgstr "اكتب تعليقا"
+
+#: inc/customizer.php:1826
+msgid "Comments Icon"
+msgstr "أيقونة التعليقات"
+
+#: inc/customizer.php:1838
+msgid "Post Author"
+msgstr "نشر المؤلف"
+
+#: inc/customizer.php:1848
+msgid "Author Icon"
+msgstr "أيقونة المؤلف"
+
+#: inc/customizer.php:1860
+msgid "Post Layout Option"
+msgstr "خيار تخطيط النشر"
+
+#: inc/customizer.php:1870 inc/customizer.php:1877
+msgid "Post Image"
+msgstr "نشر الصورة"
+
+#: inc/customizer.php:1875
+msgid "Blog Post Featured Option"
+msgstr "اختيار مشاركة المدونة"
+
+#: inc/customizer.php:1878 inc/customizer.php:1936
+msgid "Post Color"
+msgstr "لون المشاركة"
+
+#: inc/customizer.php:1879 inc/customizer.php:1997
+msgid "None"
+msgstr "لا يوجدلا يوجد"
+
+#: inc/customizer.php:1890
+msgid "Post Featured Image Dimention"
+msgstr "بعد أبعاد الصورة المميزة"
+
+#: inc/customizer.php:1893
+msgid "Custom Image Size"
+msgstr "حجم صورة مخصص"
+
+#: inc/customizer.php:1904
+msgid "Blog Post Custom Width"
+msgstr "العرض المخصص للمشاركة في المدونة"
+
+#: inc/customizer.php:1920
+msgid "Blog Post Custom Height"
+msgstr "ارتفاع مخصص لمدونة البريد"
+
+#: inc/customizer.php:1947
+msgid "Color Post Custom Width"
+msgstr "عرض مخصص للنشر الملون"
+
+#: inc/customizer.php:1963
+msgid "Color Post Custom Height"
+msgstr "ارتفاع مخصص للنشر الملون"
+
+#: inc/customizer.php:1975 inc/customizer.php:1983
+msgid "Into Blocks"
+msgstr "إلى كتل"
+
+#: inc/customizer.php:1980
+msgid "Display Blog Page posts"
+msgstr "عرض مشاركات صفحة المدونة"
+
+#: inc/customizer.php:1984
+msgid "Without Blocks"
+msgstr "بدون كتل"
+
+#: inc/customizer.php:1989 inc/customizer.php:1998
+msgid "Post Excerpt"
+msgstr "مقتطفات ما بعد"
+
+#: inc/customizer.php:1994
+msgid "Post Description"
+msgstr "وصف المشاركة"
+
+#: inc/customizer.php:1999
+msgid "Post Content"
+msgstr "آخر المحتوى"
+
+#: inc/customizer.php:2008
+msgid "Excerpt length"
+msgstr "طول مقتطفطول مقتطف"
+
+#: inc/customizer.php:2020
+msgid "{...}"
+msgstr "{...}"
+
+#: inc/customizer.php:2024
+msgid "Excerpt Indicator"
+msgstr "مؤشر مقتطفات"
+
+#: inc/customizer.php:2035
+msgid "Add Button Text"
+msgstr "إضافة نص الزر"
+
+#: inc/customizer.php:2046 inc/customizer.php:2057
+msgid "Post Pagination"
+msgstr "بعد ترقيم الصفحات"
+
+#: inc/customizer.php:2060
+msgid "Next / Previous"
+msgstr "السابق التالي"
+
+#: inc/customizer.php:2064 inc/customizer.php:2072
+msgid "Only Bottom"
+msgstr "فقط القاع"
+
+#: inc/customizer.php:2070
+msgid "Post Pagination Position Options"
+msgstr "خيارات موضع ما بعد ترقيم الصفحات"
+
+#: inc/customizer.php:2073
+msgid "Only Top"
+msgstr "الأعلى فقط"
+
+#: inc/customizer.php:2074
+msgid "Both Top & Bottom"
+msgstr "كل من أعلى وأسفل"
+
+#: inc/customizer.php:2079
+msgid "Single Post Settings"
+msgstr "إعدادات المشاركة الواحدة"
+
+#: inc/customizer.php:2089
+msgid "Single Post Date"
+msgstr "تاريخ نشر واحد"
+
+#: inc/customizer.php:2099
+msgid "Single Post Comments"
+msgstr "تعليقات مشاركة واحدة"
+
+#: inc/customizer.php:2109
+msgid "Single Post Author"
+msgstr "كاتب واحد"
+
+#: inc/customizer.php:2119
+msgid "Single Post Time"
+msgstr "وقت مشاركة واحد"
+
+#: inc/customizer.php:2129
+msgid "Single Post Breadcrumb"
+msgstr "مسار تنقل وظيفة واحدة"
+
+#: inc/customizer.php:2139
+msgid "Single Post Time Icon"
+msgstr "رمز وقت النشر الواحد"
+
+#: inc/customizer.php:2151
+msgid "Single Post Featured Image"
+msgstr "صورة واحدة مميزةصورة واحدة مميزة"
+
+#: inc/customizer.php:2161
+msgid "Single Post Tags"
+msgstr "علامات مشاركة واحدة"
+
+#: inc/customizer.php:2171
+msgid "Single Post Pagination"
+msgstr "ترقيم الصفحات الواحدة"
+
+#: inc/customizer.php:2180
+msgid "Single Post Previous Navigation Text"
+msgstr "مشاركة واحدة نص التنقل السابق"
+
+#: inc/customizer.php:2190
+msgid "Single Post Next Navigation Text"
+msgstr "نص التنقل التالي"
+
+#: inc/customizer.php:2200
+msgid "Single Post Meta Box Seperator"
+msgstr "صندوق بريد ميتا واحد"
+
+#: inc/customizer.php:2202
+msgid "Add the seperator for meta box. Example: \",\",  \"|\", \"/\", etc."
+msgstr "أضف الفاصل لمربع التعريف. مثال: \"،\" ، \"|\" ، \"/\" ، إلخ."
+
+#: inc/customizer.php:2208
+msgid "Leave a Reply"
+msgstr "اترك رد"
+
+#: inc/customizer.php:2213
+msgid "Comment Form Heading"
+msgstr "عنوان نموذج التعليق"
+
+#: inc/customizer.php:2218
+msgid "Post Comment"
+msgstr "أضف تعليقا"
+
+#: inc/customizer.php:2223
+msgid "Comment Submit Button Text"
+msgstr "تعليق نص زر إرسال"
+
+#: inc/customizer.php:2232
+msgid "Comment Form Size"
+msgstr "حجم نموذج التعليق"
+
+#: inc/customizer.php:2244
+msgid "Related Post Settings"
+msgstr "إعدادات النشر ذات الصلة"
+
+#: inc/customizer.php:2254
+msgid "Related Post"
+msgstr "منشور له صلة"
+
+#: inc/customizer.php:2265
+msgid "Show Related Posts"
+msgstr "إظهار الوظائف ذات الصلة"
+
+#: inc/customizer.php:2259 inc/customizer.php:2267
+msgid "By Categories"
+msgstr "حسب الفئات"
+
+#: inc/customizer.php:2268
+msgid "By Tags"
+msgstr "بواسطة العلامات"
+
+#: inc/customizer.php:2272
+msgid "Related Posts"
+msgstr "المنشورات ذات الصلة"
+
+#: inc/customizer.php:2276
+msgid "Change Related Post Title"
+msgstr "تغيير عنوان الوظيفة ذات الصلة"
+
+#: inc/customizer.php:2286
+msgid "Change Related Post Number"
+msgstr "تغيير رقم المشاركة ذات الصلة"
+
+#: inc/customizer.php:2298
+msgid "Footer Section"
+msgstr "قسم التذييل"
+
+#: inc/customizer.php:2309
+msgid "No. of Footer widget area"
+msgstr "عدد من مساحة القطعة تذييل"
+
+#: inc/customizer.php:2311
+msgid ""
+"Select the number of footer widget areas and after that, go to Appearance > "
+"Widgets and add your widgets in the footer."
+msgstr ""
+"حدد عدد مساحات أداة تذييل الصفحة وبعد ذلك ، انتقل إلى Appearance> Widgets "
+"وقم بإضافة عناصر واجهة المستخدم الخاصة بك في تذييل الصفحة."
+
+#: inc/customizer.php:2313
+msgid "One"
+msgstr "واحد"
+
+#: inc/customizer.php:2314
+msgid "Two"
+msgstr "اثنان"
+
+#: inc/customizer.php:2315
+msgid "Three"
+msgstr "ثلاثة"
+
+#: inc/customizer.php:2316
+msgid "Four"
+msgstr "أربعة"
+
+#: inc/customizer.php:2325 inc/customizer.php:2334
+msgid "Footer Widget Background"
+msgstr "تذييل القطعة الخلفية"
+
+#: inc/customizer.php:2344
+msgid "Show / Hide Scroll To Top"
+msgstr "إظهار / إخفاء التمرير إلى الأعلى"
+
+#: inc/customizer.php:2354
+msgid "Scroll To Top Icon"
+msgstr "قم بالتمرير إلى أعلى الرمز"
+
+#: inc/customizer.php:2361 inc/customizer.php:2371
+msgid "Right align"
+msgstr "محاذاة اليمين"
+
+#: inc/customizer.php:2366
+msgid "Scroll To Top"
+msgstr "انتقل إلى أعلى"
+
+#: inc/customizer.php:2367
+msgid "Here you can change the Footer layout."
+msgstr "هنا يمكنك تغيير تخطيط تذييل الصفحة."
+
+#: inc/customizer.php:2370
+msgid "Left align"
+msgstr "اليسار محاذاة"
+
+#: inc/customizer.php:2372
+msgid "Center align"
+msgstr "مركز محاذاة"
+
+#: inc/customizer.php:2381
+msgid "Scroll To Top Font Size"
+msgstr "قم بالتمرير إلى أعلى حجم الخط"
+
+#: inc/customizer.php:2396
+msgid "Scroll Top Bottom Padding"
+msgstr "التمرير أعلى الحشو السفلي"
+
+#: inc/customizer.php:2411
+msgid "Scroll Left Right Padding"
+msgstr "التمرير اليسار اليسار الحشو"
+
+#: inc/customizer.php:2426
+msgid "Scroll To Top Border Radius"
+msgstr "قم بالتمرير إلى أعلى نصف قطر الحد"
+
+#: inc/customizer.php:2441
+msgid "Copyright Top and Bottom Padding"
+msgstr "حقوق التأليف والنشر أعلى وأسفل الحشو"
+
+#: inc/customizer.php:2456
+msgid "Copyright Text"
+msgstr "نص حقوق النشر"
+
+#: inc/customizer.php:2457
+msgid "Add some text for footer like copyright etc."
+msgstr "أضف بعض النص للتذييل مثل حقوق الطبع والنشر وما إلى ذلك."
+
+#: inc/customizer.php:2467
+msgid "Footer Text Font Size"
+msgstr "حجم خط نص التذييل"
+
+#: inc/customizer.php:2479
+msgid "Sidebar Layout Settings"
+msgstr "إعدادات تخطيط الشريط الجانبي"
+
+#: inc/customizer.php:2490
+msgid "Enable / Disable Shop Page Sidebar"
+msgstr "تمكين / تعطيل الشريط الجانبي لصفحة المتجر"
+
+#: inc/customizer.php:2500
+msgid "Enable / Disable Single Product Sidebar"
+msgstr "تمكين / تعطيل الشريط الجانبي لمنتج واحد"
+
+#: inc/customizer.php:2506 inc/customizer.php:2515 inc/customizer.php:2531
+msgid "Right Sidebar"
+msgstr "الشريط الجانبي الأيمن"
+
+#: inc/customizer.php:2511
+msgid "Post Sidebar Layout"
+msgstr "نشر تخطيط الشريط الجانبي"
+
+#: inc/customizer.php:2514 inc/customizer.php:2530
+msgid "Left Sidebar"
+msgstr "الشريط الجانبي الأيسر"
+
+#: inc/customizer.php:2516 inc/customizer.php:2522 inc/customizer.php:2532
+msgid "One Column"
+msgstr "عمود واحد"
+
+#: inc/customizer.php:2517
+msgid "Grid Layout"
+msgstr "تخطيط الشبكة"
+
+#: inc/customizer.php:2527
+msgid "Page Sidebar Layout"
+msgstr "تخطيط الشريط الجانبي للصفحة"
+
+#: inc/customizer.php:2616
+msgid "Travel Pro Theme"
+msgstr "ترافل برو ثيم"
+
+#: inc/customizer.php:2617
+msgid "Go Pro"
+msgstr "جو برو"
