@@ -1,6 +1,0 @@
-black_default.png
-black_pin.png
-black_tall.png
-blue_rounded.png
-green_hole.png
-red_hole.png
