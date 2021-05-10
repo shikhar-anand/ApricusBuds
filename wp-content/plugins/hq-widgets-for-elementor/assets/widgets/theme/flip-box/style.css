@@ -1,0 +1,222 @@
+.hq-flipbox-wrapper {
+    display: block;
+    position: relative;
+    height: 300px;
+    width: 100%;
+    perspective: 1000px;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+.hq-flipbox-front-container {
+    background: #0e9dd2;
+    color: #ffffff;
+}
+.hq-flipbox-back-container {
+    background: #444444;
+    color: #ffffff;
+}
+.hq-flipbox-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    transition: all 500ms ease-in-out;
+}
+.hq-flipbox-layer-overlay {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    text-align: center;
+    padding: 30px;
+}
+.hq-flipbox-3d-yes .hq-flipbox-layer-overlay {
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    transform: translateZ(.1px);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+.hq-flipbox-3d-yes .hq-flipbox-layer-inner {
+    transform: translateZ(90px) scale(.91);
+}
+.hq-flipbox-effect-flip .hq-flipbox-wrapper {
+    perspective: 1000px;
+    transform-style: preserve-3d
+}
+.hq-flipbox-effect-flip .hq-flipbox-wrapper:hover .hq-flipbox-back-container {
+    transform: none
+}
+.hq-flipbox-effect-flip .hq-flipbox-container {
+    transform-style: preserve-3d;
+    backface-visibility: hidden
+}
+
+.hq-flipbox-effect-flip .hq-flipbox-front-container {
+    transform: none;
+    z-index: 1
+}
+
+.hq-flipbox-image {
+    margin:0 0 20px 0;
+    display:inline-block;
+    width:100%;
+}
+.hq-flipbox-image img {
+    display:inline-block;
+}
+.hq-flipbox-fit-image-yes .hq-flipbox-front-container .hq-flipbox-layer-inner {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.hq-flipbox-fit-image-yes .hq-flipbox-front-container .hq-flipbox-image {
+    flex-grow: 1;
+    background-repeat: no-repeat;
+}
+.hq-flipbox-wrapper .hq-flipbox-button {
+    margin-top: 15px;
+    display: inline-block;
+    transition: all 400ms ease-in-out;
+}
+.hq-flipbox-heading,
+.hq-flipbox-description {
+    color: #ffffff;
+}
+.hq-flipbox-heading.flipbox-linked-title {
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+/* FLIP EFFECT */
+
+.hq-flipbox-effect-flip.hq-flipbox-dir-right .hq-flipbox-back-container {
+    transform: rotateX(0) rotateY(-180deg);
+}
+
+.hq-flipbox-effect-flip.hq-flipbox-dir-right .hq-flipbox-wrapper:hover .hq-flipbox-front-container {
+    transform: rotateX(0) rotateY(180deg);
+}
+
+.hq-flipbox-effect-flip.hq-flipbox-dir-left .hq-flipbox-back-container {
+    transform: rotateX(0) rotateY(180deg);
+}
+
+.hq-flipbox-effect-flip.hq-flipbox-dir-left .hq-flipbox-wrapper:hover .hq-flipbox-front-container {
+    transform: rotateX(0) rotateY(-180deg);
+}
+
+.hq-flipbox-effect-flip.hq-flipbox-dir-up .hq-flipbox-back-container {
+    transform: rotateX(-180deg) rotateY(0);
+}
+
+.hq-flipbox-effect-flip.hq-flipbox-dir-up .hq-flipbox-wrapper:hover .hq-flipbox-front-container {
+    transform: rotateX(180deg) rotateY(0);
+}
+
+.hq-flipbox-effect-flip.hq-flipbox-dir-down .hq-flipbox-back-container {
+    transform: rotateX(180deg) rotateY(0);
+}
+
+.hq-flipbox-effect-flip.hq-flipbox-dir-down .hq-flipbox-wrapper:hover .hq-flipbox-front-container {
+    transform: rotateX(-180deg) rotateY(0);
+}
+
+
+/* SLIDE EFFECT */
+.hq-flipbox-effect-slide .hq-flipbox-wrapper {
+    overflow: hidden;
+}
+.hq-flipbox-effect-slide .hq-flipbox-wrapper:hover .hq-flipbox-back-container {
+    transform: none;
+}
+.hq-flipbox-effect-slide.hq-flipbox-dir-right .hq-flipbox-back-container {
+    transform: translateX(-100.1%) translateY(0);
+}
+.hq-flipbox-effect-slide.hq-flipbox-dir-left .hq-flipbox-back-container {
+    transform: translateX(100.1%) translateY(0);
+}
+.hq-flipbox-effect-slide.hq-flipbox-dir-up .hq-flipbox-back-container {
+    transform: translateX(0) translateY(100.1%);
+}
+.hq-flipbox-effect-slide.hq-flipbox-dir-down .hq-flipbox-back-container {
+    transform: translateX(0) translateY(-100.1%);
+}
+
+/* PUSH EFFECT */
+.hq-flipbox-effect-push .hq-flipbox-front-container {
+    transform: none;
+}
+.hq-flipbox-effect-push .hq-flipbox-wrapper {
+    overflow: hidden;
+}
+.hq-flipbox-effect-push .hq-flipbox-wrapper:hover .hq-flipbox-back-container {
+    transform: none;
+}
+.hq-flipbox-effect-push.hq-flipbox-dir-right .hq-flipbox-wrapper:hover .hq-flipbox-front-container {
+    transform: translateX(100%) translateY(0);
+}
+.hq-flipbox-effect-push.hq-flipbox-dir-right .hq-flipbox-back-container {
+    transform: translateX(-100%) translateY(0);
+}
+.hq-flipbox-effect-push.hq-flipbox-dir-left .hq-flipbox-wrapper:hover .hq-flipbox-front-container {
+    transform: translateX(-100%) translateY(0);
+}
+.hq-flipbox-effect-push.hq-flipbox-dir-left .hq-flipbox-back-container {
+    transform: translateX(100%) translateY(0);
+}
+.hq-flipbox-effect-push.hq-flipbox-dir-up .hq-flipbox-wrapper:hover .hq-flipbox-front-container {
+    transform: translateX(0) translateY(-100%);
+}
+.hq-flipbox-effect-push.hq-flipbox-dir-up .hq-flipbox-back-container {
+    transform: translateX(0) translateY(100%);
+}
+.hq-flipbox-effect-push.hq-flipbox-dir-down .hq-flipbox-wrapper:hover .hq-flipbox-front-container {
+    transform: translateX(0) translateY(100%);
+}
+.hq-flipbox-effect-push.hq-flipbox-dir-down .hq-flipbox-back-container {
+    transform: translateX(0) translateY(-100%);
+}
+
+/* ZOOM IN EFFECT */
+.hq-flipbox-effect-zoom-in .hq-flipbox-wrapper .hq-flipbox-back-container {
+    transition: transform .7s, opacity .5s .2s;
+    opacity: 0;
+    transform: scale(.7);
+}
+.hq-flipbox-effect-zoom-in .hq-flipbox-wrapper:hover .hq-flipbox-back-container {
+    transition: transform .7s, opacity .5s;
+    opacity: 1;
+    transform: scale(1);
+}
+
+/* ZOOM OUT EFFECT */
+.hq-flipbox-effect-zoom-out .hq-flipbox-wrapper .hq-flipbox-front-container {
+    transition: transform .7s, opacity .35s, width .1ms;
+    opacity: 1;
+    transform: scale(1);
+    z-index: 1;
+    width: 100%;
+}
+.hq-flipbox-effect-zoom-out .hq-flipbox-wrapper:hover .hq-flipbox-front-container {
+    width: 0;
+    opacity: 0;
+    transform: scale(.7);
+    transition: transform .8s, opacity .7s .1s, width .1ms .7s;
+}
+
+/* FADE EFFECT */
+.hq-flipbox-effect-fade .hq-flipbox-wrapper .hq-flipbox-back-container {
+    opacity: 0;
+}
+.hq-flipbox-effect-fade .hq-flipbox-wrapper:hover .hq-flipbox-back-container {
+    opacity: 1;
+}

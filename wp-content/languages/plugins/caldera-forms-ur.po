@@ -1,0 +1,2827 @@
+# Translation of Plugins - Caldera Forms &#8211; More Than Contact Forms - Stable (latest release) in Urdu
+# This file is distributed under the same license as the Plugins - Caldera Forms &#8211; More Than Contact Forms - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-12 17:28:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ur_PK\n"
+"Project-Id-Version: Plugins - Caldera Forms &#8211; More Than Contact Forms - Stable (latest release)\n"
+
+#: processors/auto_responder/config.php:38
+msgid "CC"
+msgstr "کاربن کاپی"
+
+#: ui/edit.php:133
+msgid "Source"
+msgstr "ماخذ"
+
+#: classes/support.php:197
+msgid "Not Active"
+msgstr "فعال نہیں ہے"
+
+#: processors/auto_responder/config.php:26
+msgid "Reply To"
+msgstr "جواب دیں"
+
+#: includes/field_processors.php:255
+msgid "Value is required"
+msgstr "قدر کی ضرورت ہے"
+
+#: includes/field_processors.php:231
+msgid "Country code is required"
+msgstr "ملک کے کوڈ کی ضرورت ہے"
+
+#: classes/entry/ui.php:201 classes/admin.php:503 classes/admin.php:504
+msgctxt "Verb: Action of moving to trash"
+msgid "Trash"
+msgstr "ردی کی ٹوکری"
+
+#: ui/entries/toolbar.php:46
+msgctxt "Status: In trash"
+msgid "Trash"
+msgstr "ردی کی ٹوکری"
+
+#: includes/plugin-page-banner.php:276
+msgid "Subscribe"
+msgstr "سبسکرائب کریں"
+
+#: ui/edit.php:757
+msgid "Exit Revision"
+msgstr "نظرثانی سے باہر نکلیں"
+
+#: ui/panels/layout_toolbar.php:37
+msgid "Form Elements & Fields"
+msgstr "فارم ایلییمنٹس اور فیلڈز"
+
+#: includes/templates/variable-price-example.php:263
+msgid "Pay"
+msgstr "پے (رقم)"
+
+#: includes/templates/variable-price-example.php:193
+msgid "Small"
+msgstr "چھوٹا"
+
+#: includes/templates/variable-price-example.php:187
+msgid "Big"
+msgstr "بڑا"
+
+#: includes/templates/variable-price-example.php:161
+msgid "Option 2 Type"
+msgstr "آپشن 2 ٹائپ"
+
+#: includes/templates/variable-price-example.php:124
+msgid "Want Option 1?"
+msgstr "پہلا آپشن چاہیئے؟"
+
+#: includes/templates/variable-price-example.php:105
+msgid "Base"
+msgstr "بیس"
+
+#: includes/templates/variable-price-example.php:18
+msgid "Variable Price Example"
+msgstr "ویری ایبل پرائس کی مثال"
+
+#: includes/templates/starter-contact-form.php:157
+msgid "Send Message"
+msgstr "میسج بھیجیں"
+
+#: includes/templates/starter-contact-form.php:137
+msgid "Comments / Questions"
+msgstr "کمنٹس / سوالات"
+
+#: includes/templates/starter-contact-form.php:125
+msgid "Feel free to ask a question or simply leave a comment."
+msgstr "بے فکر ہو کر سوال کریں یا کوئی کمنٹ کریں"
+
+#: includes/templates/starter-contact-form.php:124
+msgid "How can we help?"
+msgstr "میں کس طرح آپکی مدد کر سکتا ہوں؟"
+
+#: includes/templates/starter-contact-form.php:47
+msgid "Let us know how to get back to you."
+msgstr "براہِ کرم ہمیں بتائیں کہ ہم کس طرح آپ سے دوبارہ رابطہ کر سکتے ہیں۔"
+
+#: includes/templates/starter-contact-form.php:46
+msgid "Your Details"
+msgstr "آپ کی تفصیلات"
+
+#: includes/templates/starter-contact-form.php:14
+msgid "Basic starter contact form with auto-responder processor."
+msgstr "یہ خود بخود ریسپانس کرنے والا ایک سادہ سا فارم ہے۔"
+
+#: includes/templates/simple-booking-form-example.php:187
+msgid "Number of children"
+msgstr "چلڈرن کی تعداد"
+
+#: includes/templates/simple-booking-form-example.php:165
+msgid "Number of adults"
+msgstr "جوانوں کی تعداد"
+
+#: includes/templates/simple-booking-form-example.php:123
+msgid "Check in date"
+msgstr "چیک ان کرنے کی تاریخ"
+
+#: includes/templates/simple-booking-form-example.php:144
+msgid "Check out date"
+msgstr "چیک آؤٹ کرنے کی تاریخ"
+
+#: includes/templates/simple-booking-form-example.php:83
+msgid "Mobile Number"
+msgstr "فون نمبر"
+
+#: includes/templates/registration-form-example.php:267
+msgid "Three People"
+msgstr "تین لوگ"
+
+#: includes/templates/registration-form-example.php:233
+msgid "Two People"
+msgstr "دو لوگ"
+
+#: includes/templates/registration-form-example.php:186
+msgid "Person Three Name"
+msgstr "تیسرے بندے کا نام"
+
+#: includes/templates/registration-form-example.php:167
+msgid "Person Three Email"
+msgstr "تیسرے بندے کا ای میل"
+
+#: includes/templates/registration-form-example.php:148
+msgid "Person Two Email"
+msgstr "دوسرے بندے کا ای میل"
+
+#: includes/templates/registration-form-example.php:128
+msgid "Person Two Name"
+msgstr "دوسرے بندے کا نام"
+
+#: includes/templates/registration-form-example.php:109
+msgid "Person One Email"
+msgstr "پہلے بندے کا ای میل"
+
+#: includes/templates/registration-form-example.php:89
+msgid "Person One Name"
+msgstr "پہلے بندے کا نام"
+
+#: includes/templates/registration-form-example.php:80
+msgid "Three"
+msgstr "تین"
+
+#: includes/templates/registration-form-example.php:75
+msgid "Two"
+msgstr "دو"
+
+#: includes/templates/variable-price-example.php:48
+#: includes/templates/registration-form-example.php:70
+msgid "One"
+msgstr "ایک"
+
+#: includes/templates/registration-form-example.php:47
+msgid "Number of People"
+msgstr "لوگوں کی تعداد"
+
+#: includes/templates/registration-form-example.php:16
+msgid "Registration Form"
+msgstr "رجسٹریشن فارم"
+
+#: includes/templates/rate-our-service-example.php:76
+msgid "How would you rate your experience"
+msgstr "آپ اپنے تجربہ کو کس طرح سے ریٹ کریں گے؟"
+
+#: includes/templates/rate-our-service-example.php:36
+msgid "Full Name"
+msgstr "مکمل نام"
+
+#: includes/templates/rate-our-service-example.php:7
+#: includes/templates/rate-our-service-example.php:141
+#: includes/templates/rate-our-service-example.php:147
+msgid "Rate our service"
+msgstr "ہماری سروس کو ریٹ کریں"
+
+#: includes/templates/job-application-form-example.php:325
+msgid "Edit information"
+msgstr "انفارمیشن ایڈٹ کریں"
+
+#: includes/templates/job-application-form-example.php:286
+msgid "Profile"
+msgstr "پروفائل"
+
+#: includes/templates/job-application-form-example.php:250
+msgid "Preview Information"
+msgstr "پری ویو انفارمیشن"
+
+#: includes/templates/job-application-form-example.php:231
+#: includes/templates/rate-our-service-example.php:99
+msgid "Message / Comments"
+msgstr "میسج/کمنٹس"
+
+#: includes/templates/job-application-form-example.php:212
+msgid "Upload CV"
+msgstr "سی وی اپلوڈ کریں"
+
+#: includes/templates/job-application-form-example.php:192
+msgid "Alternate Contact Number"
+msgstr "دوسرا کانٹیکٹ نمبر"
+
+#: includes/templates/job-application-form-example.php:172
+msgid "Contact Number"
+msgstr "کانٹیکٹ نمبر"
+
+#: includes/templates/simple-booking-form-example.php:62
+#: includes/templates/job-application-form-example.php:132
+#: includes/templates/starter-contact-form.php:79
+msgid "Last Name"
+msgstr "آخری نام"
+
+#: includes/templates/simple-booking-form-example.php:41
+#: includes/templates/job-application-form-example.php:111
+#: includes/templates/starter-contact-form.php:59
+msgid "First Name"
+msgstr "پہلا نام"
+
+#: includes/templates/job-application-form-example.php:102
+msgid "Dr."
+msgstr "ڈاکٹر۔"
+
+#: includes/templates/job-application-form-example.php:97
+msgid "Prof."
+msgstr "پروفیسر۔"
+
+#: includes/templates/job-application-form-example.php:92
+msgid "Mrs."
+msgstr "مسز"
+
+#: includes/templates/job-application-form-example.php:87
+msgid "Ms."
+msgstr "مس"
+
+#: includes/templates/job-application-form-example.php:82
+msgid "Mr."
+msgstr "مسٹر۔"
+
+#: includes/templates/job-application-form-example.php:77
+msgid "Choose One"
+msgstr "ایک منتخب کریں"
+
+#: includes/templates/job-application-form-example.php:15
+msgid "Job Application"
+msgstr "جاب اپلیکیشن"
+
+#: classes/fields.php:268
+msgid "Credit Card Expiration Date"
+msgstr "کریڈٹ کارڈ کی ایکسپائری دیٹ"
+
+#: classes/core.php:679
+msgid "The captcha wasn't entered correctly."
+msgstr "کیپچا صحیح نہیں ہے"
+
+#: includes/templates/variable-price-example.php:150
+#: ui/panels/form-settings.php:126
+msgid "Yes"
+msgstr "جی ہاں"
+
+#: includes/templates/simple-booking-form-example.php:208
+msgid "Comments"
+msgstr "تبصرے"
+
+#: ui/support/clippy_templates.php:20
+msgid "All Documentation"
+msgstr "تمام ڈاکومینٹیشن"
+
+#: ui/panels/revisions.php:33
+msgid "No Saved Revisions"
+msgstr "کوئی سیو شدہ ریویژن نہیں ہے۔"
+
+#: ui/panels/revisions.php:30
+msgid "View Selected Revision"
+msgstr "سلیکٹ شدہ ریویژن دیکھیں"
+
+#: ui/panels/revisions.php:14
+msgid "Choose Revision To Edit"
+msgstr "وہ ریویژن سلیکٹ کریں جس کو آپ ایڈٹ کرنا چاہتے ہیں "
+
+#: ui/panels/revisions.php:3
+msgid "Currently Viewing A Revision"
+msgstr "فی الحال آپ ایک ریویژن دیکھ رہے ہیں"
+
+#: ui/edit.php:775
+msgid "Preview Form Revision"
+msgstr "ریویژن سے لیا گیا پری ویو"
+
+#: ui/edit.php:769
+msgid "Restore Form Revision"
+msgstr "ریویژن سے ریسٹور کریں"
+
+#: ui/admin_templates.php:265
+msgid "Some usage data will be shared with CDN providers."
+msgstr "کچھ استعمال کا ڈیٹا سی ڈی این پروائڈرز کے ساتھ بھی شئیر ہوگا"
+
+#: ui/admin_templates.php:262
+msgid "Enable Free CDN"
+msgstr "فری سی ڈی این فعال بنائیں"
+
+#: classes/field/localizer.php:109
+msgid "An out of date version of jQuery is loaded on the page. Form may not function properly."
+msgstr "جے کیوری کا ایک پرانا ورژن صفحے پر لوڈ کیا گیا ہے۔ ہو سکتا ہے کہ اس کی وجہ سے فارم صحیح کام نہ کرے۔"
+
+#: classes/field/localizer.php:108
+msgid "Submission URL and current URL protocols do not match. Form may not function properly."
+msgstr "سبمشن کا یو آر ایل اور موجودہ یو آر ایل ایک جیسے نہیں ہیں۔ ہو سکتا ہے کہ فارم صحیح طرح کام نہ کریں"
+
+#: classes/api/forms.php:302
+msgid "No Revisions Found For This Form"
+msgstr "اس فارم کے لیے کوئی ریویژن موجود نہیں"
+
+#: ui/panels/revisions.php:21
+msgid "Edit Revision:"
+msgstr "نظرثانی میں تبدیلی کریں:"
+
+#: ui/admin_templates.php:260
+msgid "Learn more about the free CDN and usage sharing."
+msgstr "مفت سی ڈی این اور شئیرنگ کے استعمال کے بارے میں مزید جانیے۔"
+
+#: classes/admin.php:1776
+msgid "Working with form revisions and drafts"
+msgstr "فارم نظرثانی اور ڈرافٹس کے ساتھ کام کر رہے ہیں"
+
+#: classes/admin.php:1770 classes/admin.php:1772
+msgid "Revisions"
+msgstr "ترامیم"
+
+#: ui/support/clippy_templates.php:9
+msgid "Documentation"
+msgstr "دسستاویزات"
+
+#: ui/admin.php:121
+msgid "Message Resent"
+msgstr "میسج دوبارہ بھیج دیا گیا"
+
+#: classes/fields.php:376
+msgid "Capture all UTM tags"
+msgstr "تمام یو ٹی ایم ٹیگز کیپچر کریں"
+
+#: classes/fields.php:373
+msgid "UTM"
+msgstr "یو ٹی ایم"
+
+#: classes/entry/ui.php:205
+msgid "Resend"
+msgstr "دوبارہ بھیجیں"
+
+#: classes/entry/ui.php:205
+msgid "Click to resend email from this message"
+msgstr "اس میسج سے ای میل بھیجنے کے لیے ری سینڈ کلک کریں"
+
+#: ui/panels/emailer.php:74
+msgid "Do Not Use A Magic Tag"
+msgstr "کوئی میجک ٹیگ استعمال نہ کریں"
+
+#: ui/panels/emailer.php:73
+msgid "Email Address for sender. If you want to use a form field use the \"Reply To Email\" setting below."
+msgstr "بھیجنے والے کے لیے ای میل ایڈریس۔ اگر آپ کوئی فارم فیلڈ استعمال کرنا چاہتے ہیں تو \"ریپلائی ٹو ای میل\" کی نیچے دی گئی سیٹنگ استعمال کریں۔"
+
+#: ui/edit.php:868
+msgid "Click to view help doc on CalderaForms.com"
+msgstr "CalderaForms.com پر موجود ہیلپ ڈاک دیکھنے کے لیے ویو پر کلک کریں۔"
+
+#: ui/edit.php:327 ui/edit.php:329 ui/edit.php:1095 ui/edit.php:1103
+msgid "Calculation Value"
+msgstr "کلکو لیشن ویلیو"
+
+#: ui/edit.php:323 ui/edit.php:1091
+msgid "Learn more about using select field options"
+msgstr "سلیکٹ فیلڈ کے آپشن کو استعمال کرنے کے بارے میں مزید جانیں"
+
+#: fields/select2/field/config.php:44
+#: fields/toggle_switch/config_template.php:39
+#: fields/dropdown/config_template.php:17 fields/radio/config_template.php:18
+#: fields/checkbox/config_template.php:17
+msgid "Overwrite default option - useful for setting default with magic tags."
+msgstr "ڈیفالٹ آپشن کو اوور رائٹ کریں - ایسا کرنا میجک ٹیگ کے ساتھ ڈیفالٹ سیٹ کرنے کے لیے مفید ہے۔"
+
+#: fields/select2/field/config.php:39
+#: fields/toggle_switch/config_template.php:34
+#: fields/dropdown/config_template.php:12 fields/radio/config_template.php:13
+#: fields/checkbox/config_template.php:12
+msgid "Default Option"
+msgstr "ڈیفالٹ آپشن"
+
+#: classes/admin.php:1829
+msgid "Responsive settings getting started guide"
+msgstr "ریسپانسو سیٹنگ کے لیے ابتدائی گائیڈ"
+
+#: classes/admin.php:1790
+msgid "Variables getting started guide"
+msgstr "ویری ائبل کے لیے ابتدائی گائیڈ"
+
+#: classes/admin.php:1766
+msgid "Conditionals getting started guide"
+msgstr "کنڈیشنل سیٹنگ کے لیے ابتدائی گائیڈ"
+
+#: classes/admin.php:1756
+msgid "Processors getting started guide"
+msgstr "پرا سیسر کے لیے ابتدائی گائیڈ"
+
+#: classes/admin.php:1746
+msgid "Learn to use the Caldera Forms email notification"
+msgstr "کالڈرہ فارمز کے لیے ای میل نوٹیفیکیشن استعمال کرنا سیکھیں"
+
+#: classes/admin.php:1736
+msgid "Using multi-page forms."
+msgstr "ملٹی پیج فارمز استعمال کرتے ہوئے۔"
+
+#: classes/admin.php:1726
+msgid "Caldera Forms layout builder getting started guide"
+msgstr "کالڈرہ فارمز لے آؤٹ بلڈر کے لیے ابتدائی گائیڈ"
+
+#: classes/admin.php:1094 classes/admin.php:1095 ui/extend.php:53
+msgid "Add-ons"
+msgstr "ایڈ-اون"
+
+#: classes/admin.php:237
+msgid "US States"
+msgstr "یو ایس سٹیٹس"
+
+#: classes/admin/pro.php:55 classes/admin/pro.php:56 classes/admin.php:2170
+#: includes/cf-pro-client/classes/admin/menu.php:39
+#: includes/cf-pro-client/classes/admin/menu.php:40
+msgid "Caldera Forms Pro"
+msgstr "کالڈرہ فارمز پرو"
+
+#: ui/panels/layout.php:107
+msgid "Click to add a new row to layout."
+msgstr "لے آؤٹ کے اندر نئی قطار ایڈ کرنے کے لیے کلک کریں"
+
+#: classes/admin/assets.php:338
+msgid "Delete row."
+msgstr "قطار ڈیلیٹ کریں۔"
+
+#: classes/admin/assets.php:337
+msgid "Split row."
+msgstr "قطار کو دو حصوں میں تقسیم کریں"
+
+#: classes/admin/assets.php:336
+msgid "Add field to row"
+msgstr "قطار میں فیلڈ شامل کریں"
+
+#: ui/panels/layout_toolbar.php:12
+msgid "Drag this box onto the layout grid where you want the field to appear"
+msgstr "اس باکس کو لے آؤٹ گرڈ میں اس جگہ ڈریگ کریں جہاں آپ فیلڈ ایڈ کرنا چاہتے ہیں۔"
+
+#: classes/core.php:1543
+msgid "Calculation is invalid (division by zero)"
+msgstr "یہ تقسیم مناسب نہیں ( زیرو سے تقسیم)"
+
+#: ui/entries/pagination.php:13 ui/viewer-two/viewer.php:61
+msgid "Entries Per Page"
+msgstr "ہر پیج پر اینٹریز"
+
+#: ui/viewer-two/viewer.php:57
+msgid "Next page of entries"
+msgstr "اینٹریز کا اگلا صفحہ"
+
+#: ui/viewer-two/viewer.php:54
+msgid "Previous page of entries"
+msgstr "اینٹریز کا پچھلا صفحہ"
+
+#: ui/viewer-two/viewer.php:45
+msgid "Details"
+msgstr "تفصیلات"
+
+#: ui/viewer-two/viewer.php:44
+msgid "View Entry Details"
+msgstr "اینٹری ڈیٹیلز دیکھیں"
+
+#: ui/viewer-two/viewer.php:10
+msgid "Click To Close"
+msgstr "کلوز کرنے کے لیے کلک کریں"
+
+#: ui/panels/form-settings.php:74
+msgid "Message to show after form is submitted."
+msgstr "فارم سبمٹ ہونے کے بعد جو میسج شو ہو۔"
+
+#: ui/panels/form-settings.php:54
+msgid "When form is submitted, do not scroll page."
+msgstr "جب فارم سبمٹ ہو جائے تو صفحے کو سکرول نا کریں"
+
+#: ui/panels/form-settings.php:47
+msgid "When form is submitted, scroll page to form message."
+msgstr "جب فارم سبمٹ ہو جائے تو پیج کوفارم میسج پر سکرول کر دیں۔"
+
+#: ui/panels/form-settings.php:40
+msgid "Scroll To Top On Submit"
+msgstr "سبمٹ ہونے پر پیج کے ٹاپ پر سکرول کر جائیں۔"
+
+#: ui/entries/toolbar.php:55
+msgid "Bulk Action For Entries"
+msgstr "اینٹریز کے لیے بلک ایکشن"
+
+#: ui/entries/pagination.php:19
+msgid "Go to the last page"
+msgstr "آخری صفحے پر جائیں"
+
+#: ui/entries/pagination.php:18
+msgid "Go to the next page"
+msgstr "اگلے صفحے پر جائیں"
+
+#: ui/entries/pagination.php:16
+msgid "Go to the previous page"
+msgstr "پچھلے صفحے پر جائیں"
+
+#: ui/entries/pagination.php:15
+msgid "Go to the first page"
+msgstr "پہلے صفحے پر جائیں"
+
+#: processors/functions.php:68
+msgid "If this conditional is used, default recipient will be removed from recipients"
+msgstr "اگر یہ کنڈیشن استعمال کی گئی تو رسیدوں میں سے ڈیفالٹ رسید ختم ہوجائے گئی"
+
+#: processors/functions.php:67
+msgid "Remove Default?"
+msgstr "ڈیفالٹ کو ختم کر دیں؟"
+
+#: fields/wysiwyg/config_template.php:31
+msgid "Restrictive"
+msgstr "ممنوعہ"
+
+#: fields/wysiwyg/config_template.php:28
+msgid "Permissive"
+msgstr "غیر ممنوعہ"
+
+#: fields/wysiwyg/config_template.php:24
+msgid "Sanitization Level"
+msgstr "سینٹائزیشن کا درجہ"
+
+#: fields/wysiwyg/config_template.php:13
+msgid "Language Code"
+msgstr "لینگوئج کوڈ"
+
+#: fields/section-break/config.php:15
+msgid "Width of section break element, as a percentage."
+msgstr "سیکشن بریک ایلیمنٹ کی وڈتھ، ٪ میں"
+
+#: fields/phone_better/config.php:27
+msgid "If not checked, formatting will be for local use, without country code"
+msgstr "اگر اس کو چیک نا کیا گیا تو فارمیٹنگ لوکل استعمال کے لیے ہوگئی، کنٹری کوڈ کے بغیر"
+
+#: fields/phone_better/config.php:22
+msgid "Use Country Code"
+msgstr "کنٹری کوڈ استعمال کریں"
+
+#: fields/phone/config.php:48
+msgid "Custom Phone Number Format"
+msgstr "کسٹم فون نمبر فارمیٹ"
+
+#: fields/number/config.php:39
+msgid "Step (increment size)"
+msgstr "کتنا بڑھایا جائے؟"
+
+#: fields/credit_card_number/config.php:40
+msgid "Link a secret code field for validation."
+msgstr "کنفرمیشن کے لیے ایک خفیہ کوڈ فیلڈ لنک کریں"
+
+#: fields/credit_card_number/config.php:34
+msgid "Secret Code Field"
+msgstr "خفیہ کوڈ فیلڈ"
+
+#: fields/credit_card_number/config.php:27
+msgid "Link an expiration field for validation."
+msgstr "کنفرمیشن کے لیے ایک ایکسپائری فیلڈ لنک کریں"
+
+#: fields/credit_card_number/config.php:21
+msgid "Expiration Field"
+msgstr "ایکسپائری فیلڈ"
+
+#: fields/credit_card_cvc/config.php:27
+msgid "If set, the type of card will be used for verification."
+msgstr "اگر سیٹ کر دی جائے تو، کارڈ کی ٹائپ کنفرمیشن کے لیے استعمال ہوگی"
+
+#: fields/credit_card_cvc/config.php:21
+msgid "Credit Card Field"
+msgstr "کریڈٹ کارڈ فیلڈ"
+
+#: fields/color_picker/setup.php:3
+msgid "Default Color"
+msgstr "ڈیفالٹ رنگ"
+
+#: classes/fields.php:470
+msgid "An HR tag to separate sections of your form."
+msgstr "فارم کے سیکشن علیحدہ کرنے کے لیےایک HR ٹیگ"
+
+#: classes/fields.php:469
+msgid "Section Break"
+msgstr "سیکشن بریک"
+
+#: classes/fields.php:454
+msgid "Live updating summary of submission"
+msgstr "سبمیشن کی سمری لائیو اپ ڈیٹ ہورہی ہے"
+
+#: classes/fields.php:283
+msgid "Credit Card CVC With Validation"
+msgstr "کریڈٹ کارڈ سی وی سی ویلیڈیشن کے ساتھ"
+
+#: classes/fields.php:282
+msgid "Credit Card CVC"
+msgstr "کریڈٹ کارڈ سی وی سی"
+
+#: classes/fields.php:269
+msgid "Credit Card Expiration Date With Validation"
+msgstr "کریڈٹ کارڈ کی ایکسپائری ڈیٹ ویلیڈیشن کے ساتھ"
+
+#: classes/fields.php:257 classes/fields.php:272 classes/fields.php:286
+#: ui/edit.php:374 ui/edit.php:1018
+msgid "eCommerce"
+msgstr "ای کامرس"
+
+#: classes/fields.php:255
+msgid "Credit Card Number With Validation"
+msgstr "ویلیڈیشن کے ساتھ کریڈٹ کارڈ نمبر"
+
+#: classes/fields.php:254
+msgid "Credit Card Number"
+msgstr "کریڈیٹ کارڈ نمبر"
+
+#: classes/fields.php:243
+msgid "URL input for website addresses"
+msgstr "ویب سائٹ کے ایڈریس کے لیے یو آر ایل فیلڈ"
+
+#: classes/fields.php:225
+msgid "TinyMCE WYSIWYG editor"
+msgstr "TinyMCE WYSIWYG ایڈیٹر"
+
+#: classes/fields.php:224
+msgid "Rich Editor"
+msgstr "رچ ایڈیٹر"
+
+#: classes/fields.php:195
+msgid "Phone Number (Basic)"
+msgstr "فون نمبر( بیسک)"
+
+#: classes/fields.php:186
+msgid "Number with minimum and maximum controls"
+msgstr "کم سے کم اور زیادہ سے زیادہ کنٹرول کے ساتھ نمبر"
+
+#: classes/fields.php:185
+msgid "Number"
+msgstr "نمبر"
+
+#: classes/fields.php:165
+msgid "Phone number with advanced options and international formatting"
+msgstr "ایڈوانس آپشن اور انٹرنیشنل فارمیٹنگ کے ساتھ فون نمبر"
+
+#: classes/fields.php:164
+msgid "Phone Number (Better)"
+msgstr "فون نمبر (بہتر)"
+
+#: classes/field/js.php:568
+msgid "Invalid Security Code"
+msgstr "سیکیورٹی کوڈ ٹھیک نہیں"
+
+#: classes/field/js.php:546
+msgid "Invalid Expiration Date"
+msgstr "ایکسپائری ڈیٹ ٹھیک نہیں"
+
+#: classes/field/js.php:514
+msgid "Invalid Card Number"
+msgstr "کارڈ نمبر ٹھیک نہیں"
+
+#: classes/field/js.php:240
+msgid "Number is too short"
+msgstr "نمبر بہت چھوٹا ہے"
+
+#: classes/field/js.php:239
+msgid "Number is too long"
+msgstr "نمبر بہت بڑا ہے"
+
+#: classes/field/js.php:238 includes/field_processors.php:308
+msgid "Not a number"
+msgstr "ایک نمبر نہیں ہے"
+
+#: classes/field/js.php:237
+msgid "Invalid country code"
+msgstr "ملک کا کوڈ ٹھیک نہیں"
+
+#: classes/field/js.php:236
+msgid "Invalid number"
+msgstr "نمبر ٹھیک نہیں"
+
+#: classes/entry/vue.php:123
+msgid "You are not allowed to view this."
+msgstr "آپ کو یہ دیکھنے کی اجازت نہیں؟"
+
+#: classes/entry/vue.php:122
+msgid "No Entries To Display"
+msgstr "ڈسپلے کرنے کے لیے کوئی اینٹریز نہیں"
+
+#: classes/core.php:5222
+msgid "Submission rejected, token invalid"
+msgstr "سبمیشن ریجکٹ کر دی گئی ہے، ٹوکن درست نہیں"
+
+#: classes/core.php:1226
+msgid "Send email to different recipients depending on conditions"
+msgstr "مختلف لوگوں کو مختلف کنڈیشنز کے مطابق ای میل کریں"
+
+#: classes/core.php:1225
+msgid "Conditional Recipient"
+msgstr "کنڈیشن کے مطابق موصول کرنے والے "
+
+#: classes/api/entries.php:117
+msgid "Entry Not Deleted"
+msgstr "اینٹری ڈیلیٹ نہیں ہوئی"
+
+#: classes/api/entries.php:115
+msgid "Entry Deleted"
+msgstr "اینٹری ڈیلیٹ ہوگئی ہے"
+
+#: classes/admin.php:276
+msgid "Job Application Form - with Gravatar preview"
+msgstr "گراواٹار کے پری ویو کی سہولت کے ساتھ اپلیکیشن فارم"
+
+#: classes/admin.php:272
+msgid "Rate Our Service Form - with star review"
+msgstr "ہمارے سروس فارم کو سٹارز میں ریٹنگ دیں"
+
+#: classes/admin.php:268 includes/templates/simple-booking-form-example.php:7
+#: includes/templates/simple-booking-form-example.php:256
+msgid "Simple Booking Form"
+msgstr "سادہ سا بکنگ فارم"
+
+#: classes/admin.php:256 includes/templates/starter-contact-form.php:13
+#: includes/templates/starter-contact-form.php:216
+msgid "Contact Form"
+msgstr "کانٹیکٹ فارم"
+
+#: ui/viewer-two/viewer.php:55
+msgid "Previous"
+msgstr "سابقہ"
+
+#: ui/entries/pagination.php:17
+msgid "of"
+msgstr "کی"
+
+#: ui/viewer-two/viewer.php:58
+msgid "Next"
+msgstr "آگے"
+
+#: fields/section-break/config.php:9
+msgid "Width"
+msgstr "چوڑائی"
+
+#: classes/fields.php:453
+#: includes/templates/job-application-form-example.php:308
+msgid "Summary"
+msgstr "خلاصہ"
+
+#: ui/entries/pagination.php:11
+msgid "Posts Per Page"
+msgstr "پوسٹیں فی صفحہ"
+
+#: includes/ajax.php:76
+msgid "See Example"
+msgstr "مثال دیکھیں"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://CalderaForms.com"
+msgstr "https://CalderaForms.com"
+
+#: fields/cf2_text/config.php:34 fields/text/config.php:34
+msgid "Change the field type."
+msgstr "فیلڈ ٹائپ تبدیل کریں۔"
+
+#: fields/cf2_text/config.php:19 fields/text/config.php:19
+msgid "HTML5 Type"
+msgstr "HTML5 ٹائپ"
+
+#: fields/calculation/config.php:41
+msgid "Decimal Separator"
+msgstr "ڈیسیمل سپریٹر"
+
+#: fields/calculation/config.php:33
+msgid "Thousands Separator"
+msgstr "ہزاروں سپریٹرز"
+
+#: ui/admin.php:291
+msgid "Read Now"
+msgstr "ابھی پڑھیں"
+
+#: ui/admin.php:287
+msgid "We have a complete getting started guide for new users."
+msgstr "ہمارے پاس یوزرز کے لیے ایک مکمل گائیڈ موجود ہے"
+
+#: ui/admin.php:284
+msgid "New To Caldera Forms?"
+msgstr "کالڈرہ فارم پر آپ نئے ہیں؟"
+
+#: includes/plugin-page-banner.php:273
+msgid "Get notified of plugin updates:"
+msgstr "پلگ ان اپڈیٹس کے لیے نوٹیفیکشن حاصل کریں"
+
+#: includes/plugin-page-banner.php:263
+msgid "Go Further"
+msgstr "مزید آگے جائیں"
+
+#: includes/plugin-page-banner.php:247
+msgid "Thanks for installing Caldera Forms"
+msgstr "کالڈرہ فارم انسٹال کرنے کا شکریہ"
+
+#: fields/toggle_switch/field.php:42
+msgid "Choose Option"
+msgstr "آپشن سلیکٹ کریں"
+
+#: fields/gravatar/field.php:17
+msgid "Gravatar Image"
+msgstr "گراوٹار امیج"
+
+#: classes/api/response_factory.php:35
+msgid "Form entry not found"
+msgstr "فارم کی اینٹری نہیں ملی"
+
+#: classes/api/response_factory.php:13 classes/api/entries.php:138
+msgid "Form not found"
+msgstr "فارم نہیں ملا"
+
+#: classes/api/crud.php:283
+msgid "Route Not Yet Implemented :("
+msgstr "راؤٹ ابھی تک با اثر نہیں ہوا"
+
+#: includes/plugin-page-banner.php:256
+msgid "Get Started"
+msgstr "شروعات کریں"
+
+#: ui/panels/emailer.php:124
+msgid "Who to send email to? Use a comma separated list of email addresses to send to more than one address."
+msgstr "آپ کس کو ای میل بھیجنا چاہتے ہیں؟ ایک سے زیادہ لوگوں کو ای میل بھیجنے کے لیے کومہ سے اس ان کو علیحدہ کریں"
+
+#: ui/panels/emailer.php:120
+msgid "Email Recipients"
+msgstr "ای میل موصول کنندہ"
+
+#: ui/panels/emailer.php:56
+msgid "Name for email sender"
+msgstr "ای میل بھیجنے والے کا نام"
+
+#: ui/panels/emailer.php:32
+msgid "Use The Mailer"
+msgstr "میلر کا استعمال کریں"
+
+#: classes/admin/apeasyqueries.php:34
+msgid "Easy Queries"
+msgstr "آسان کیوریز"
+
+#: classes/admin/apeasyqueries.php:19
+msgid "Easy Query"
+msgstr "آسان کیوری"
+
+#: classes/admin/apeasypods.php:19 classes/admin/apeasypods.php:34
+msgid "Easy Pod"
+msgstr "آسان پاڈ"
+
+#: classes/admin/privacy.php:92 classes/admin/php.php:126 caldera-core.php:30
+#: ui/emails/settings.php:37 ui/emails/settings.php:75 ui/extend.php:101
+#: ui/support/clippy_templates.php:37 ui/support/panels/support.php:20
+#: ui/admin.php:313
+msgid "Learn More"
+msgstr "مزید جانیں"
+
+#: includes/cf-pro-client/classes/admin/scripts.php:94
+msgid "Form To PDF"
+msgstr "فارم سے پی ڈی ایف"
+
+#: ui/extend.php:52
+msgid "View Caldera Forms Add-ons"
+msgstr "کالڈرہ فارم کے ایڈ اون دیکھیں"
+
+#: classes/core.php:4865
+msgid "Navigate to %s"
+msgstr "%s پر جائیں"
+
+#: classes/email/settings.php:259
+msgid "Switching email services requires PHP 5.4 or later. PHP 5.6 is strongly recommended."
+msgstr "ای میل سروس تبدیل کرنے کے لیے پی ایچ پی 4۔5 یا اس سے زیادہ درکار ہے۔ 6۔5 زیادہ بہتر ہے۔"
+
+#: ui/panels/layout_toolbar.php:17
+msgid "Add Field"
+msgstr "فیلڈ ایڈ کریں"
+
+#: ui/panels/emailer.php:186
+msgid "Allows you to preview the message and who the message is sent to, as well as the subject. You should turn this off when not testing."
+msgstr "اس کے ذریعے سے آپ میسج، وصول کنندہ اور سبجیکٹ کا پری ویو دیکھ سکتے ہیں۔ جب آپ ٹیسٹنگ نا کر رہے ہوں تو اس کو بند رکھیں۔"
+
+#: ui/panels/emailer.php:180
+msgid "Save Preview"
+msgstr "پری ویو سیو کریں۔"
+
+#: ui/entries/toolbar.php:49 ui/entries_toolbar.php:47
+msgid "Export All"
+msgstr "سب کو ایکسپورٹ کریں"
+
+#: ui/entries/toolbar.php:8 ui/entries_toolbar.php:8
+msgid "Click to close entry viewer"
+msgstr "کلک کرکے اینٹری ویوئر کو بند کریں"
+
+#: ui/emails/settings.php:84
+msgid "Save Email Settings"
+msgstr "ای میل سیٹنگ سیو کریں"
+
+#: ui/emails/settings.php:74
+msgid "Documentation for configuring SendGrid API"
+msgstr "SendGrid API کو سیٹ کرنے کے لیے ڈاکومینٹیشن"
+
+#: ui/emails/settings.php:65 ui/emails/settings.php:72
+msgid "SendGrid API Key"
+msgstr "SendGrid API Key"
+
+#: ui/emails/settings.php:60
+msgid "By default Caldera Forms uses WordPress to send emails. You can choose to use another method to increase reliability of emails and reduce server load."
+msgstr "ڈیفالٹ طور پر کالڈرہ فارم ورڈپریس کے ذریعے سے ای میل بھیجتا ہے۔ آپ اس کے علاوہ بھی کسی سروس کا انتخاب حسبِ ضرورت کر سکتے ہیں۔"
+
+#: ui/emails/settings.php:55
+msgid "Caldera (coming soon)"
+msgstr "کالڈر (جلد آرہا ہے)"
+
+#: ui/emails/settings.php:52
+msgid "SendGrid"
+msgstr "SendGrid"
+
+#: ui/emails/settings.php:44
+msgid "Email System"
+msgstr "ای میل سسٹم"
+
+#: ui/emails/email-preview.php:26
+msgid "Caldera Forms Email Preview"
+msgstr "کالڈرہ فارم ای میل پری ویو"
+
+#: ui/edit.php:1048
+msgid "Set Field"
+msgstr "فیلڈ سیٹ کریں"
+
+#: ui/panels/form-settings.php:30
+msgid "Shortcode"
+msgstr "شارٹ کوڈ"
+
+#: ui/edit.php:793
+msgid "Preview Last Email"
+msgstr "لاسٹ ای میل دیکھیں"
+
+#: includes/cf-pro-client/classes/admin/scripts.php:108
+#: ui/panels/form-settings.php:14 ui/edit.php:731
+msgid "Form Settings"
+msgstr "فارم سیٹنگ"
+
+#: ui/edit.php:648
+msgid "Delete Field"
+msgstr "ڈیلیٹ فیلڈ"
+
+#: ui/edit.php:543
+msgid "Field Type"
+msgstr "فیلڈ ٹائپ"
+
+#: classes/admin/assets.php:320 ui/edit.php:526
+msgid "Fields"
+msgstr "فیلڈز"
+
+#: ui/edit.php:355
+msgid "Option values must be unique."
+msgstr "آپشن کی ویلیو یونیک ہونی چاہیئے"
+
+#: ui/edit.php:303
+msgid "Select a preset"
+msgstr "ایک پری سیٹ منتخب کریں"
+
+#: ui/edit.php:300
+msgid "Bulk Insert / Preset"
+msgstr "بلک انزرٹ/پری سیٹ"
+
+#: ui/admin.php:508
+msgid "Close Email Settings"
+msgstr "ای میل سیٹنگ بند کریں"
+
+#: ui/admin.php:179
+msgid "Get Shortcode"
+msgstr "شارٹ کوڈ حاصل کریں"
+
+#: ui/admin.php:86
+msgid "Click to modify Caldera Forms general settings"
+msgstr "کلک کرکے کالڈرہ فارم کی سیٹنگ تبدیل کریں"
+
+#: ui/admin.php:72 ui/admin.php:499 ui/admin.php:512
+msgid "Email Settings"
+msgstr "ای میل سیٹنگ"
+
+#: ui/admin.php:71
+msgid "Click to modify Caldera Forms email settings"
+msgstr "کلک کرکے کالڈرہ فارم کی ای میل سیٹنگ تبدیل کریں"
+
+#: fields/recaptcha/preview.php:5
+msgid "Click here for more information."
+msgstr "مزید معلومات کے لیے یہاں کلک کریں"
+
+#: fields/recaptcha/preview.php:4
+msgid "Documenation for this field type"
+msgstr "اس فیلڈ ٹائپ کے لیے معلومات"
+
+#: fields/recaptcha/preview.php:3
+msgid "This field type is discontinued."
+msgstr "یہ فیلڈ ٹائپ اب میسر نہیں۔"
+
+#: fields/advanced_file/field.php:67 includes/field_processors.php:110
+msgid "This file type is not allowed. Please try another."
+msgstr "اس فائل ٹائپ کی اجازت نہیں ہے۔ پلیز کوئی اورسلیکٹ کریں۔۔"
+
+#: fields/advanced_file/field.php:65
+msgid "File exceeds the maximum upload size for this site."
+msgstr "فائل کا سائز اس سائٹ کی زیادہ سے زیادہ سائز کی لمٹ سے زیادہ ہے"
+
+#: fields/cf2_file/config.php:38 fields/file/config_template.php:37
+#: fields/advanced_file/config_template.php:28
+msgid "Add to Media Library"
+msgstr "میڈیا کو لائبریری میں ایڈ کریں"
+
+#: classes/email/previews.php:55
+msgid "There is no saved email preview. Please submit this form with email previewing on and then try again."
+msgstr "ای میل کا کوئی سیو کیا ہوا پری ویو نہیں ہے۔ پلیز اس فارم کو ای میل پری ویو آن کرکے سبمٹ کریں اور دوبارہ کوشش کریں۔۔"
+
+#: classes/fields.php:101 ui/edit.php:1024 ui/edit.php:1044
+msgid "Discontinued"
+msgstr "مزید یہ میسر نہیں"
+
+#: classes/admin.php:375
+msgid "Change Template"
+msgstr "ٹیمپلیٹ تبدیل کریں"
+
+#: classes/admin.php:365
+msgid "Blank Form"
+msgstr "خالی فارم"
+
+#: classes/admin.php:319
+msgid "Preview not available"
+msgstr "پری ویو میسر نہیں"
+
+#: classes/admin.php:219
+msgid "Canadian Provinces & Territories"
+msgstr "کینیڈا کے علاقے"
+
+#: classes/admin.php:207
+msgid "Continents"
+msgstr "خطے"
+
+#: classes/admin.php:203
+msgid "Countries (Names Only)"
+msgstr "ملک(صرف نام)"
+
+#: classes/admin.php:199
+msgid "Countries (ISO Alpha-2)"
+msgstr "ملک (ISO Alpha-2)"
+
+#: fields/advanced_file/field.php:66
+msgid "This file is empty. Please try another."
+msgstr "یہ فائل خالی ہے۔ براہ مہربانی دوبارہ کوشش کریں۔"
+
+#: classes/fields.php:491 classes/fields.php:506 classes/fields.php:521
+#: classes/fields.php:534 classes/fields.php:554 classes/fields.php:572
+#: classes/fields.php:587 classes/fields.php:608 ui/edit.php:373
+#: ui/edit.php:1015
+msgid "Select"
+msgstr "منتخب کریں"
+
+#: ui/emails/settings.php:49
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ui/support/panels/support.php:24
+msgid "Need an integration with a third-party service or to modify the default of Caldera Forms or to do something else special?"
+msgstr "کیا کسی تھرڈ پارٹی سروس کے ساتھ انٹیگریٹ کرنا چاہتے ہیں؟ یا کالڈرہ فارم تبدیل کرنا چاہتے ہیں یا کچھ اور؟"
+
+#: ui/support/panels/support.php:24
+msgid "Customization"
+msgstr "کسٹمائزیشن"
+
+#: ui/support/panels/support.php:23
+msgid "Got a really trick form and not a lot of time?"
+msgstr "کیا جلد ہی فارم بنانا چاہتے ہیں اور آپ کے پاس ٹا ئم کم ہے؟"
+
+#: ui/support/panels/support.php:20
+msgid "Direct support from our team, your questions answered within one business day."
+msgstr "ہم فراہم کر رہے ہیں بہترین سپورٹ، اپنے سوالوں کے جواب پائیں صرف ایک(بزنس)دن میں۔"
+
+#: ui/support/panels/support.php:20
+msgid "Priority Support"
+msgstr "پرارٹی سپورٹ"
+
+#: ui/support/panels/support.php:17
+msgid "Caldera Forms is free to use, if you need any help, we provide services to ensure you can get the most out of Caldera Forms."
+msgstr "کالڈرہ فارم فری ہیں، اگر آپ کو کوئی مدد چاہیئے تو ہم اس کے لیے بہترین سپورٹ فراہم کرتے ہیں۔"
+
+#: ui/support/panels/support.php:14
+msgid "Caldera Forms Support"
+msgstr "کالڈرہ فارم سپورٹ"
+
+#: ui/support/panels/debug.php:21
+msgid "Full Debug Information"
+msgstr "فل ڈی بگ انفارمیشن"
+
+#: ui/support/panels/debug.php:14
+msgid "Short Debug Information"
+msgstr "شارٹ ڈی بگ انفارمیشن"
+
+#: ui/support/panels/beta.php:38
+msgid "You can download the latest beta as a zip file and install it manually."
+msgstr "آپ لیٹیسٹ بی ٹا ورژن کی زپ ڈاؤنلوڈ کر سکتے ہیں اور اسکو خود انسٹال کر سکتے ہیں۔"
+
+#: ui/support/panels/beta.php:29
+msgid "If you have installed the plugin via Git, you can pull the \"develop\" branch."
+msgstr "اگر آپ نے گٹ کے ذریعے سے پلگ ان انسٹال کی ہے تو آپ \"ڈویلپ\" برانچ سے پُل کر سکتے ہیں۔"
+
+#: ui/support/panels/beta.php:23
+msgid "You can use the GitHub Updater plugin."
+msgstr "آپ گٹ ہب اپڈیٹر پلگ ان بھی استعمال کر سکتے ہیں۔"
+
+#: ui/support/panels/beta.php:17
+msgid "You can install the CalderaWP License manager plugin to automatically update to the latest beta of Caldera Forms."
+msgstr "آپ کالڈرہ فارم کا لائسنس مینجر کی پلگ ان استعمال کر سکتے ہیں جو خود بخود لیٹیسٹ ورژن پر اپڈیٹ کر دیتی ہے۔"
+
+#: ui/support/panels/beta.php:13
+msgid "Options For Getting The Latest Version of Caldera Forms:"
+msgstr "لیٹیسٹ ورژن حاصل کرنے کے آپشن:"
+
+#: ui/support/page.php:33
+msgid "Get Latest Beta"
+msgstr "لیٹیسٹ بی ٹا حاصل کریں"
+
+#: ui/support/page.php:28
+msgid "Debug Information"
+msgstr "ڈی بگ انفارمیشن"
+
+#: ui/support/page.php:23
+msgid "How To Get Support"
+msgstr "کس طرح سپورٹ حاصل کریں"
+
+#: ui/support/page.php:17
+msgid "Caldera Forms: Support"
+msgstr "کالڈرہ فارم: سپورٹ"
+
+#: ui/insert_shortcode.php:41
+msgid "Modal Width"
+msgstr "ماڈل وڈتھ"
+
+#: ui/insert_shortcode.php:39
+msgid "Open Modal Text"
+msgstr "ماڈل ٹیکسٹ اوپن کریں"
+
+#: ui/insert_shortcode.php:36
+msgid "Link"
+msgstr "لنک"
+
+#: ui/insert_shortcode.php:34
+msgid "Open Modal Trigger Type"
+msgstr "ماڈل ٹرگرٹائپ اوپن کریں"
+
+#: ui/insert_shortcode.php:32
+msgid "Set as Modal"
+msgstr "ماڈل کے طور پر منتخب کریں"
+
+#: ui/insert_shortcode.php:31
+msgid "Options"
+msgstr "آپشن"
+
+#: fields/file/field.php:11 fields/advanced_file/field.php:21
+msgid "Add Files"
+msgstr "فائلز ایڈ کریں"
+
+#: fields/advanced_file/field.php:19
+msgid "Add File"
+msgstr "فائل ایڈ کریں"
+
+#: fields/cf2_file/config.php:3 fields/file/config_template.php:26
+#: fields/advanced_file/config_template.php:36
+msgid "Button Text"
+msgstr "بٹن ٹیکسٹ"
+
+#: ui/support/panels/support.php:24
+msgid "Let us write you some code for you"
+msgstr "ہمیں آپ کے لیے کچھ کوڈ لکھنے دیں"
+
+#: ui/support/panels/support.php:23
+msgid "We can help"
+msgstr "ہم مدد کر سکتے ہیں"
+
+#: ui/support/panels/support.php:23
+msgid "Form Creation"
+msgstr "فارم بنائیں"
+
+#: classes/support.php:68 classes/support.php:69
+msgid "Support"
+msgstr "معاونت"
+
+#: classes/core.php:1583
+msgid "Calculation is invalid"
+msgstr "کلکولیشن درست نہیں"
+
+#: classes/admin.php:1509
+msgid "Could not process export. This is most likely due to a problem with the form configuration."
+msgstr "ایکسپورٹ نہیں ہو سکتا، اس کی وجہ فارم کی کنفیگریشن ہے"
+
+#: classes/admin.php:1344
+msgid "Form could not be imported."
+msgstr "فارم امپورٹ نہیں ہو سکتا۔"
+
+#: classes/admin.php:1328
+msgid "Form must have a name."
+msgstr "فارمز کا نام ہونا چاہیئے۔"
+
+#: classes/admin.php:1325
+msgid "File is not a valid Caldera Form Import"
+msgstr "یہ فارم کالڈرہ فارم کی صحیح امپورٹ فائل نہیں"
+
+#: classes/admin.php:1292
+msgid "Form could not be deleted."
+msgstr "فارم ڈیلیٹ نہیں کیا جا سکتا"
+
+#: ui/admin_templates.php:47 ui/panels/form-settings.php:161
+msgid "Creates a sub-menu item of the Caldera Forms menu and a page to show entries for this form."
+msgstr "کالڈرہ فارم کے مینو کی سب مینیو آئٹم بنائیں اور ایک صفحہ بھی بنائیں جس کے ذریعے سے اس فارم کے اندراجات دکھائے جا سکیں؟"
+
+#: ui/panels/processors.php:134
+msgid "Enable Processor"
+msgstr "پرا سیسر کو فعال بنائیں"
+
+#: ui/panels/processors.php:128
+msgid "Disable Processor"
+msgstr "پراسیسر کو غیر فعال بنائیں"
+
+#: ui/panels/processors.php:113
+msgid "Enable / Disable Processor"
+msgstr "پراسیسر کو فعال/غیر فعال بنائیں"
+
+#: includes/cf-pro-client/classes/admin/scripts.php:109
+#: ui/panels/processors.php:104
+msgid "Settings"
+msgstr "ترتیبات"
+
+#: ui/panels/emailer.php:38
+msgid "Enable Mailer"
+msgstr "میلر کو فعال بنائیں"
+
+#: ui/panels/emailer.php:37
+msgid "Disable Mailer"
+msgstr "میلر کو غیر فعال بنائیں"
+
+#: ui/panels/emailer.php:36
+msgid "Enable Or Disable Mailer"
+msgstr "میلر کو فعال اور غیر فعال بنائیں"
+
+#: ui/panels/processors.php:140
+msgid "Processor is currently disabled"
+msgstr "پراسیسر فی الحال غیر فعال ہے"
+
+#: ui/panels/emailer.php:45
+msgid "Mailer is currently disabled"
+msgstr "میلر فی الحال غیر فعال ہے"
+
+#: classes/admin.php:652
+msgid "View Entry"
+msgstr "اینٹری دیکھیں"
+
+#: classes/admin.php:644
+msgid "Save Changes"
+msgstr "تبدیلیاں محفوظ کریں"
+
+#: classes/entry/ui.php:196
+msgid "Editing Entry "
+msgstr "اینٹری ایڈٹ کر رہے ہیں"
+
+#: classes/admin.php:626
+msgid "Edit Entry"
+msgstr "اینٹری ایڈٹ کریں"
+
+#. Description of the plugin
+msgid "Easy to use, grid based responsive form builder for creating simple to complex forms."
+msgstr "گرڈ کی بنیاد پر تیار کیے گئے یہ فارم سادہ سے سادہ اور پیچیدہ سے پیچیدہ شکل اختیار کر سکتے ہیں۔"
+
+#: ui/panels/variables.php:31 ui/panels/variables.php:51
+msgid "Entry List"
+msgstr "اینٹری لسٹ"
+
+#: ui/panels/variables.php:30 ui/panels/variables.php:50
+msgid "Passback"
+msgstr "پاس بیک"
+
+#: ui/panels/variables.php:29 ui/panels/variables.php:49
+msgid "Static"
+msgstr "سٹیٹک"
+
+#: ui/panels/variables.php:16
+msgid "No variables defined"
+msgstr "کوئی ویری ایبل ڈیفائن نہیں کیا گیا"
+
+#: ui/panels/variables.php:14
+msgid "Behaviour"
+msgstr "رویہ"
+
+#: ui/panels/variable_add.php:1
+msgid "Add Variable"
+msgstr "ویری ایبل ایڈ کریں"
+
+#: ui/panels/processors.php:336
+msgid "This processor has no configurable options."
+msgstr "اس پراسیسر کی کوئی سیٹنگ نہیں"
+
+#: ui/panels/processors.php:274
+msgid "by"
+msgstr "کی طرف سے"
+
+#: ui/panels/processors.php:269
+msgid "Use Processor"
+msgstr "پراسییسر استعمال کریں"
+
+#: ui/panels/processors.php:205
+msgid "Add Processor"
+msgstr "پراسیسر ایڈ کریں"
+
+#: ui/panels/processors.php:161
+msgid "Remove Processor"
+msgstr "پراسیسر ختم کریں"
+
+#: ui/panels/processors.php:160
+msgid "Are you sure you want to remove this processor?"
+msgstr "کیا آپ واقعی اس پراسیسر کو ختم کرنا چاہتے ہیں؟"
+
+#: ui/panels/processors.php:145
+msgid "Processor Type"
+msgstr "پراسیسر کی قسم"
+
+#: ui/panels/processors.php:22 ui/panels/processors.php:52
+#: ui/panels/processors.php:109
+msgid "New Form Processor"
+msgstr "فارم کا نیا پراسیسر"
+
+#: ui/panels/pages.php:5
+msgid "ProTip: Use an HTML element to build a custom progress per page"
+msgstr "پرو ٹپ: HTML ایلیمنٹ کے ذریعےسے ہر صفحے پر کسٹم پراگرس بنائیں"
+
+#: ui/panels/pages.php:4
+msgid "Show Breadcrumbs"
+msgstr "Breadcrumbs دکھائیں"
+
+#: ui/panels/pages.php:2
+msgid "Progress Bar"
+msgstr "پراگرس بار"
+
+#: ui/panels/layout_toolbar.php:11
+msgid "Add Page"
+msgstr "صفحہ ایڈ کریں"
+
+#: ui/panels/layout.php:13
+msgid "This will remove all the fields in this row. Are you sure?"
+msgstr "یہ اس قطار کی فیلڈز ڈیلیٹ کر دے گا۔ کیا آپ کرنا چا ہتے ہیں؟"
+
+#: ui/panels/emailer.php:198
+msgid "If set, entries will have a \"Mailer Debug\" meta tab to see the transaction log. Do not keep this enabled on production as it sends two emails for tracking."
+msgstr "اگر اس کو سیٹ کر دیا جائے تو اینٹریز یمں  \"Mailer Debug\" کی میٹا ٹیب شامل ہو جائے گا۔ پراڈکشن کے وقت اس کو آن نہ کریں کیونکہ یہ ٹریکنگ کے لیے دو میلز بھیجے گا"
+
+#: ui/panels/emailer.php:197
+msgid "Enable email send transaction log"
+msgstr "ای میل سینڈ ٹرانزیکشن لاگ کو فعال بنائیں"
+
+#: ui/panels/emailer.php:194
+msgid "Debug Mailer"
+msgstr "ڈی بگ میلر"
+
+#: ui/panels/emailer.php:160
+msgid "Magic tags, %field_slug% are replaced with submitted data. Use {summary} to build an automatic mail based on form content. Leaving the mailer blank, will create an automatic summary."
+msgstr "میجک ٹیگز،  %field_slug% کو سبمٹ کیے گئے ڈیٹا کے ساتھ تبدیل کر دیا جاتا ہے۔ {summary} کے ذریعے سے آپ کانٹینٹ کی بنیاد پر آٹو میٹک ای میل بنا سکتے ہیں۔ میلر بلینک چھوڑنے کی صور میں خود سمری بنے گی"
+
+#: ui/panels/pages.php:14 ui/panels/layout_toolbar.php:4
+#: ui/panels/layout.php:14 ui/panels/layout.php:18 ui/panels/layout.php:22
+#: ui/panels/layout.php:110
+msgid "Page"
+msgstr "صفحہ"
+
+#: ui/panels/emailer.php:154
+msgid "Email Message"
+msgstr "ای  میل کا میسج"
+
+#: ui/panels/emailer.php:148
+msgid "Use %field_slug% to use a value from the form"
+msgstr "فارم سے ویلیو استعمال کرنے کے لیے  %field_slug% کا استعمال کریں"
+
+#: ui/panels/emailer.php:136
+msgid "Comma separated list of email addresses to send a BCC to."
+msgstr "جن کو آپ BCC بھیجنا چاہتے ہیں ان ای میل ایڈرس کا اندراج کومہ سے علیحدہ کرکے کریں"
+
+#: processors/auto_responder/config.php:50 ui/panels/emailer.php:131
+msgid "BCC"
+msgstr "BCC"
+
+#: ui/panels/emailer.php:112
+msgid "Attach a CSV version of the submission"
+msgstr "سبمیشن کا ایک CSV ورژن اٹیچ کریں"
+
+#: ui/panels/emailer.php:107
+msgid "CSV Include"
+msgstr "CSV شامل کریں"
+
+#: ui/panels/emailer.php:96
+msgid "Email Type"
+msgstr "ای میل کی قسم"
+
+#: ui/panels/emailer.php:77 ui/panels/emailer.php:89
+msgid "The email address of the person filling in the form. This will allow replies to the email to go to the sender."
+msgstr "جو بندہ فارم فل کر رہا ہے اس کا ای میل ایڈریس۔ اس کی مدد سے بھیجنے والوں کو ریپلائی جائیں گے۔"
+
+#: ui/panels/emailer.php:67 ui/panels/emailer.php:84
+msgid "Reply To Email"
+msgstr "ای میل کا جواب دیں"
+
+#: classes/admin/assets.php:314
+msgid "Select the fields to apply this condition to."
+msgstr "وہ فیلڈ سلیکٹ کریں جن پر یہ کنڈیشن اپلائی کرنی ہے"
+
+#: classes/admin/assets.php:313
+msgid "Applied Fields"
+msgstr "اپلائیڈ فیلڈز"
+
+#: classes/admin/assets.php:315
+msgid "Remove Condition"
+msgstr "کنڈیشن ختم کریں"
+
+#: ui/news_templates.php:21
+msgid "Unable to connect or no extensions available."
+msgstr "یا کنیکٹ نہیں ہورہا یا کوئی ایکسٹینشن میسر نہیں"
+
+#: classes/admin/assets.php:318
+msgid "Hide"
+msgstr "چھپائیں"
+
+#: ui/insert_shortcode.php:51
+msgid "Insert Form"
+msgstr "فارم انژرٹ کریں"
+
+#: ui/insert_shortcode.php:23
+msgid "You don't have any forms to insert."
+msgstr "انژرٹ کرنے کے لیے آپ کے پاس کوئی فارمز نہیں"
+
+#: ui/insert_shortcode.php:5
+msgid "Insert Caldera Form"
+msgstr "کالڈرہ فارم انژرٹ کریں"
+
+#: classes/admin.php:619 ui/insert_shortcode.php:53 ui/entries/toolbar.php:11
+#: ui/entries_toolbar.php:11
+msgid "Close"
+msgstr "بند کریں"
+
+#: ui/entries/scripts_templates.php:33 ui/entry_navigation.php:26
+msgid "item"
+msgstr "آئیٹم"
+
+#: ui/entries/scripts_templates.php:33 ui/entry_navigation.php:26
+msgid "items"
+msgstr "اشیاء"
+
+#: ui/entries/toolbar.php:69 ui/entries_toolbar.php:57
+msgid "Apply"
+msgstr "لاگو کریں"
+
+#: classes/admin/assets.php:317
+msgid "Show"
+msgstr "دکھائیں"
+
+#: classes/support.php:195 ui/entries/toolbar.php:31 ui/entries_toolbar.php:30
+msgid "Active"
+msgstr "فعال"
+
+#: ui/edit.php:1055
+msgid "No description given"
+msgstr "کوئی ڈسکرپشن نہیں دی گئی"
+
+#: ui/edit.php:938 ui/edit.php:972
+msgid "Remove"
+msgstr "حذف کریں"
+
+#: ui/panels/form-settings.php:281
+msgid "Used when viewing an entry from a non-logged in user."
+msgstr "یہ اس وقت استعمال ہوتا ہے جب آپ کسی ایسے یوزر کی اینٹری دیکھ دہے ہوں جو لاگ ان نہ ہو"
+
+#: ui/panels/form-settings.php:267
+msgid "Gravatar Field"
+msgstr "گراوٹار فیلڈ"
+
+#: ui/panels/form-settings.php:63
+msgid "Success Message"
+msgstr "سکسیس میسج"
+
+#: ui/panels/form-settings.php:244
+msgid "Honeypot"
+msgstr "ہنی پاٹ"
+
+#: ui/edit.php:873
+msgid "Add New"
+msgstr "ایڈ نیو"
+
+#: ui/panels/form-settings.php:235
+msgid "Hide form after successful submission"
+msgstr "کامیاب سبمیشن کے بعد فارم کو ہائڈ کردیں"
+
+#: ui/panels/form-settings.php:229
+msgid "Hide Form"
+msgstr "فارم ہائڈ کریں"
+
+#: ui/panels/form-settings.php:172
+msgid "View Entries"
+msgstr "اینٹریز دیکھیں"
+
+#: ui/panels/form-settings.php:82
+msgid "Capture Entries"
+msgstr "اینٹریزن کیپچر کریں"
+
+#: ui/panels/form-settings.php:220
+msgid "Deactivate / Draft"
+msgstr "ڈی ایکٹیویٹ /ڈرافٹ"
+
+#: ui/edit.php:747
+msgid "Preview Form"
+msgstr "فارم دیکھیں"
+
+#: ui/edit.php:738
+msgid "Updated Successfully"
+msgstr "کامیابی کے ساتھ اپ ڈیٹ ہوگیا ہے"
+
+#: ui/panels/form-settings.php:181
+msgid "All"
+msgstr "تمام"
+
+#: ui/panels/form-settings.php:215
+msgid "State"
+msgstr "حالت"
+
+#: ui/edit.php:648
+msgid "Are you sure you want to remove this field?. 'Cancel' to stop. 'OK' to delete"
+msgstr "کیا آپ واقعی اس فیلڈ کر ریموو کرنا چاپتے ہیں؟ 'کینسل' سے سٹاپ کریں اور 'او کے ' سے ڈیلیٹ کریں۔"
+
+#: ui/edit.php:598
+msgid "Show in Entry List"
+msgstr "لسٹ اینٹری میں دکھائیں"
+
+#: ui/admin.php:82 ui/admin.php:83 ui/admin.php:87
+msgid "General Settings"
+msgstr "عام ترتیبات"
+
+#: ui/edit.php:584
+msgid "Required"
+msgstr "یہ ضروری ہے"
+
+#: classes/admin/assets.php:310 classes/admin.php:757
+#: ui/panels/form-settings.php:52 ui/panels/form-settings.php:91
+#: ui/panels/form-settings.php:157 ui/admin.php:195
+msgid "Disable"
+msgstr "غیر فعال کریں"
+
+#: ui/edit.php:569
+msgid "Hide Label"
+msgstr "لیبل ہائڈ کریں"
+
+#: ui/edit.php:342 ui/edit.php:344 ui/edit.php:1127 ui/edit.php:1134
+msgid "Label"
+msgstr "لیبل"
+
+#: ui/edit.php:313
+msgid "Show Values"
+msgstr "ویلیوز دکھائیں"
+
+#: ui/edit.php:312
+msgid "No Default"
+msgstr "ڈیفالٹ کوئی بھی نہیں ہے"
+
+#: ui/edit.php:308
+msgid "Insert Options"
+msgstr "آپشنز کا اندراج کریں"
+
+#: ui/edit.php:307
+msgid "Single option per line. These replace the current list."
+msgstr "ایک لائن پر ایک آپشن۔ یہ موجودہ لسٹ کو ری پلیس کر دیتے ہیں"
+
+#: ui/edit.php:299
+msgid "Add Option"
+msgstr "آپشن ایڈ کریں"
+
+#: ui/edit.php:256
+msgid "Descending"
+msgstr "نزولی"
+
+#: ui/edit.php:253
+msgid "Ascending"
+msgstr "صعودی"
+
+#: ui/edit.php:243
+msgid "Menu Order"
+msgstr "مینو آرڈر"
+
+#: ui/edit.php:240
+msgid "Comment Count"
+msgstr "کمنٹ کاؤنٹ"
+
+#: ui/edit.php:237
+msgid "Parent ID"
+msgstr "پیرنٹ آئی ڈی"
+
+#: ui/edit.php:234
+msgid "Modified Date"
+msgstr "تبدیل کی گئی ڈیٹ"
+
+#: ui/edit.php:231
+msgid "Publish Date"
+msgstr "پبلش کی ڈیٹ"
+
+#: ui/edit.php:249
+msgid "Order"
+msgstr "درجہ"
+
+#: ui/edit.php:225
+msgid "Author"
+msgstr "مصنف"
+
+#: ui/edit.php:222
+msgid "Name (post slug)"
+msgstr "نام (پوسٹ سلگ)"
+
+#: ui/edit.php:209 ui/edit.php:576
+msgid "Slug"
+msgstr "سلگ"
+
+#: ui/edit.php:138 ui/edit.php:155
+msgid "Taxonomy"
+msgstr "ٹیکسانومی"
+
+#: ui/edit.php:200
+msgid "Count"
+msgstr "کاؤنٹ"
+
+#: ui/edit.php:196 ui/edit.php:215
+msgid "Orderby"
+msgstr "آرڈر بائی"
+
+#: ui/edit.php:136
+msgid "Select a source"
+msgstr "ایک سورس سلیکٹ کریں"
+
+#: ui/edit.php:137 ui/edit.php:171
+msgid "Post Type"
+msgstr "پوسٹ ٹائپ"
+
+#: classes/api/forms.php:574 ui/entries/scripts_templates.php:308
+#: ui/edit.php:203 ui/edit.php:219 ui/edit.php:554
+msgid "ID"
+msgstr "آئی ڈی"
+
+#: ui/edit.php:126
+msgid "Auto Populate"
+msgstr "آٹو پاپولیٹ"
+
+#: ui/entries/scripts_templates.php:340
+msgid "No entries yet."
+msgstr "ابھی تک کوئی اینٹری نہیں"
+
+#: classes/api/entries.php:161 ui/entries/scripts_templates.php:334
+msgid "No entries found"
+msgstr "کوئی اینٹری نہیں ملی"
+
+#: classes/api/forms.php:578 ui/entries/scripts_templates.php:309
+#: ui/entries/scripts_templates.php:353
+msgid "Submitted"
+msgstr "سبمٹ ہو گیا"
+
+#: ui/admin_templates.php:128
+msgid "Form File"
+msgstr "فارم فائل"
+
+#: classes/admin.php:372 ui/admin_templates.php:112 ui/admin_templates.php:297
+#: ui/panels/form-settings.php:21
+msgid "Form Name"
+msgstr "فارم کا نام"
+
+#: ui/edit.php:591
+msgid "Description"
+msgstr "تفصیل"
+
+#: ui/admin_templates.php:69
+msgid "This is not a backup and cannot be imported."
+msgstr "کوئی بیک اپ موجود نہیں اور اس کو امپورٹ بھی نہیں کیا جا سکتا"
+
+#: ui/admin_templates.php:66
+msgid "This gives you a hardcoded .php file that can be included in projects. It includes the correct filter for the ID specific form allowing you to easily use the form by simply including the file."
+msgstr "یہ آپ کو ہارڈ کوڈڈ پی ایچ پی کی فائل دیتا ہے جو کہ پروجیکٹس میں شامل کی جاسکتی ہے۔  اس میں آئی ڈی کی لیے فلٹر بھی دستیاب ہوتے ہیں جس کی مدد سے آپ آسانی سے فائل کو ایڈ کرکے فارم استعمال کر سکتے ہیں"
+
+#: ui/admin_templates.php:59
+msgid "Convert Field ID's to use field slugs"
+msgstr "فیلڈ سلگ کو استعمال کرنے کے لیے فائل کی آئی ڈیز کو کنورٹ کریں"
+
+#: ui/admin_templates.php:54
+msgid "Field Slugs"
+msgstr "فیلڈ سلگ"
+
+#: ui/admin_templates.php:34
+msgid "Form ID"
+msgstr "فارم آئی ڈی"
+
+#: ui/admin_templates.php:29
+msgid "This gives you a .json file that can be imported into Caldera Forms."
+msgstr "یہ آپ کی جے سن کی فائل دیتا ہے جس کو آپ کالڈرہ فارم میں امپورٹ کر سکتے ہیں۔"
+
+#: ui/admin_templates.php:23
+msgid "PHP include File"
+msgstr "اس فائل میں پی ایچ پی شامل ہے"
+
+#: ui/admin_templates.php:22
+msgid "Backup / Importable (json)"
+msgstr "بیک اپ / امپورٹ کے قابل (جے سن)"
+
+#: ui/admin_templates.php:18
+msgid "Export Type"
+msgstr "ایکسپورٹ ٹائپ"
+
+#: ui/entries/toolbar.php:62 ui/admin_templates.php:6 ui/admin_templates.php:96
+msgid "Export Selected"
+msgstr "سلیکٹ کیے ہوئے ایکسپورٹ کریں"
+
+#: ui/admin_templates.php:102
+msgid "Delete Permanently"
+msgstr "ہمیشہ کے لیے حذف کریں"
+
+#: ui/entries/toolbar.php:65 ui/admin_templates.php:9
+msgid "Move to Trash"
+msgstr "ردی کی ٹوکری میں منتقل کریں"
+
+#: ui/admin.php:398
+msgid "Looks like something is not working. Please try again a little later or post to the <a href=\"http://wordpress.org/support/plugin/caldera-forms\" target=\"_blank\">support forum</a>."
+msgstr "ایسا لگ رہا ہے کہ کوئی چیز کام نہیں کر رہی۔ براہ کرم بعد میں کوشش کریں یا <a href=\"http://wordpress.org/support/plugin/caldera-forms\" target=\"_blank\"> سپورٹ فارم </a> میں پوسٹ کریں"
+
+#: ui/admin.php:277
+msgid "You don't have any forms yet."
+msgstr "آپ نے ابھی تک کوئی فارم نہیں بنایا"
+
+#: ui/entries/toolbar.php:59 ui/admin_templates.php:3 ui/admin_templates.php:93
+msgid "Bulk Actions"
+msgstr "اجتماعی اقدامات"
+
+#: ui/admin.php:255
+msgid "This will delete this form permanently. Continue?"
+msgstr "یہ ہمیشہ کے لیے فارم ڈیلیٹ کر دے گا۔ کیا آپ ایسا کرنا چاہتے ہیں؟"
+
+#: ui/admin.php:252
+msgid "Clone"
+msgstr "کلون"
+
+#: ui/admin.php:249
+msgid "Clone Form"
+msgstr "کلون فارم"
+
+#: ui/admin.php:231 ui/admin.php:234
+msgid "Export Form"
+msgstr "ایکسپورٹ فارم"
+
+#: ui/admin.php:255
+msgid "Delete"
+msgstr "حذف کریں"
+
+#: ui/admin.php:236
+msgid "Export"
+msgstr "برآمد"
+
+#: ui/admin.php:182
+msgid "Mailer Debug enabled."
+msgstr "میلر ڈی بگ فعال کر دیا گیا ہے۔"
+
+#: ui/admin.php:172
+msgid "Disabled"
+msgstr "غیرفعال کر دیا گیا ہے۔"
+
+#: ui/admin.php:155 ui/admin.php:200 ui/admin.php:217
+msgid "Entries"
+msgstr "اینٹریز"
+
+#: ui/admin_templates.php:241
+msgid "Grid Structures"
+msgstr "گرڈ سٹرکچر"
+
+#: ui/admin_templates.php:244
+msgid "Includes Bootstrap 3 styles on the frontend for form grid layouts"
+msgstr "فارم کی گرڈ لے آؤٹس کے لیے بوٹ سٹریپ 3 کے سٹائل بھی شامل ہیں"
+
+#: ui/admin_templates.php:221
+msgid "Form Styles"
+msgstr "فارم سٹائلز"
+
+#: ui/admin_templates.php:224
+msgid "Includes Bootstrap 3 styles on the frontend for form fields and buttons"
+msgstr "فارم کی فیلڈز اور بٹنوں کے لیے بوٹ سٹریپ 3 کے سٹائل بھی موجود ہیں۔"
+
+#: ui/admin_templates.php:201
+msgid "Alert Styles"
+msgstr "الرٹ سٹائل"
+
+#: ui/admin_templates.php:204
+msgid "Includes Bootstrap 3 styles on the frontend for form alert notices"
+msgstr "فارم کی الرٹس کے نوٹس کے لیے بھی بوٹ سٹریپ کے سٹائل موجود ہیں"
+
+#: classes/entry/ui.php:196 ui/entries.php:14 ui/admin.php:186
+msgid "Edit"
+msgstr "ترمیم کریں"
+
+#: ui/admin_templates.php:166 ui/admin.php:63
+msgid "Import Form"
+msgstr "امپورٹ فارم"
+
+#: ui/admin.php:64
+msgid "Import"
+msgstr "درآمد"
+
+#: ui/admin.php:50
+msgid "New Form"
+msgstr "نیو فارم"
+
+#: ui/admin.php:48
+msgid "Create New Form"
+msgstr "نیا فارم بنائیں"
+
+#: classes/admin.php:384 ui/admin.php:26
+msgid "Create Form"
+msgstr "فارم بنائیں"
+
+#: processors/redirect/config.php:11
+msgid "Message text shown when redirecting in Ajax mode."
+msgstr "Ajax موڈ میں ری ڈائریکٹ کرتے ہوئے میسج کا ٹیکسٹ ؟"
+
+#: processors/redirect/config.php:8
+msgid "Redirect Message"
+msgstr "ری ڈائریکٹ میسج"
+
+#: processors/increment/config.php:26
+msgid "If you want to show the incremented value in the entries, select a hidden field in form to capture the value in."
+msgstr "اگر آپ اینٹری میں انکریمنٹ ہوئی وی ویلیوز دکھانا چاہتے ہیں تو فارم سے کوئی ہڈن فیلڈ سلیکٹ کریں جو ویلیو حاصل کر سکے"
+
+#: processors/increment/config.php:21
+msgid "Increment Field"
+msgstr "انکریمنٹ فیلڈ"
+
+#: processors/increment/config.php:13
+msgid "Increment started at {{start}}. To reset, delete this and insert a new incremental value processor."
+msgstr "انکریمنٹ {{start}} پر سٹارٹ ہوا۔ اس کو ریسٹ کرنے کے لیے اس کو ڈیلیٹ کریں اور ایک نیا انکریمنٹل ویلیو پراسیسر انژرٹ کریں۔"
+
+#: processors/increment/config.php:9
+msgid "Number to start increment at."
+msgstr "وہ نمبر جس سے انکریمنٹ سٹارٹ کرنا ہے"
+
+#: processors/increment/config.php:3
+msgid "Increment Start"
+msgstr "انکریمنٹ سٹارٹ"
+
+#: processors/classes/get_data.php:76
+msgid "%s is required"
+msgstr "%s ضروری ہے"
+
+#: processors/auto_responder/config.php:97
+#: includes/templates/starter-contact-form.php:118
+msgid "Message"
+msgstr "میسج"
+
+#: processors/auto_responder/config.php:86
+msgid "Recipient Email"
+msgstr "وصول کنندہ کی ای میل"
+
+#: processors/auto_responder/config.php:75
+msgid "Recipient Name"
+msgstr "وصول کنندہ کا نام"
+
+#: processors/auto_responder/config.php:64 ui/panels/emailer.php:143
+msgid "Email Subject"
+msgstr "ای میل سبجیکٹ"
+
+#: processors/auto_responder/config.php:3 ui/panels/emailer.php:51
+msgid "From Name"
+msgstr "بھیجنے والے کا نام"
+
+#: processors/auto_responder/config.php:14 ui/panels/emailer.php:64
+msgid "From Email"
+msgstr "بھیجنے والے کا ای میل"
+
+#: processors/akismet/config.php:29
+msgid "Sorry, that looked very spammy, try rephrasing things"
+msgstr "معذرت مگر یہ بہت سپام جیسا محسوس ہوتا ہے، اس کو بہتر انداز میں لکھنے کی کوشش کریں"
+
+#: processors/akismet/config.php:27
+msgid "Error Message"
+msgstr "ایرر میسج"
+
+#: processors/akismet/config.php:14 processors/redirect/config.php:2
+#: classes/fields.php:241
+msgid "URL"
+msgstr "یوآرایل"
+
+#: processors/akismet/config.php:8 classes/admin.php:1740
+#: includes/templates/rate-our-service-example.php:57
+#: ui/panels/anti-spam.php:112
+msgid "Email"
+msgstr "ای میل"
+
+#: processors/akismet/config.php:2 classes/admin/assets.php:309
+#: ui/panels/variables.php:10 ui/edit.php:206 ui/edit.php:562
+msgid "Name"
+msgstr "نام"
+
+#: includes/custom_field_class.php:21
+msgid "Custom Class"
+msgstr "کسٹم کلاس"
+
+#: processors/redirect/config.php:10 includes/ajax.php:152
+#: includes/ajax.php:163
+msgid "Redirecting"
+msgstr "ری ڈائریکٹنگ"
+
+#: includes/ajax.php:111
+msgid "If set, form can be submitted multiple times with out a new page load."
+msgstr "اگر اس کو سیٹ کر دیا جائے تو ایک سے زائد فارم ایک ہی وقت میں پیج لوڈ کیے بغیر سبمٹ ہو سکتے ہیں۔"
+
+#: includes/ajax.php:108
+msgid "Multiple Ajax Submissions"
+msgstr "ایک سے زیادہ Ajax  کی سبمیشن"
+
+#: includes/ajax.php:76
+msgid "Javascript function to call on submission. Passed an object containing form submission result."
+msgstr "سبمشن پر کال ہونے والا جاواسکرپٹ کا فنکشن۔ یہ ایک اوپجیکٹ پاس کرتا ہے جس میں فارم کی سبمشن کا رزلٹ ہوتا ہے۔"
+
+#: includes/ajax.php:71
+msgid "Callback Function"
+msgstr "کال بیک فنکشن"
+
+#: includes/ajax.php:62
+msgid "Don't show default alerts (success etc.)"
+msgstr "ڈیفالٹ الرٹس شو نا کریں (سکسیس وغیرہ)"
+
+#: includes/ajax.php:59
+msgid "Inhibit Notices"
+msgstr "نوٹسس روکیں"
+
+#: includes/ajax.php:48
+msgid "Add a custom Javascript callback handlers on submission."
+msgstr "سبمشن پر جاواسکرپٹ کاایک کسٹم کال بیک فنکشن کال کریں"
+
+#: includes/ajax.php:46
+msgid "Custom Callback"
+msgstr "کسٹم کال بیک"
+
+#: includes/ajax.php:38
+msgid "Enable Ajax Submissions. (No page reloads)"
+msgstr "اجاکس سبمشن فعال بنائیں۔ (کوئی پیج ری لوڈ نہیں ہوگا)"
+
+#: includes/ajax.php:35
+msgid "Ajax Submissions"
+msgstr "اجاکس سبمشن"
+
+#: fields/toggle_switch/field.php:30 classes/admin.php:761
+#: ui/panels/anti-spam.php:46 ui/panels/anti-spam.php:71
+#: ui/panels/form-settings.php:45 ui/panels/form-settings.php:87
+#: ui/panels/form-settings.php:153 ui/panels/form-settings.php:234
+#: ui/panels/form-settings.php:257 ui/admin.php:195
+msgid "Enable"
+msgstr "فعال"
+
+#: fields/toggle_switch/config_template.php:25
+msgid "Inactive Class"
+msgstr "ان ایکٹو کلاس"
+
+#: fields/toggle_switch/config_template.php:16
+msgid "Active Class"
+msgstr "ایکٹو کلاس"
+
+#: fields/cf2_text/config.php:59 fields/text/config.php:59
+msgid "length"
+msgstr "لمبائی"
+
+#: fields/toggle_switch/config_template.php:9
+msgid "Vertical"
+msgstr "Vertical"
+
+#: fields/toggle_switch/config_template.php:8
+msgid "Justified"
+msgstr "Justified"
+
+#: fields/toggle_switch/config_template.php:7
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: fields/toggle_switch/config_template.php:3
+msgid "Orientation"
+msgstr "Orientation"
+
+#: fields/cf2_text/config.php:62 fields/text/config.php:62
+msgid "Any length number only"
+msgstr "کوئی بھی لمبائی (صرف نمبر)"
+
+#: fields/cf2_text/config.php:61 fields/text/config.php:61
+msgid "Any length character only"
+msgstr "کوئی بھی لمبائی (صرف کریکٹر)"
+
+#: fields/cf2_text/config.php:63 fields/text/config.php:63
+msgid "email"
+msgstr "ای میل"
+
+#: fields/star-rate/config.php:26
+msgid "Dot"
+msgstr "ڈاٹ"
+
+#: fields/star-rate/config.php:24
+msgid "Heart"
+msgstr "دل"
+
+#: fields/star-rate/config.php:23
+msgid "Star"
+msgstr "سٹار"
+
+#: fields/star-rate/config.php:19
+msgid "Star Type"
+msgstr "سٹار کی قسم"
+
+#: fields/cf2_text/config.php:57 fields/text/config.php:57
+msgid "alphanumeric"
+msgstr "حروف تہجی"
+
+#: fields/cf2_text/config.php:58 fields/text/config.php:58
+msgid "optional"
+msgstr "اختیاری"
+
+#: fields/star-rate/config.php:57
+msgid "Star Color"
+msgstr "سٹار رنگ"
+
+#: fields/star-rate/config.php:32
+msgid "Star Size"
+msgstr "سٹار سائز"
+
+#: fields/cf2_text/config.php:55 fields/text/config.php:55
+msgid "numeric"
+msgstr "نمبر"
+
+#: fields/cf2_text/config.php:47 fields/text/config.php:47
+msgid "Mask"
+msgstr "ماسک"
+
+#: fields/cf2_text/config.php:56 fields/text/config.php:56
+msgid "alphabetical"
+msgstr "الفا بیٹکل"
+
+#: fields/cf2_text/config.php:42 fields/text/config.php:42
+msgid "Enable input mask"
+msgstr "ان پٹ ماسک فعال بنائیں"
+
+#: fields/cf2_text/config.php:40 fields/text/config.php:40
+msgid "Masked Input"
+msgstr "ماسکڈ ان پٹ"
+
+#: fields/star-rate/config.php:73
+msgid "Include Cancel"
+msgstr "کینسل بھی شامل کریں"
+
+#: fields/star-rate/config.php:65
+msgid "Track Color"
+msgstr "رنگ ٹریک کریں"
+
+#: fields/star-rate/config.php:48
+msgid "Single Select"
+msgstr "سنگل سلیکٹ"
+
+#: fields/star-rate/config.php:40
+msgid "Star Spacing"
+msgstr "سٹارسپیسنگ"
+
+#: fields/star-rate/config.php:25
+msgid "Face"
+msgstr "چہرہ (فیس)"
+
+#: fields/star-rate/config.php:11
+msgid "Number of Stars"
+msgstr "ستاروں کی تعداد"
+
+#: fields/select2/field/config.php:11
+msgid "Multiple"
+msgstr "ایک سے زیادہ"
+
+#: fields/select2/field/config.php:16
+msgid "Enable multiple selections"
+msgstr "ایک سے زیادہ سلیکشنز فعال بنائیں"
+
+#: fields/recaptcha/preview.php:32
+msgid "No Site Key Added"
+msgstr "کوئی سائٹ کی (key) ایڈ نہیں کی گئی"
+
+#: fields/recaptcha/preview.php:29
+msgid "No Secret Key Added"
+msgstr "کوئی خفیہ کی (key)ایڈ نہیں کی گئی"
+
+#: fields/recaptcha/config.php:34
+msgid "Theme changes not available in preview. Save the form and reload to see new theme."
+msgstr "تھیم کی تبدیلیاں پری ویو میں دستیاب نہیں۔ فارم کو سیو کریں اور نئے تھیم کو دیکھنے کے لیے ری لوڈ کریں"
+
+#: fields/recaptcha/config.php:30
+msgid "Dark"
+msgstr "گہرا"
+
+#: fields/recaptcha/config.php:27
+msgid "Light"
+msgstr "ہلکا"
+
+#: fields/recaptcha/config.php:22
+msgid "Theme"
+msgstr "تھیم"
+
+#: fields/recaptcha/config.php:14
+msgid "Secret Key"
+msgstr "سیکرٹ کی (key)"
+
+#: fields/recaptcha/config.php:6
+msgid "Site Key"
+msgstr "سائٹ کی (key)"
+
+#: fields/recaptcha/config.php:3
+msgid "reCaptcha required keys from Google."
+msgstr "ری کیپچا کے لیے گوگل سے کیز (keys) درکار ہیں"
+
+#: fields/range_slider/config.php:93
+msgid "Suffix"
+msgstr "سفِکس"
+
+#: fields/range_slider/config.php:85
+msgid "Prefix"
+msgstr "پری فکس"
+
+#: fields/range_slider/config.php:77
+msgid "Show Value"
+msgstr "ویلیو دکھائیں"
+
+#: fields/number/config.php:30 fields/range_slider/config.php:69
+msgid "Maximum"
+msgstr "زیادہ سے زیادہ"
+
+#: fields/number/config.php:21 fields/range_slider/config.php:61
+msgid "Minimum"
+msgstr "کم سے کم"
+
+#: fields/range_slider/config.php:53
+msgid "Steps"
+msgstr "Steps"
+
+#: fields/range_slider/config.php:36
+msgid "Handle"
+msgstr "ہینڈل"
+
+#: fields/select2/field/config.php:22 fields/range_slider/config.php:28
+msgid "Highlight"
+msgstr "ہائی لائٹ"
+
+#: fields/range_slider/config.php:20
+msgid "Track"
+msgstr "ٹریک"
+
+#: fields/phone/config.php:53
+msgid "Use the digit 9 to indicate a number"
+msgstr "ایک نمبر کو ظاہر کرنے کے لیے 9 اعداد استعمال کریں"
+
+#: fields/select2/field/config.php:30 fields/range_slider/config.php:44
+msgid "Border"
+msgstr "لکیریں"
+
+#: fields/phone/config.php:35
+msgid "International"
+msgstr "انٹرنیشنل"
+
+#: fields/phone/config.php:26
+msgid "Local"
+msgstr "لوکل"
+
+#: fields/phone/config.php:44
+msgid "Custom"
+msgstr "کسٹم"
+
+#: fields/phone/config.php:20
+msgid "Style"
+msgstr "انداز"
+
+#: fields/paragraph/config_template.php:11
+msgid "Rows"
+msgstr "قطاریں"
+
+#: fields/gravatar/config.php:67
+msgid "Border Radius"
+msgstr "باڈَر کا  رادیوس"
+
+#: fields/hidden/setup.php:3 ui/panels/variables.php:12 ui/edit.php:187
+#: ui/edit.php:334 ui/edit.php:336 ui/edit.php:1111 ui/edit.php:1118
+msgid "Value"
+msgstr "قدر"
+
+#: fields/gravatar/config.php:58
+msgid "Border Size"
+msgstr "بارڈر کا سائز"
+
+#: fields/gravatar/config.php:49
+msgid "Border Color"
+msgstr "بارڈر کا رنگ"
+
+#: fields/gravatar/config.php:40
+msgid "Size"
+msgstr "سائز"
+
+#: fields/gravatar/config.php:24
+msgid "Fallback"
+msgstr "فال بیک"
+
+#: fields/gravatar/config.php:18
+msgid "Retro (Generated)"
+msgstr "ریٹرو (پیدا کردہ)"
+
+#: fields/gravatar/config.php:16
+msgid "Wavatar (Generated)"
+msgstr "Wavatar (بنا دیا گیا)"
+
+#: fields/gravatar/config.php:17
+msgid "MonsterID (Generated)"
+msgstr "MonsterID (بنا دیا گیا)"
+
+#: fields/gravatar/config.php:13
+msgid "Blank"
+msgstr "خالی"
+
+#: fields/gravatar/config.php:14
+msgid "Gravatar Logo"
+msgstr "Gravatar لوگو "
+
+#: fields/gravatar/config.php:15
+msgid "Identicon (Generated)"
+msgstr "Identicon (بنا دیا گیا)"
+
+#: fields/gravatar/config.php:3
+msgid "Email Field"
+msgstr "ای میل فیلڈ"
+
+#: fields/cf2_file/config.php:56 fields/file/config_template.php:55
+#: fields/advanced_file/config_template.php:47
+msgid "Comma separated eg. jpg,pdf,txt"
+msgstr "کومہ سے علیحدہ کیے ہوئے جیسا کہ jpg,pdf,txt"
+
+#: fields/cf2_file/config.php:45 fields/file/config_template.php:44
+#: fields/advanced_file/config_template.php:44
+msgid "Allowed Types"
+msgstr "غیر ممنوعہ اقسام"
+
+#: fields/cf2_file/config.php:27 fields/file/config_template.php:16
+#: fields/advanced_file/config_template.php:19
+msgid "Allow Multiple"
+msgstr "ایک سے زیادہ الاؤ کریں"
+
+#: fields/select2/field/config.php:3 fields/cf2_text/config.php:3
+#: fields/text/config.php:3 fields/phone/config.php:3
+#: fields/credit_card_cvc/config.php:3 fields/credit_card_number/config.php:3
+#: fields/paragraph/config_template.php:3 fields/url/config.php:3
+#: fields/dropdown/config_template.php:3 fields/email/config.php:3
+#: fields/phone_better/config.php:3 fields/number/config.php:3
+#: fields/credit_card_exp/config.php:3
+msgid "Placeholder"
+msgstr "پلیس ہولڈر"
+
+#: fields/date_picker/setup.php:144
+msgid "Language to use. e.g. pt-BR"
+msgstr "استمال ہونے والی زبان ، جیسا کہ pt-BR"
+
+#: fields/date_picker/setup.php:74
+msgid "language"
+msgstr "زبان"
+
+#: fields/cf2_file/config.php:16 fields/file/config_template.php:6
+#: fields/advanced_file/config_template.php:10
+msgid "Attach to Mailer"
+msgstr "میلر سے منسلک کریں"
+
+#: fields/date_picker/setup.php:68
+msgid "The ending date of the date picker like +1d, -2y, +4m. 0d for today."
+msgstr "تاریخ منتخب کرنے والے کی آخری تاریخ جیسا کہ آج کے لیے +1d, -2y, +4m. 0d "
+
+#: fields/date_picker/setup.php:47
+msgid "The starting view of the date picker (month, year, decade)"
+msgstr "تاریخ منتخب کرنے والے کی شروع ہونے والی تاریخ ( ماہ، سال، عشرہ)"
+
+#: fields/date_picker/setup.php:44
+msgid "Decade"
+msgstr "عشرہ"
+
+#: fields/date_picker/setup.php:63
+msgid "End Date"
+msgstr "ختم ہونے کی تاریخ"
+
+#: fields/date_picker/setup.php:52
+msgid "Start Date"
+msgstr "شروع ہونے کی تاریخ"
+
+#: fields/date_picker/setup.php:57
+msgid "The starting date of the date picker like +1d, -2y, +4m. 0d for today."
+msgstr "تاریخ منتخب کرنے والے کی آخری تاریخ، جیسا کہ آج کے لیے  +1d, -2y, +4m. 0d "
+
+#: fields/date_picker/setup.php:41
+msgid "Year"
+msgstr "سال"
+
+#: fields/date_picker/setup.php:38
+msgid "Month (Default)"
+msgstr "ماہ (ڈیفالٹ)"
+
+#: fields/date_picker/setup.php:33
+msgid "Start View"
+msgstr "سٹارٹ ویو"
+
+#: fields/date_picker/setup.php:27
+msgid "If enabled, the date picker will automatically close after selecting the final input"
+msgstr "اگر اس کو فعال بنا دیا جائے تو ، تاریخ سلیکٹ کرنے والا فائنل ان پٹ کے بعد خود بخود بند ہوجائے گا"
+
+#: fields/date_picker/setup.php:24
+msgid "Enable autoclose"
+msgstr "خود بخود بند ہونے کو فعال بنائیں"
+
+#: fields/date_picker/setup.php:19
+msgid "Autoclose"
+msgstr "خود بخود بند ہونا"
+
+#: fields/date_picker/setup.php:11
+msgid "Format"
+msgstr "فارمیٹ"
+
+#: fields/gdpr/config_template.php:5 fields/radio/config_template.php:6
+#: fields/checkbox/config_template.php:5
+msgid "Inline"
+msgstr "لائن میں"
+
+#: fields/calculation/config.php:72
+msgid "Use %field_slug% as field value variables"
+msgstr "%field_slug% کو فیلٹ کی ویلیو کے ویری ایبل کے طور پر استعمال کریں"
+
+#: fields/calculation/config.php:63
+msgid "Add Operator Group"
+msgstr "اوپریٹر گروپ ایڈ کریں"
+
+#: fields/calculation/config.php:50
+msgid "Manual Formula"
+msgstr "مینول فارمولا"
+
+#: fields/cf2_text/config.php:10 fields/text/config.php:10
+#: fields/phone/config.php:11 fields/credit_card_cvc/config.php:12
+#: fields/credit_card_number/config.php:12
+#: fields/paragraph/config_template.php:19 fields/date_picker/setup.php:3
+#: fields/url/config.php:11 fields/email/config.php:11
+#: fields/phone_better/config.php:12 fields/star-rate/config.php:3
+#: fields/number/config.php:12 fields/range_slider/config.php:11
+#: fields/wysiwyg/config_template.php:3 fields/credit_card_exp/config.php:12
+#: ui/edit.php:362 ui/edit.php:1149
+msgid "Default"
+msgstr "طےشدہ"
+
+#: fields/calculation/config.php:14
+msgid "Before"
+msgstr "پہلے"
+
+#: fields/calculation/config.php:20
+msgid "After"
+msgstr " بعد"
+
+#: fields/calculation/config.php:27
+msgid "Money Format"
+msgstr "رقم کا فارمیٹ"
+
+#: fields/calculation/config.php:8
+msgid "Classes"
+msgstr "کلاسس"
+
+#: fields/calculation/config.php:2
+msgid "Element"
+msgstr "ایلیمنٹ"
+
+#: fields/button/config_template.php:49
+msgid "Selector or callback function to push form values on click."
+msgstr "کلک پر فارم ویلیوز کو بھیجنے کے لیے سلیکٹر یا کال بیک فنکشن"
+
+#: fields/button/config_template.php:45
+msgid "Click Target"
+msgstr "کلک ٹارگٹ"
+
+#: fields/button/config_template.php:37
+msgid "Add Label Space"
+msgstr "لیبل سپیس ایڈ کریں"
+
+#: fields/button/config_template.php:27
+msgid "Class"
+msgstr "کلاس"
+
+#: fields/button/config_template.php:17
+msgid "Previous Page"
+msgstr "پری ویو پیج"
+
+#: fields/button/config_template.php:14
+msgid "Next Page"
+msgstr "اگلا صفحہ "
+
+#: fields/button/config_template.php:8
+#: includes/templates/simple-booking-form-example.php:227
+#: includes/templates/job-application-form-example.php:344
+#: includes/templates/registration-form-example.php:206
+#: includes/templates/rate-our-service-example.php:118
+msgid "Submit"
+msgstr "ارسال کریں"
+
+#: classes/widget.php:84 ui/admin.php:154
+msgid "Form"
+msgstr "فارم"
+
+#: fields/button/config_template.php:3 classes/admin/assets.php:311
+msgid "Type"
+msgstr "قسم"
+
+#: classes/save.php:165 includes/templates/simple-booking-form-example.php:250
+#: includes/templates/variable-price-example.php:286
+#: includes/templates/registration-form-example.php:299 ui/panels/emailer.php:4
+msgid "Caldera Forms Notification"
+msgstr "کالڈرہ فارم نوٹیفیکشن"
+
+#: classes/core.php:4752
+msgid "WARNING: Form is in Mailer Debug mode. Disable before going live."
+msgstr "وارننگ: فارم میلر ڈی بگ موڈ کے اندر ہے۔  لائیو جانے سے پہلے اس کو بند کریں۔"
+
+#: classes/core.php:4296 classes/core.php:4302
+msgid "Form is currently not active."
+msgstr "فارم فی الحال فعال نہیں ہے۔"
+
+#: classes/widget.php:80 includes/templates/job-application-form-example.php:53
+#: ui/edit.php:228
+msgid "Title"
+msgstr "عنوان"
+
+#: classes/fields.php:550 classes/fields.php:551
+msgid "Date Picker"
+msgstr "ڈیٹ پیکیر"
+
+#: classes/core.php:3163
+msgid "is required"
+msgstr "یہ ضروری ہے"
+
+#: classes/core.php:3071 classes/core.php:3076 classes/core.php:3083
+#: classes/core.php:4484 classes/core.php:4499 classes/core.php:4503
+#: classes/core.php:4507
+msgid "Permission denied or entry does not exist."
+msgstr "اجازت نہیں ہے یا اینٹری نہیں موجود"
+
+#: classes/core.php:2817 classes/core.php:3877 ui/edit.php:7
+msgid "Invalid form ID"
+msgstr "فارم آئی ڈی درست نہیں"
+
+#: classes/core.php:2710 classes/core.php:2745
+msgid "Mailer Debug"
+msgstr "میلر ڈی بگ"
+
+#: classes/core.php:2129
+msgid "System Tags"
+msgstr "سسٹم ٹیگ"
+
+#: classes/fields.php:531
+msgid "Autocomplete"
+msgstr "آٹو کمپلیٹ"
+
+#: classes/fields.php:606
+msgid "Dropdown select for US states and Canadian provinces."
+msgstr "یو ایس سٹیٹ اور کینیڈا کے صونے سلیکٹ کرنے کے لیے ڈراپ ڈاؤن"
+
+#: classes/fields.php:604
+msgid "State/ Province Select"
+msgstr "سٹیٹ / صوبہ سلیکٹ "
+
+#: classes/fields.php:517 classes/fields.php:518
+msgid "Radio"
+msgstr "ریڈیو"
+
+#: classes/fields.php:502 classes/fields.php:503
+msgid "Checkbox"
+msgstr "چیک باکس"
+
+#: classes/fields.php:487 classes/fields.php:488
+msgid "Dropdown Select"
+msgstr "ڈراپ ڈاؤن سلیکٹ"
+
+#: classes/fields.php:570 classes/fields.php:571
+msgid "Toggle Switch"
+msgstr "ٹاگل سوئچ"
+
+#: classes/fields.php:584 classes/fields.php:585
+msgid "Color Picker"
+msgstr "کلر پکر"
+
+#: classes/fields.php:211 classes/fields.php:212
+msgid "Paragraph Textarea"
+msgstr "پیرا گراف ٹیکسٹ ایریا"
+
+#: classes/fields.php:144
+msgid "Button, Submit and Reset types"
+msgstr "بٹن، سبمٹ اور ریسٹ ٹائپس"
+
+#: processors/functions.php:61 classes/fields.php:132 classes/fields.php:133
+#: includes/templates/simple-booking-form-example.php:104
+#: includes/templates/job-application-form-example.php:153
+#: includes/templates/starter-contact-form.php:99
+#: includes/plugin-page-banner.php:275
+msgid "Email Address"
+msgstr "ای میل ایڈریس"
+
+#: fields/button/config_template.php:11 classes/fields.php:143
+#: ui/insert_shortcode.php:37
+msgid "Button"
+msgstr "بٹن"
+
+#: classes/fields.php:116 classes/fields.php:117
+msgid "Hidden"
+msgstr "چھپا ہوا"
+
+#: classes/fields.php:620
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: classes/fields.php:405 classes/fields.php:410 ui/edit.php:375
+#: ui/edit.php:1016 cf2/Fields/FieldTypes/FileFieldType.php:25
+msgid "File"
+msgstr "فائل"
+
+#: classes/fields.php:436
+msgid "Add text/html content"
+msgstr "ٹیکسٹ/ ایچ ٹی ایم ایل کانٹینٹ ایڈ کریں"
+
+#: classes/fields.php:621
+msgid "reCAPTCHA anti-spam field"
+msgstr "ری کیپچا اینٹی سپام فیلڈ"
+
+#: classes/fields.php:435
+msgid "HTML"
+msgstr "ایچ ٹی ایم ایل"
+
+#: processors/akismet/config.php:20 fields/html/config_template.php:3
+#: classes/fields.php:438 classes/fields.php:456 classes/fields.php:472
+#: ui/edit.php:376 ui/edit.php:1017
+msgid "Content"
+msgstr "مواد"
+
+#: classes/fields.php:108 classes/fields.php:119 classes/fields.php:136
+#: classes/fields.php:146 classes/fields.php:167 classes/fields.php:188
+#: classes/fields.php:199 classes/fields.php:214 classes/fields.php:228
+#: classes/fields.php:245 ui/panels/anti-spam.php:34 ui/edit.php:372
+#: ui/edit.php:1014 cf2/Fields/FieldTypes/TextFieldType.php:26
+msgid "Basic"
+msgstr "بنیادی"
+
+#: classes/fields.php:105 classes/fields.php:106
+msgid "Single Line Text"
+msgstr "سنگل لائن ٹیکسٹ"
+
+#: classes/fields.php:196
+msgid "Phone number with masking"
+msgstr "ماسکنگ کے ساتھ فون نمبر"
+
+#: classes/fields.php:347
+msgid "Star Rating"
+msgstr "سٹار کی ریٹنگ"
+
+#: classes/fields.php:351
+msgid "Star rating input for feedback"
+msgstr "سٹار ریٹنگ ان پٹ فار فیڈ بیک"
+
+#: classes/fields.php:321
+msgid "Range Slider input field"
+msgstr "رینج سلائیڈر ان پٹ فیلڈ"
+
+#: classes/fields.php:318
+msgid "Range Slider"
+msgstr "رینج سلائیڈر"
+
+#: classes/fields.php:311 includes/templates/variable-price-example.php:204
+msgid "Total"
+msgstr "کل"
+
+#: classes/core.php:1332
+msgid "Akismet not setup."
+msgstr "Akismet سیٹ اپ نہیں."
+
+#: classes/fields.php:304
+msgid "Calculate values"
+msgstr "ویلیوز کیلکولیٹ کریں"
+
+#: classes/fields.php:303 classes/fields.php:320 classes/fields.php:349
+#: classes/fields.php:375 classes/fields.php:392
+#: includes/custom_field_class.php:37 ui/edit.php:377 ui/edit.php:398
+#: ui/edit.php:1019 ui/edit.php:1058
+msgid "Special"
+msgstr "سپیشل"
+
+#: classes/fields.php:299
+msgid "Calculation"
+msgstr "کلکو لیشن"
+
+#: classes/core.php:1248
+msgid "Anti-spam filtering"
+msgstr "انٹی سپام فلٹرنگ"
+
+#: classes/core.php:1247
+msgid "Akismet"
+msgstr "Akismet"
+
+#: classes/core.php:1215 includes/templates/starter-contact-form.php:186
+msgid "Thank you for contacting us"
+msgstr "ہم سے رابطہ کرنے کا شکریہ"
+
+#: classes/core.php:1233
+msgid "Increment a value per entry."
+msgstr "ہر اینٹری پر ایک ویلیو انکریمنٹ کریں۔"
+
+#: classes/core.php:1232
+msgid "Increment Value"
+msgstr "ویلیو انکریمنٹ کریں"
+
+#: classes/core.php:1220
+msgid "Redirects user to URL on successful submit"
+msgstr "کامیابی کے ساتھ سبمٹ کرنے پر پوزر کوکسی یو آر ایل پر ری ڈائریکٹ کریں"
+
+#: classes/core.php:1219
+msgid "Redirect"
+msgstr "ری ڈائریکٹ"
+
+#: classes/core.php:1211
+msgid "Sends out an auto response e-mail"
+msgstr "ایک آٹو ریسپانس ای میل سینڈ کریں"
+
+#: classes/core.php:1210
+msgid "Auto Responder"
+msgstr "آٹو ریسپانڈر"
+
+#: classes/entry/token.php:28 classes/entry/token.php:63 classes/core.php:874
+msgid "Permission denied."
+msgstr "اجازت رد کر دی گئی ہے۔"
+
+#: fields/button/config_template.php:20 classes/core.php:680
+msgid "Reset"
+msgstr "ریسیت"
+
+#: classes/admin.php:1742
+msgid "Email Notification Settings"
+msgstr "ای میل نوٹیفیکیشن سیٹنگ"
+
+#: classes/admin.php:1809
+msgid "Maintain grid always"
+msgstr "ہمیشہ گرڈ کو بر قرار رکھیں"
+
+#: classes/admin.php:1802
+msgid "Set the smallest screen size at which to collapse the grid. (based on Bootstrap 3.0)"
+msgstr "بوٹ سٹریپ 0۔3 کی بنیاد پر سب سے چھوٹا سکرین سائز سلیکٹ کریں جس پر گرڈ کو کولیپس کیا جائے"
+
+#: classes/admin.php:1800
+msgid "Grid Collapse"
+msgstr "گرڈ بند کریں"
+
+#: classes/admin.php:1796
+msgid "Responsive Settings"
+msgstr "ریسپانسو سیٹنگز"
+
+#: classes/admin.php:1794
+msgid "Responsive"
+msgstr "ریسپانسو"
+
+#: classes/admin.php:1781 classes/admin.php:1783 ui/panels/variables.php:94
+msgid "Variables"
+msgstr "ویری ایبل"
+
+#: classes/admin.php:1750
+msgid "Processors"
+msgstr "پراسیسرز"
+
+#: classes/admin.php:1752 ui/panels/processors.php:200
+msgid "Form Processors"
+msgstr "فارم پراسیسرز"
+
+#: classes/admin.php:1760 classes/admin.php:1762 ui/panels/processors.php:106
+msgid "Conditions"
+msgstr "کنڈیشنز"
+
+#: classes/admin.php:1732
+msgid "Form Pages"
+msgstr "فارم پیجز"
+
+#: classes/admin.php:1730
+msgid "Pages"
+msgstr "صفحات"
+
+#: classes/admin.php:1716
+msgid "Layout Builder"
+msgstr "لے آؤٹ بلڈر"
+
+#: classes/admin.php:1074
+msgid "Forms"
+msgstr "فارم"
+
+#: classes/admin.php:1285 classes/admin.php:1357
+msgid "Sorry, please try again"
+msgstr "معذرت، براہ کرم دوبارہ کوشش کریں"
+
+#: classes/forms.php:588 includes/templates/simple-booking-form-example.php:10
+#: includes/templates/variable-price-example.php:20
+#: includes/templates/job-application-form-example.php:18
+#: includes/templates/starter-contact-form.php:17
+#: includes/templates/registration-form-example.php:22
+#: includes/templates/rate-our-service-example.php:10
+#: ui/panels/form-settings.php:69 ui/edit.php:41
+msgid "Form has been successfully submitted. Thank you."
+msgstr "فارم کامیابی کے ساتھ سبمٹ ہوگیا ہے۔ شکریہ"
+
+#: classes/admin.php:1468
+msgid "Export Expired"
+msgstr "ایکسپورٹ ایکسپائرڈ"
+
+#: classes/admin.php:1468
+msgid "Export selection has expired"
+msgstr "ایکسپورٹ سلیکشن ایکسپائر ہو چکی ہے"
+
+#: classes/admin.php:1367
+msgid "Form does not exist."
+msgstr "فارم موجود نہیں ہے"
+
+#: classes/admin.php:1352
+msgid "Sorry, File not uploaded."
+msgstr "معذرت، فائل اپلوڈ نہیں ہوئی"
+
+#: classes/admin.php:1352 classes/admin.php:1357
+msgid "Form Import Error"
+msgstr "فارم امپورٹر ایرر"
+
+#: classes/admin.php:1285
+msgid "Form Delete Error"
+msgstr "فارم ڈیلیٹ ایرر"
+
+#: classes/admin.php:1073
+msgid "Caldera Forms Admin"
+msgstr "کالڈرہ فارمز ایڈمن"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: classes/admin.php:1064 classes/admin.php:1065 classes/admin.php:1084
+#: classes/admin.php:1143 classes/admin.php:1147 classes/admin.php:2168
+#: includes/filter_addon_plugins.php:50 ui/community.php:5
+msgid "Caldera Forms"
+msgstr "کالڈرہ فارمز"
+
+#: classes/admin.php:1700 classes/admin.php:1714
+msgid "Layout"
+msgstr "لےآؤٹ"
+
+#: ui/community.php:8
+msgid "Community"
+msgstr "کمیونٹی"
+
+#: classes/widget.php:13 classes/admin.php:716
+msgid "Caldera Form"
+msgstr "کالڈرہ فارم"
+
+#: classes/admin.php:716
+msgid "Insert Form Shortcode"
+msgstr "فارم شارٹ کوڈ انژرٹ کریں"
+
+#: classes/admin.php:715 classes/admin.php:725
+msgid "Add Form to Page"
+msgstr "پیج میں فارم ایڈ کریں"
+
+#: classes/entry/ui.php:199 ui/entries/scripts_templates.php:351
+msgid "Entry"
+msgstr "داخلہ"
+
+#: classes/entry/ui.php:199
+msgid "View"
+msgstr "دیکھیں"
+
+#: classes/entry/ui.php:201 classes/admin.php:504 ui/admin_templates.php:100
+msgid "Restore"
+msgstr "بحال کریں"
+
+#: classes/admin.php:179 ui/edit.php:18
+msgid "Invalid Form."
+msgstr "غلط فارم."
+
+#: classes/admin.php:264
+msgid "Registration Form - with optional additional participants"
+msgstr "رجسٹریشن فارم - آپشنل ایڈیشنل شرکاء کے ساتھ"
+
+#: classes/admin.php:260
+msgid "Variable Pricing Form - with add-on products"
+msgstr "ویری ایبل پرائس فارم - ایڈ اون پراڈکٹس کے ساتھ"
+
+#: ui/entries_toolbar.php:44
+msgid "Trash"
+msgstr "ردی کی ٹوکری"

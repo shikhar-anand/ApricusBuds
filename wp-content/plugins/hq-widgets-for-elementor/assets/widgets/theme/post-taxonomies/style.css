@@ -1,0 +1,27 @@
+.hq-post-taxonomy-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.hq-post-taxonomy-list > li > ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.hq-post-taxonomy-list a {
+    display: inline-block;
+}
+
+.elementor-widget-hq-theme-post-taxonomies.taxonomy-list-inline .hq-post-taxonomy-list {
+    flex-direction: row;
+}
+.elementor-widget-hq-theme-post-taxonomies.taxonomy-list-inline .hq-post-taxonomy-list li {
+    margin-right: 1em;
+}
+.elementor-widget-hq-theme-post-taxonomies.taxonomy-list-block .hq-post-taxonomy-list {
+    flex-direction: column;
+}
+.elementor-widget-hq-theme-post-taxonomies.taxonomy-list-block .hq-post-taxonomy-list li {
+    margin-bottom: 1em;
+}

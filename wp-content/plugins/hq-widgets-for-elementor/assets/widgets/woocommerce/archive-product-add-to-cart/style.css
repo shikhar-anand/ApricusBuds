@@ -1,0 +1,16 @@
+/* VIEW CART BUTTON */
+.elementor-widget-hq-woocommerce-archive-product-add-to-cart.show-view-cart-yes a.added {
+    display: none!important;
+}
+.elementor-widget-hq-woocommerce-archive-product-add-to-cart:not(.show-view-cart-yes) a.added_to_cart {
+    display: none!important;
+}
+.elementor-widget-hq-woocommerce-archive-product-add-to-cart .elementor-button.added:after {
+    font-family: WooCommerce;
+    content: "\e017";
+    margin-left: .53em;
+    vertical-align: bottom;
+}
+.elementor-widget-hq-woocommerce-archive-product-add-to-cart.elementor-align-justify a.added_to_cart {
+    width: 100%;
+}

@@ -1,0 +1,6 @@
+.elementor-widget-hq-woocommerce-product-categories-grid .grid-container {
+    grid-gap: 1rem;
+}
+.elementor-widget-hq-woocommerce-product-categories-grid mark {
+    background: none;
+}

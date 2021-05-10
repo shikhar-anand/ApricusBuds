@@ -1,0 +1,2355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<undefined0><![CDATA[0]]></undefined0>
+		<name><![CDATA[Noosa Fair Shopping Centre]]></name>
+		<location><![CDATA[3 Lanyana Way, Noosa Heads]]></location>
+		<suburb><![CDATA[Noosa Heads]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-26.39807152]]></latitude>
+		<longitude><![CDATA[153.0898557]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[1]]></undefined0>
+		<name><![CDATA[Queen Street]]></name>
+		<location><![CDATA[Queen Street, Ayr]]></location>
+		<suburb><![CDATA[Ayr]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6am-10pm]]></openinghours>
+		<latitude><![CDATA[-19.57494972]]></latitude>
+		<longitude><![CDATA[147.4060353]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[2]]></undefined0>
+		<name><![CDATA[Archibald Street]]></name>
+		<location><![CDATA[Archibald Street, Dalby]]></location>
+		<suburb><![CDATA[Dalby]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6am-7pm]]></openinghours>
+		<latitude><![CDATA[-27.1819255]]></latitude>
+		<longitude><![CDATA[151.2638045]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[3]]></undefined0>
+		<name><![CDATA[Maple Street]]></name>
+		<location><![CDATA[Maple Street, Maleny]]></location>
+		<suburb><![CDATA[Maleny]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-26.75883612]]></latitude>
+		<longitude><![CDATA[152.8516196]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[4]]></undefined0>
+		<name><![CDATA[Centre Point]]></name>
+		<location><![CDATA[Centre Point Arcade, Mackay]]></location>
+		<suburb><![CDATA[Mackay]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8:30am-5:30pm, Sat 8:30am-12pm]]></openinghours>
+		<latitude><![CDATA[-21.14169611]]></latitude>
+		<longitude><![CDATA[149.1850599]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[5]]></undefined0>
+		<name><![CDATA[Vernon Street]]></name>
+		<location><![CDATA[Vernon Street, Atherton]]></location>
+		<suburb><![CDATA[Atherton]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-17.26591699]]></latitude>
+		<longitude><![CDATA[145.4752876]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[6]]></undefined0>
+		<name><![CDATA[Melton Park]]></name>
+		<location><![CDATA[72 Grevillea Street, Biloela]]></location>
+		<suburb><![CDATA[Biloela]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-24.399629]]></latitude>
+		<longitude><![CDATA[150.5133541]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[7]]></undefined0>
+		<name><![CDATA[Kariboe Street]]></name>
+		<location><![CDATA[Kariboe Street, Biloela]]></location>
+		<suburb><![CDATA[Biloela]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-24.40062525]]></latitude>
+		<longitude><![CDATA[150.5124004]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[8]]></undefined0>
+		<name><![CDATA[BiCentenial Park]]></name>
+		<location><![CDATA[Callide Street, Biloela]]></location>
+		<suburb><![CDATA[Biloela]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-24.40205344]]></latitude>
+		<longitude><![CDATA[150.5112149]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[9]]></undefined0>
+		<name><![CDATA[Baralaba Community Hall]]></name>
+		<location><![CDATA[24 Stopford Street, Baralaba]]></location>
+		<suburb><![CDATA[Baralaba]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-24.18195386]]></latitude>
+		<longitude><![CDATA[149.8112847]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[10]]></undefined0>
+		<name><![CDATA[Acacia Marketplace Shopping Centre]]></name>
+		<location><![CDATA[1150 Beaudesert Road, Acacia Ridge]]></location>
+		<suburb><![CDATA[Acacia Ridge]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 8am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.57587678]]></latitude>
+		<longitude><![CDATA[153.0259873]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[11]]></undefined0>
+		<name><![CDATA[Centro Albany]]></name>
+		<location><![CDATA[700 Albany Creek Road, Albany Creek]]></location>
+		<suburb><![CDATA[Albany Creek]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm]]></openinghours>
+		<latitude><![CDATA[-27.34612578]]></latitude>
+		<longitude><![CDATA[152.9688616]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[12]]></undefined0>
+		<name><![CDATA[Alexandra Hills Shopping Centre]]></name>
+		<location><![CDATA[Corner of Cambridge Drive & Finucane Road, Alexandra Hills]]></location>
+		<suburb><![CDATA[Alexandra Hills]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-4pm, Sun 10am-4pm, Thu 9am-9pm]]></openinghours>
+		<latitude><![CDATA[-27.52320965]]></latitude>
+		<longitude><![CDATA[153.220765]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[13]]></undefined0>
+		<name><![CDATA[Allenstown Square]]></name>
+		<location><![CDATA[Corner of Canning & Derby Street, Rockhampton]]></location>
+		<suburb><![CDATA[Rockhampton]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed 9am-5:30pm, Sat 9am-2pm, Sun 10am-4pm, Thu-Fri 9am-7pm]]></openinghours>
+		<latitude><![CDATA[-23.38940264]]></latitude>
+		<longitude><![CDATA[150.5036545]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[14]]></undefined0>
+		<name><![CDATA[Arana Hills Kmart Plaza]]></name>
+		<location><![CDATA[Corner Dawson Parade & Patricks Road, Arana Hills]]></location>
+		<suburb><![CDATA[Arana Hills]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 8am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.39745414]]></latitude>
+		<longitude><![CDATA[152.9589018]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[15]]></undefined0>
+		<name><![CDATA[Australia Fair]]></name>
+		<location><![CDATA[Marine Parade, Southport]]></location>
+		<suburb><![CDATA[Southport]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri-Sat 9am-5:30pm, Thu 9am-9pm, Sun 10:30am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.96761798]]></latitude>
+		<longitude><![CDATA[153.4166371]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[16]]></undefined0>
+		<name><![CDATA[Bay Plaza]]></name>
+		<location><![CDATA[Torquay Terrace, Hervey Bay]]></location>
+		<suburb><![CDATA[Hervey Bay]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Thu 9am-5:30pm, Sun 10am-4pm, Fri 9am-5pm, Sat 9am-4pm]]></openinghours>
+		<latitude><![CDATA[-25.28860605]]></latitude>
+		<longitude><![CDATA[152.8734184]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[17]]></undefined0>
+		<name><![CDATA[Bay Village On Hastings]]></name>
+		<location><![CDATA[18 Hastings Street, Noosa Heads]]></location>
+		<suburb><![CDATA[Noosa Heads]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 8am-8pm]]></openinghours>
+		<latitude><![CDATA[-26.386392]]></latitude>
+		<longitude><![CDATA[153.088972]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[18]]></undefined0>
+		<name><![CDATA[Beenleigh Marketplace]]></name>
+		<location><![CDATA[George Street, Beenleigh]]></location>
+		<suburb><![CDATA[Beenleigh]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30am, Sat 9am-4pm, Sun 10:30am-4pm, Thu 9am-9pm]]></openinghours>
+		<latitude><![CDATA[-27.7174881]]></latitude>
+		<longitude><![CDATA[153.206498]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[19]]></undefined0>
+		<name><![CDATA[Birkdale Fair]]></name>
+		<location><![CDATA[Corner Birkdale & Mary Pleasants Drive, Birkdale]]></location>
+		<suburb><![CDATA[Birkdale]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.49166513]]></latitude>
+		<longitude><![CDATA[153.2185245]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[20]]></undefined0>
+		<name><![CDATA[Brookside Shopping Centre]]></name>
+		<location><![CDATA[159 Osborne Road, Mitchelton]]></location>
+		<suburb><![CDATA[Mitchelton]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 9am-5:30pm, Sat 9am-4pm, Thu 9am-9pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.40885042]]></latitude>
+		<longitude><![CDATA[152.9779274]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[21]]></undefined0>
+		<name><![CDATA[Bundaberg Plaza]]></name>
+		<location><![CDATA[14 Maryborough Street, Bundaberg Central]]></location>
+		<suburb><![CDATA[Bundaberg Central]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8:30am-9pm, Sat 8:30am-5:30pm]]></openinghours>
+		<latitude><![CDATA[-24.871261]]></latitude>
+		<longitude><![CDATA[152.348071]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[22]]></undefined0>
+		<name><![CDATA[Cairns Central]]></name>
+		<location><![CDATA[Corner McLeod & Spence Streets, Cairns]]></location>
+		<suburb><![CDATA[Cairns]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri-Sat 9am-5:30pm, Thu 9am-9pm, Sun 10:30am-4pm]]></openinghours>
+		<latitude><![CDATA[-16.92616124]]></latitude>
+		<longitude><![CDATA[145.7736805]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[23]]></undefined0>
+		<name><![CDATA[Caneland Central]]></name>
+		<location><![CDATA[Corner Mangrove & Victoria Streets, Mackay]]></location>
+		<suburb><![CDATA[Mackay]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8:30am-9pm, Sat 8:30am-3pm]]></openinghours>
+		<latitude><![CDATA[-21.13980683]]></latitude>
+		<longitude><![CDATA[149.1781386]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[24]]></undefined0>
+		<name><![CDATA[Capalaba Central Shopping Centre]]></name>
+		<location><![CDATA[Moreton Bay Road, Capalaba]]></location>
+		<suburb><![CDATA[Capalaba]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.52307853]]></latitude>
+		<longitude><![CDATA[153.1950162]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[25]]></undefined0>
+		<name><![CDATA[Capalaba Park Shopping Centre]]></name>
+		<location><![CDATA[Corner of Mount Cotton & Redland Bay Roads, Capalaba]]></location>
+		<suburb><![CDATA[Capalaba]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-6pm, Sun 10am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.52371942]]></latitude>
+		<longitude><![CDATA[153.1907396]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[26]]></undefined0>
+		<name><![CDATA[Centro Milton]]></name>
+		<location><![CDATA[Corner Baroona Road & Wight Street, Milton]]></location>
+		<suburb><![CDATA[Milton]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4:30pm]]></openinghours>
+		<latitude><![CDATA[-27.46804572]]></latitude>
+		<longitude><![CDATA[153.0021036]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[27]]></undefined0>
+		<name><![CDATA[My Centre Nerang]]></name>
+		<location><![CDATA[57 Station Street, Nerang]]></location>
+		<suburb><![CDATA[Nerang]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 8:30am-5:30pm, Thu 9am-7pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.99778198]]></latitude>
+		<longitude><![CDATA[153.3388725]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[28]]></undefined0>
+		<name><![CDATA[Centro Oxenford]]></name>
+		<location><![CDATA[Corner Old Pacific Highway & Tamborine-Oxenford Road, Oxenford]]></location>
+		<suburb><![CDATA[Oxenford]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5pm, Sat 9am-5pm, Thu 9am-9pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.89061756]]></latitude>
+		<longitude><![CDATA[153.3128144]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[29]]></undefined0>
+		<name><![CDATA[Southport Park Shopping Centre]]></name>
+		<location><![CDATA[Corner Benowa & Ferry Roads, Southport]]></location>
+		<suburb><![CDATA[Southport]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10:30am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.98460658]]></latitude>
+		<longitude><![CDATA[153.4104462]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[30]]></undefined0>
+		<name><![CDATA[Springwood Shopping Mall]]></name>
+		<location><![CDATA[Corner Rochedale Road & Fitzgerald Avenue, Springwood]]></location>
+		<suburb><![CDATA[Springwood]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sun 10am-4pm, Sat 9am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.61392217]]></latitude>
+		<longitude><![CDATA[153.1257148]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[31]]></undefined0>
+		<name><![CDATA[Paradise Centre]]></name>
+		<location><![CDATA[Corner Cavill Avenue & Gold Coast Highway, Surfers Paradise]]></location>
+		<suburb><![CDATA[Surfers Paradise]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 9am-10pm]]></openinghours>
+		<latitude><![CDATA[-28.00223114]]></latitude>
+		<longitude><![CDATA[153.4287003]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[32]]></undefined0>
+		<name><![CDATA[Chatswood Central Shopping Centre]]></name>
+		<location><![CDATA[Corner Chatswood & Magellan Roads, Springwood]]></location>
+		<suburb><![CDATA[Springwood]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8:30am-9pm, Sat 8:30am-5pm, Sun 8:30am-5:30pm]]></openinghours>
+		<latitude><![CDATA[-27.63321524]]></latitude>
+		<longitude><![CDATA[153.1383146]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[33]]></undefined0>
+		<name><![CDATA[Chermside Markets]]></name>
+		<location><![CDATA[Corner Gympie & Webster Roads, Chermside]]></location>
+		<suburb><![CDATA[Chermside]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.37508548]]></latitude>
+		<longitude><![CDATA[153.0245582]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[34]]></undefined0>
+		<name><![CDATA[Chevron Renaissance Shopping Centre]]></name>
+		<location><![CDATA[3240 Surfers Paradise Blvd, Surfers Paradise]]></location>
+		<suburb><![CDATA[Surfers Paradise]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Sat 8:30am-5:30pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.99925904]]></latitude>
+		<longitude><![CDATA[153.4288538]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[35]]></undefined0>
+		<name><![CDATA[City Centre Plaza]]></name>
+		<location><![CDATA[Corner Bolsover & Fitzroy Streets, Rockhampton]]></location>
+		<suburb><![CDATA[Rockhampton]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 9am-9pm, Sat 9am-5pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-23.37677527]]></latitude>
+		<longitude><![CDATA[150.5106536]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[36]]></undefined0>
+		<name><![CDATA[Clifford Gardens Shopping Centre]]></name>
+		<location><![CDATA[125 Anzac Avenue, Newtown]]></location>
+		<suburb><![CDATA[Newtown]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat-Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.56490914]]></latitude>
+		<longitude><![CDATA[151.9311721]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[37]]></undefined0>
+		<name><![CDATA[Currimundi Markets]]></name>
+		<location><![CDATA[Bellara Drive & Nicklin Way, Currimundi]]></location>
+		<suburb><![CDATA[Currimundi]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-26.77306983]]></latitude>
+		<longitude><![CDATA[153.1226048]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[38]]></undefined0>
+		<name><![CDATA[Everton Plaza Shopping Centre]]></name>
+		<location><![CDATA[791 Stafford Road, Everton Park]]></location>
+		<suburb><![CDATA[Everton Park]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sun 10am-4pm, Sat 9am-5pm]]></openinghours>
+		<latitude><![CDATA[-27.40641994]]></latitude>
+		<longitude><![CDATA[152.9915995]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[39]]></undefined0>
+		<name><![CDATA[Fairfield Gardens]]></name>
+		<location><![CDATA[180 Fairfield Road, Fairfield]]></location>
+		<suburb><![CDATA[Fairfield]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sun 9am-4pm, Sat 9am-5pm]]></openinghours>
+		<latitude><![CDATA[-27.50870653]]></latitude>
+		<longitude><![CDATA[153.0246507]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[40]]></undefined0>
+		<name><![CDATA[Forest Lake Shopping Centre]]></name>
+		<location><![CDATA[235 Forest Lake Boulevard, Forest Lake]]></location>
+		<suburb><![CDATA[Forest Lake]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 8am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.62415555]]></latitude>
+		<longitude><![CDATA[152.9683405]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[41]]></undefined0>
+		<name><![CDATA[Gardentown Brand Direct Shopping Plus]]></name>
+		<location><![CDATA[Corner Margaret & Victoria Streets, Toowoomba]]></location>
+		<suburb><![CDATA[Toowoomba]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.56084456]]></latitude>
+		<longitude><![CDATA[151.9507597]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[42]]></undefined0>
+		<name><![CDATA[Goldfields Plaza Shopping Centre]]></name>
+		<location><![CDATA[Corner Monkland & Nash Streets, Gympie]]></location>
+		<suburb><![CDATA[Gympie]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm]]></openinghours>
+		<latitude><![CDATA[-26.18832605]]></latitude>
+		<longitude><![CDATA[152.6610434]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[43]]></undefined0>
+		<name><![CDATA[Grand Central Toowoomba]]></name>
+		<location><![CDATA[Corner Dent & Margaret Streets, Toowoomba]]></location>
+		<suburb><![CDATA[Toowoomba]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.560937]]></latitude>
+		<longitude><![CDATA[151.9499128]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[44]]></undefined0>
+		<name><![CDATA[Grand Plaza Shopping Centre]]></name>
+		<location><![CDATA[Browns Plains Road, Browns Plains]]></location>
+		<suburb><![CDATA[Browns Plains]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.66149174]]></latitude>
+		<longitude><![CDATA[153.0412629]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[45]]></undefined0>
+		<name><![CDATA[Greenslopes Shopping Mall]]></name>
+		<location><![CDATA[700 Logan Road, Greenslopes]]></location>
+		<suburb><![CDATA[Greenslopes]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-4pm, Sun 10am-4pm, Thu 9am-9pm]]></openinghours>
+		<latitude><![CDATA[-27.51191421]]></latitude>
+		<longitude><![CDATA[153.0537487]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[46]]></undefined0>
+		<name><![CDATA[Centro Gympie]]></name>
+		<location><![CDATA[Corner Bruce Highway & Excelsior Road, Gympie]]></location>
+		<suburb><![CDATA[Gympie]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 7:15am-9:15pm, Sat 7:15am-5:15pm]]></openinghours>
+		<latitude><![CDATA[-26.1988595]]></latitude>
+		<longitude><![CDATA[152.666508]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[47]]></undefined0>
+		<name><![CDATA[Hermit Park Shopping Centre]]></name>
+		<location><![CDATA[124 Charters Towers Road, Hermit Park]]></location>
+		<suburb><![CDATA[Hermit Park]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5:30pm]]></openinghours>
+		<latitude><![CDATA[-19.27805352]]></latitude>
+		<longitude><![CDATA[146.8000628]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[48]]></undefined0>
+		<name><![CDATA[Hinkler Central]]></name>
+		<location><![CDATA[16 Maryborough Street, Bundaberg Central]]></location>
+		<suburb><![CDATA[Bundaberg Central]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-5pm, Thu 9am-9pm, Sun 10am-3pm]]></openinghours>
+		<latitude><![CDATA[-24.871261]]></latitude>
+		<longitude><![CDATA[152.348071]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[49]]></undefined0>
+		<name><![CDATA[Centro Indooroopilly]]></name>
+		<location><![CDATA[322 Moggill Road, Indooroopilly]]></location>
+		<suburb><![CDATA[Indooroopilly]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.49826399]]></latitude>
+		<longitude><![CDATA[152.9729483]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[50]]></undefined0>
+		<name><![CDATA[Kenmore Plaza]]></name>
+		<location><![CDATA[841 Moggill Road, Kenmore]]></location>
+		<suburb><![CDATA[Kenmore]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7pm, Sat 9am-4pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.50630638]]></latitude>
+		<longitude><![CDATA[152.9474081]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[51]]></undefined0>
+		<name><![CDATA[Kensington Village Shopping Centre]]></name>
+		<location><![CDATA[Corner Kensington Way and Sovereign Avenue, Bray Park]]></location>
+		<suburb><![CDATA[Bray Park]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 8am-5pm, Sun 9am-6pm, Thu 9am-9pm]]></openinghours>
+		<latitude><![CDATA[-27.29697979]]></latitude>
+		<longitude><![CDATA[152.9759004]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[52]]></undefined0>
+		<name><![CDATA[Kingaroy Shoppingworld]]></name>
+		<location><![CDATA[Alford Street, Kingaroy]]></location>
+		<suburb><![CDATA[Kingaroy]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Thu 8am-9pm, Fri 9am-9pm, Sat 8am-5pm]]></openinghours>
+		<latitude><![CDATA[-26.54116695]]></latitude>
+		<longitude><![CDATA[151.8368873]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[53]]></undefined0>
+		<name><![CDATA[Kippa-Ring Village Shopping Centre]]></name>
+		<location><![CDATA[284 Anzac Avenue, Kippa-Ring]]></location>
+		<suburb><![CDATA[Kippa-Ring]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 8:30am-5:30pm, Thu 8:30am-9pm, Sat 8:30am-5pm, Sun 8:30am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.22553911]]></latitude>
+		<longitude><![CDATA[153.087482]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[54]]></undefined0>
+		<name><![CDATA[Labrador Park Shopping Centre]]></name>
+		<location><![CDATA[100 Brisbane Road, Labrador]]></location>
+		<suburb><![CDATA[Labrador]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Sat 8am-6pm, Sun 8am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.93607138]]></latitude>
+		<longitude><![CDATA[153.3971733]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[55]]></undefined0>
+		<name><![CDATA[Logan Central Plaza]]></name>
+		<location><![CDATA[38-74 Wembley Road, Logan Central]]></location>
+		<suburb><![CDATA[Logan Central]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.64294151]]></latitude>
+		<longitude><![CDATA[153.1149522]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[56]]></undefined0>
+		<name><![CDATA[Mareeba Plaza Shopping Centre]]></name>
+		<location><![CDATA[241 Byrnes Street, Mareeba]]></location>
+		<suburb><![CDATA[Mareeba]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 9am-9pm, Sat 9am-5pm]]></openinghours>
+		<latitude><![CDATA[-16.99852]]></latitude>
+		<longitude><![CDATA[145.423048]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[57]]></undefined0>
+		<name><![CDATA[Marina Mirage]]></name>
+		<location><![CDATA[74 Seaworld Drive, Main Beach]]></location>
+		<suburb><![CDATA[Main Beach]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 10am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.96711677]]></latitude>
+		<longitude><![CDATA[153.4264132]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[58]]></undefined0>
+		<name><![CDATA[Maryborough Plaza Shopping Centre]]></name>
+		<location><![CDATA[Bazaar Street, Maryborough]]></location>
+		<suburb><![CDATA[Maryborough]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm]]></openinghours>
+		<latitude><![CDATA[-25.538933]]></latitude>
+		<longitude><![CDATA[152.702977]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[59]]></undefined0>
+		<name><![CDATA[Mooloolaba Central]]></name>
+		<location><![CDATA[Venning Street, Mooloolaba]]></location>
+		<suburb><![CDATA[Mooloolaba]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-26.678332]]></latitude>
+		<longitude><![CDATA[153.116876]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[60]]></undefined0>
+		<name><![CDATA[Moranbah Fair Shopping Centre]]></name>
+		<location><![CDATA[St Francis Drive, Moranbah]]></location>
+		<suburb><![CDATA[Moranbah]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 9am-9pm, Sat 9am-4pm]]></openinghours>
+		<latitude><![CDATA[-22.00066]]></latitude>
+		<longitude><![CDATA[148.044138]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[61]]></undefined0>
+		<name><![CDATA[Morayfield Shopping Centre]]></name>
+		<location><![CDATA[171 Morayfield Road, Morayfield]]></location>
+		<suburb><![CDATA[Morayfield]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-3:30pm]]></openinghours>
+		<latitude><![CDATA[-27.10241145]]></latitude>
+		<longitude><![CDATA[152.9497034]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[62]]></undefined0>
+		<name><![CDATA[Morayfield Village]]></name>
+		<location><![CDATA[Morayfield Road, Morayfield]]></location>
+		<suburb><![CDATA[Morayfield]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-3:30pm]]></openinghours>
+		<latitude><![CDATA[-27.10433106]]></latitude>
+		<longitude><![CDATA[152.9483051]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[63]]></undefined0>
+		<name><![CDATA[Mount Ommaney Centre]]></name>
+		<location><![CDATA[171 Dandenong Road, Mount Ommaney]]></location>
+		<suburb><![CDATA[Mount Ommaney]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Thu 8:30am-9pm, Mon-Wed,Fri 8:30am-7pm, Sat 8:30am-5pm, Sun 9am-5pm]]></openinghours>
+		<latitude><![CDATA[-27.54926871]]></latitude>
+		<longitude><![CDATA[152.9361925]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[64]]></undefined0>
+		<name><![CDATA[Mount Pleasant Shopping Centre]]></name>
+		<location><![CDATA[Corner Bucasia Road & Phillip Street, Mount Pleasant]]></location>
+		<suburb><![CDATA[Mount Pleasant]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sun 10am-4pm, Sat 9am-3pm]]></openinghours>
+		<latitude><![CDATA[-21.11777921]]></latitude>
+		<longitude><![CDATA[149.1575249]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[65]]></undefined0>
+		<name><![CDATA[Mt Gravatt Plaza]]></name>
+		<location><![CDATA[Corner Creek & Logan Roads, Mount Gravatt]]></location>
+		<suburb><![CDATA[Mount Gravatt]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7pm, Sat 9am-4pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.5392664]]></latitude>
+		<longitude><![CDATA[153.0809955]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[66]]></undefined0>
+		<name><![CDATA[Mudgeeraba Market Shopping Centre]]></name>
+		<location><![CDATA[Swan Lane, Mudgeeraba]]></location>
+		<suburb><![CDATA[Mudgeeraba]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 6am-9pm, Sat 6am-7pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-28.0789093]]></latitude>
+		<longitude><![CDATA[153.3656642]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[67]]></undefined0>
+		<name><![CDATA[Myer Centre]]></name>
+		<location><![CDATA[91 Queen Street, Brisbane]]></location>
+		<suburb><![CDATA[Brisbane]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Thu 9am-5:30pm, Fri 9am-9pm, Sat 9am-5pm, Sun 10am-5pm]]></openinghours>
+		<latitude><![CDATA[-27.470141]]></latitude>
+		<longitude><![CDATA[153.024554]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[68]]></undefined0>
+		<name><![CDATA[Nambour Plaza]]></name>
+		<location><![CDATA[Ann Street, Nambour]]></location>
+		<suburb><![CDATA[Nambour]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-5pm, Thu 9am-9pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-26.62587145]]></latitude>
+		<longitude><![CDATA[152.9612322]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[69]]></undefined0>
+		<name><![CDATA[Niecon Plaza & Niecon Tower]]></name>
+		<location><![CDATA[Victoria Avenue, Broadbeach]]></location>
+		<suburb><![CDATA[Broadbeach]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6am-9pm]]></openinghours>
+		<latitude><![CDATA[-28.029088]]></latitude>
+		<longitude><![CDATA[153.43279]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[70]]></undefined0>
+		<name><![CDATA[Noosa Fair Shopping Centre]]></name>
+		<location><![CDATA[Lanyana Way, Noosa Heads]]></location>
+		<suburb><![CDATA[Noosa Heads]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5:30pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-26.397693]]></latitude>
+		<longitude><![CDATA[153.089893]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[71]]></undefined0>
+		<name><![CDATA[Noosa Junction Plaza]]></name>
+		<location><![CDATA[Cnr Sunshine Beach Road & Noosa Drive, Noosa Heads]]></location>
+		<suburb><![CDATA[Noosa Heads]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-7:30pm, Sat 8am-5:30pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-26.39642]]></latitude>
+		<longitude><![CDATA[153.08902]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[72]]></undefined0>
+		<name><![CDATA[Pacific Fair Shopping Centre]]></name>
+		<location><![CDATA[Hooker Boulevard, Broadbeach Waters]]></location>
+		<suburb><![CDATA[Broadbeach Waters]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri-Sat 9am-5:30pm, Thu 9am-9pm, Sun 9am-5pm]]></openinghours>
+		<latitude><![CDATA[-28.03636768]]></latitude>
+		<longitude><![CDATA[153.4276805]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[73]]></undefined0>
+		<name><![CDATA[Parkside Plaza Shopping Centre]]></name>
+		<location><![CDATA[148 Bamford Lane, Kirwan]]></location>
+		<suburb><![CDATA[Kirwan]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 7am-9pm, Sat 7am-6pm, Sun 7am-3pm]]></openinghours>
+		<latitude><![CDATA[-19.303765]]></latitude>
+		<longitude><![CDATA[146.740956]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[74]]></undefined0>
+		<name><![CDATA[Pialba Place Shopping Centre - Coles]]></name>
+		<location><![CDATA[Main Street, Pialba]]></location>
+		<suburb><![CDATA[Pialba]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8:30am-5:30pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-25.28273577]]></latitude>
+		<longitude><![CDATA[152.8389733]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[75]]></undefined0>
+		<name><![CDATA[Pier Shopping]]></name>
+		<location><![CDATA[Pier Point Road, Cairns]]></location>
+		<suburb><![CDATA[Cairns]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 9am-9pm]]></openinghours>
+		<latitude><![CDATA[-16.920377]]></latitude>
+		<longitude><![CDATA[145.779915]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[76]]></undefined0>
+		<name><![CDATA[Pinelands Plaza]]></name>
+		<location><![CDATA[663 Beenleigh Road, Sunnybank Hills]]></location>
+		<suburb><![CDATA[Sunnybank Hills]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 7am-11pm]]></openinghours>
+		<latitude><![CDATA[-27.58922434]]></latitude>
+		<longitude><![CDATA[153.0611539]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[77]]></undefined0>
+		<name><![CDATA[Plaza Parade]]></name>
+		<location><![CDATA[Plaza Parade, Maroochydore]]></location>
+		<suburb><![CDATA[Maroochydore]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri-Sat 9am-5:30pm, Thu 9am-9pm, Sun 10:30am-4pm]]></openinghours>
+		<latitude><![CDATA[-26.65604318]]></latitude>
+		<longitude><![CDATA[153.088618]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[78]]></undefined0>
+		<name><![CDATA[Post Office Square]]></name>
+		<location><![CDATA[Queen Street, Brisbane]]></location>
+		<suburb><![CDATA[Brisbane]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8:30am-5:30pm]]></openinghours>
+		<latitude><![CDATA[-27.467274]]></latitude>
+		<longitude><![CDATA[153.0274025]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[79]]></undefined0>
+		<name><![CDATA[Raintrees Shopping Centre]]></name>
+		<location><![CDATA[Corner Alfred & Koch Streets, Manunda]]></location>
+		<suburb><![CDATA[Manunda]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Sat 8:30am-5:30pm, Mon-Fri 8:30am-9pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-16.92539608]]></latitude>
+		<longitude><![CDATA[145.7406109]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[80]]></undefined0>
+		<name><![CDATA[Robina Town Centre]]></name>
+		<location><![CDATA[Robina Town Centre Drive, Robina]]></location>
+		<suburb><![CDATA[Robina]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sun 10:30am-4pm, Sat 8:30am-5:30pm]]></openinghours>
+		<latitude><![CDATA[-28.07665744]]></latitude>
+		<longitude><![CDATA[153.3839664]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[81]]></undefined0>
+		<name><![CDATA[Rose City Shoppingworld]]></name>
+		<location><![CDATA[81 Palmerin Street, Warwick]]></location>
+		<suburb><![CDATA[Warwick]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm]]></openinghours>
+		<latitude><![CDATA[-28.214712]]></latitude>
+		<longitude><![CDATA[152.032959]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[82]]></undefined0>
+		<name><![CDATA[Sanctuary Cove Marine Shopping Village]]></name>
+		<location><![CDATA[Masthead Way, Hope Island]]></location>
+		<suburb><![CDATA[Hope Island]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 9:30am-5:30pm]]></openinghours>
+		<latitude><![CDATA[-27.8536]]></latitude>
+		<longitude><![CDATA[153.361]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[83]]></undefined0>
+		<name><![CDATA[Smithfield Centre]]></name>
+		<location><![CDATA[Corner Cook & Kennedy Highways, Smithfield]]></location>
+		<suburb><![CDATA[Smithfield]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5:30pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-16.83947044]]></latitude>
+		<longitude><![CDATA[145.6923247]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[84]]></undefined0>
+		<name><![CDATA[Southtown Shopping Centre]]></name>
+		<location><![CDATA[140 South Street, Centenary Heights]]></location>
+		<suburb><![CDATA[Centenary Heights]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-27.58022828]]></latitude>
+		<longitude><![CDATA[151.9621233]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[85]]></undefined0>
+		<name><![CDATA[Springfield Fair Shopping Centre]]></name>
+		<location><![CDATA[Corner Springfield Parkway & Topaz Road, Springfield]]></location>
+		<suburb><![CDATA[Springfield]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Sat-Sun 9am-5pm, Thu 9am-9pm]]></openinghours>
+		<latitude><![CDATA[-27.65334782]]></latitude>
+		<longitude><![CDATA[152.9187205]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[86]]></undefined0>
+		<name><![CDATA[Stanthorpe Plaza Shopping Centre]]></name>
+		<location><![CDATA[Corner High & Lock Streets, Stanthorpe]]></location>
+		<suburb><![CDATA[Stanthorpe]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm]]></openinghours>
+		<latitude><![CDATA[-28.65421868]]></latitude>
+		<longitude><![CDATA[151.9352902]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[87]]></undefined0>
+		<name><![CDATA[Station Square Shopping Centre]]></name>
+		<location><![CDATA[142 Lennox Street, Maryborough]]></location>
+		<suburb><![CDATA[Maryborough]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm]]></openinghours>
+		<latitude><![CDATA[-25.5394]]></latitude>
+		<longitude><![CDATA[152.699525]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[88]]></undefined0>
+		<name><![CDATA[Stockland Burleigh Heads]]></name>
+		<location><![CDATA[149 West Burleigh Road, Burleigh Heads]]></location>
+		<suburb><![CDATA[Burleigh Heads]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8:30am-9pm, Sat 8:30am-6pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-28.0975253]]></latitude>
+		<longitude><![CDATA[153.4416568]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[89]]></undefined0>
+		<name><![CDATA[Stockland Cairns]]></name>
+		<location><![CDATA[537 Mulgrave Road, Earlville]]></location>
+		<suburb><![CDATA[Earlville]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10:30am-4pm]]></openinghours>
+		<latitude><![CDATA[-16.94333694]]></latitude>
+		<longitude><![CDATA[145.739984]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[90]]></undefined0>
+		<name><![CDATA[Stockland Caloundra]]></name>
+		<location><![CDATA[47 Bowman Road, Caloundra]]></location>
+		<suburb><![CDATA[Caloundra]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5:30pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-26.80285524]]></latitude>
+		<longitude><![CDATA[153.1253727]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[91]]></undefined0>
+		<name><![CDATA[Stockland Cleveland]]></name>
+		<location><![CDATA[91 Middle Street, Cleveland]]></location>
+		<suburb><![CDATA[Cleveland]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8:30am-9pm, Sat-Sun 8:30am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.52548181]]></latitude>
+		<longitude><![CDATA[153.2684098]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[92]]></undefined0>
+		<name><![CDATA[Stockland Gladstone]]></name>
+		<location><![CDATA[Corner Dawson Highway & Philip Street, Gladstone]]></location>
+		<suburb><![CDATA[Gladstone]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-8pm, Sat 9am-3pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-23.87035]]></latitude>
+		<longitude><![CDATA[151.24105]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[93]]></undefined0>
+		<name><![CDATA[Stockland Bundaberg]]></name>
+		<location><![CDATA[115 Takalvan Street, Avoca]]></location>
+		<suburb><![CDATA[Avoca]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 9am-9pm]]></openinghours>
+		<latitude><![CDATA[-24.88769925]]></latitude>
+		<longitude><![CDATA[152.3185784]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[Yes]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[94]]></undefined0>
+		<name><![CDATA[Sunny Park Shopping Centre]]></name>
+		<location><![CDATA[Corner Mains Road & McCullough Street, Sunnybank]]></location>
+		<suburb><![CDATA[Sunnybank]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-4pm, Thu 9am-9pm, Sun 11am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.57134561]]></latitude>
+		<longitude><![CDATA[153.0651671]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[95]]></undefined0>
+		<name><![CDATA[Sunnybank Hills Shoppingtown]]></name>
+		<location><![CDATA[661 Compton Road (Corner Calam & Compton Roads), Sunnybank Hills]]></location>
+		<suburb><![CDATA[Sunnybank Hills]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Sat 7am-9pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.61065402]]></latitude>
+		<longitude><![CDATA[153.0554608]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[Yes]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[96]]></undefined0>
+		<name><![CDATA[Sunnybank Plaza Shopping Centre]]></name>
+		<location><![CDATA[Corner Mains Road & McCullough Street, Sunnybank]]></location>
+		<suburb><![CDATA[Sunnybank]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8:30am-5pm, Sun 9am-5pm]]></openinghours>
+		<latitude><![CDATA[-27.57044381]]></latitude>
+		<longitude><![CDATA[153.0629653]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[97]]></undefined0>
+		<name><![CDATA[Sunshine Plaza]]></name>
+		<location><![CDATA[Horton Parade, Maroochydore]]></location>
+		<suburb><![CDATA[Maroochydore]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri-Sat 9am-5:30pm, Sun 10:30am-4pm, Thu 9am-9pm]]></openinghours>
+		<latitude><![CDATA[-26.65313736]]></latitude>
+		<longitude><![CDATA[153.0905894]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[98]]></undefined0>
+		<name><![CDATA[Sunshine Coast Home]]></name>
+		<location><![CDATA[100 Maroochydore Road, Maroochydore]]></location>
+		<suburb><![CDATA[Maroochydore]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Sat 9am-5pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-26.65141317]]></latitude>
+		<longitude><![CDATA[153.0809658]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[99]]></undefined0>
+		<name><![CDATA[The Gap Village Shopping Centre]]></name>
+		<location><![CDATA[1000 Waterworks Road, The Gap]]></location>
+		<suburb><![CDATA[The Gap]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-27.44558667]]></latitude>
+		<longitude><![CDATA[152.9521052]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[100]]></undefined0>
+		<name><![CDATA[The Oasis Shopping Centre]]></name>
+		<location><![CDATA[Victoria Avenue, Broadbeach]]></location>
+		<suburb><![CDATA[Broadbeach]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri-Sat 9am-5:30pm, Thu 9am-7pm, Sun 10:30am-4pm]]></openinghours>
+		<latitude><![CDATA[-28.02947198]]></latitude>
+		<longitude><![CDATA[153.4328476]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[101]]></undefined0>
+		<name><![CDATA[Toowong Village]]></name>
+		<location><![CDATA[9 Sherwood Road, Toowong]]></location>
+		<suburb><![CDATA[Toowong]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-4pm, Sun 10am-4pm, Thu 9am-9pm]]></openinghours>
+		<latitude><![CDATA[-27.48499459]]></latitude>
+		<longitude><![CDATA[152.9921973]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[102]]></undefined0>
+		<name><![CDATA[Town Centre at Victoria Point]]></name>
+		<location><![CDATA[Colburn Avenue, Victoria Point]]></location>
+		<suburb><![CDATA[Victoria Point]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 9am-5pm, Sun 10am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.58502837]]></latitude>
+		<longitude><![CDATA[153.2832966]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[103]]></undefined0>
+		<name><![CDATA[Valley Metro]]></name>
+		<location><![CDATA[230 Brunswick Street, Fortitude Valley]]></location>
+		<suburb><![CDATA[Fortitude Valley]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 6am-8pm, Sat 5am-8pm, Sun 6am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.45638006]]></latitude>
+		<longitude><![CDATA[153.0332539]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[104]]></undefined0>
+		<name><![CDATA[Vincent Shopping Centre]]></name>
+		<location><![CDATA[Corner of Fulham Road & Nathan Street, Vincent]]></location>
+		<suburb><![CDATA[Vincent]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5:30pm, Sun 10am-6pm]]></openinghours>
+		<latitude><![CDATA[-19.28770233]]></latitude>
+		<longitude><![CDATA[146.7616651]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[105]]></undefined0>
+		<name><![CDATA[Direct Factory Outlet Cairns]]></name>
+		<location><![CDATA[274 MULGRAVE RD, Westcourt]]></location>
+		<suburb><![CDATA[Westcourt]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 9am-5pm]]></openinghours>
+		<latitude><![CDATA[-16.93535]]></latitude>
+		<longitude><![CDATA[145.75364]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[106]]></undefined0>
+		<name><![CDATA[Westfield North Lakes]]></name>
+		<location><![CDATA[Corner Anzac Avenue & Northlakes Drive, Mango Hill]]></location>
+		<suburb><![CDATA[Mango Hill]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Tue,Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.24226666]]></latitude>
+		<longitude><![CDATA[153.020491]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[107]]></undefined0>
+		<name><![CDATA[Westfield Strathpine]]></name>
+		<location><![CDATA[295 Gympie Road, Strathpine]]></location>
+		<suburb><![CDATA[Strathpine]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.30632556]]></latitude>
+		<longitude><![CDATA[152.9919811]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[108]]></undefined0>
+		<name><![CDATA[Westside Fresh Food Fair]]></name>
+		<location><![CDATA[14 Heidke Street, Bundaberg Central]]></location>
+		<suburb><![CDATA[Bundaberg Central]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm]]></openinghours>
+		<latitude><![CDATA[-24.8866]]></latitude>
+		<longitude><![CDATA[152.3199]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[109]]></undefined0>
+		<name><![CDATA[Whitsunday Shopping Centre]]></name>
+		<location><![CDATA[226 Shute Harbour Road, Cannonvale]]></location>
+		<suburb><![CDATA[Cannonvale]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7pm, Sat 9am-4pm, Sun 10am-2pm]]></openinghours>
+		<latitude><![CDATA[-20.27726]]></latitude>
+		<longitude><![CDATA[148.69932]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[110]]></undefined0>
+		<name><![CDATA[Willows Shoppingtown]]></name>
+		<location><![CDATA[2 Thuringowa Drive, Thuringowa Central]]></location>
+		<suburb><![CDATA[Thuringowa Central]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5:30pm, Sun 7am-6pm]]></openinghours>
+		<latitude><![CDATA[-19.31521]]></latitude>
+		<longitude><![CDATA[146.72877]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[111]]></undefined0>
+		<name><![CDATA[Winston Glades Shopping Centre]]></name>
+		<location><![CDATA[259 Ash Street, Flinders View]]></location>
+		<suburb><![CDATA[Flinders View]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-27.655335]]></latitude>
+		<longitude><![CDATA[152.75989]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[112]]></undefined0>
+		<name><![CDATA[Wintergarden]]></name>
+		<location><![CDATA[Queen Street Mall, Brisbane]]></location>
+		<suburb><![CDATA[Brisbane]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Thu 9am-5:30pm, Fri 9am-9pm, Sat 9am-5pm, Sun 10:30am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.46914516]]></latitude>
+		<longitude><![CDATA[153.0263336]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[113]]></undefined0>
+		<name><![CDATA[Woolworths Marketplace]]></name>
+		<location><![CDATA[Corner Albany Forest Drive & Old Northern Road, Albany Creek]]></location>
+		<suburb><![CDATA[Albany Creek]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Sat 7am-9pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.3592272]]></latitude>
+		<longitude><![CDATA[152.9693816]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[114]]></undefined0>
+		<name><![CDATA[Ascot Plaza]]></name>
+		<location><![CDATA[Racecourse Road, Ascot]]></location>
+		<suburb><![CDATA[Ascot]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.4337238]]></latitude>
+		<longitude><![CDATA[153.0651261]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[115]]></undefined0>
+		<name><![CDATA[Bribie Island Shopping Centre]]></name>
+		<location><![CDATA[Goodwin Drive, Bongaree]]></location>
+		<suburb><![CDATA[Bongaree]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.06371196]]></latitude>
+		<longitude><![CDATA[153.1570031]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[116]]></undefined0>
+		<name><![CDATA[Gatton Plaza]]></name>
+		<location><![CDATA[Spencer Street, Gatton]]></location>
+		<suburb><![CDATA[Gatton]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 9am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.55954052]]></latitude>
+		<longitude><![CDATA[152.2772563]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[117]]></undefined0>
+		<name><![CDATA[Kallangur Fair]]></name>
+		<location><![CDATA[1473 Anzac Avenue, Kallangur]]></location>
+		<suburb><![CDATA[Kallangur]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.24946126]]></latitude>
+		<longitude><![CDATA[153.0002252]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[118]]></undefined0>
+		<name><![CDATA[Brassall Shopping Centre]]></name>
+		<location><![CDATA[60 Hunter Street, Brassall]]></location>
+		<suburb><![CDATA[Brassall]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.59684272]]></latitude>
+		<longitude><![CDATA[152.7472]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[119]]></undefined0>
+		<name><![CDATA[Kenmore Village Shopping Centre]]></name>
+		<location><![CDATA[9 Brookfield Road, Kenmore]]></location>
+		<suburb><![CDATA[Kenmore]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7pm, Sat 9am-4pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.50643975]]></latitude>
+		<longitude><![CDATA[152.9385867]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[120]]></undefined0>
+		<name><![CDATA[Sunland Plaza]]></name>
+		<location><![CDATA[14 Hervey Range Road, Thuringowa Central]]></location>
+		<suburb><![CDATA[Thuringowa Central]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-19.31814]]></latitude>
+		<longitude><![CDATA[146.72645]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[121]]></undefined0>
+		<name><![CDATA[Centrepoint Plaza]]></name>
+		<location><![CDATA[Corner Herbert Street & The Soldiers Road, Bowen]]></location>
+		<suburb><![CDATA[Bowen]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 8am-12pm]]></openinghours>
+		<latitude><![CDATA[-20.00169594]]></latitude>
+		<longitude><![CDATA[148.2400783]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[122]]></undefined0>
+		<name><![CDATA[Biloela Shoppingworld]]></name>
+		<location><![CDATA[Gladstone Road, Biloela]]></location>
+		<suburb><![CDATA[Biloela]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7pm, Sat 9am-4pm]]></openinghours>
+		<latitude><![CDATA[-24.40290853]]></latitude>
+		<longitude><![CDATA[150.5130068]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[123]]></undefined0>
+		<name><![CDATA[Bracken Ridge Plaza]]></name>
+		<location><![CDATA[Corner Norris & Telegraph Roads, Bracken Ridge]]></location>
+		<suburb><![CDATA[Bracken Ridge]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 8am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.33018164]]></latitude>
+		<longitude><![CDATA[153.0260797]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[124]]></undefined0>
+		<name><![CDATA[Great Western Super Centre]]></name>
+		<location><![CDATA[1028 Samford Road, Keperra]]></location>
+		<suburb><![CDATA[Keperra]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 8:30am-5:30pm, Thu 8:30am-9pm, Sat 9am-5pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.41509352]]></latitude>
+		<longitude><![CDATA[152.9496871]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[125]]></undefined0>
+		<name><![CDATA[Heritage Shopping Centre]]></name>
+		<location><![CDATA[Central Avenue, Weipa Airport]]></location>
+		<suburb><![CDATA[Weipa Airport]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 8am-7pm, Thu 8am-9pm, Sat 8am-5pm]]></openinghours>
+		<latitude><![CDATA[-12.62996153]]></latitude>
+		<longitude><![CDATA[141.8788987]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[126]]></undefined0>
+		<name><![CDATA[Mt Sheridan Plaza]]></name>
+		<location><![CDATA[106 Barnard Drive, Mount Sheridan]]></location>
+		<suburb><![CDATA[Mount Sheridan]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8:30am-6pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-16.991113]]></latitude>
+		<longitude><![CDATA[145.739181]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[127]]></undefined0>
+		<name><![CDATA[Surfers Paradise]]></name>
+		<location><![CDATA[19 Cavill Avenue, Surfers Paradise]]></location>
+		<suburb><![CDATA[Surfers Paradise]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-28.00192356]]></latitude>
+		<longitude><![CDATA[153.4289906]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[128]]></undefined0>
+		<name><![CDATA[Main Street]]></name>
+		<location><![CDATA[138 Alice Street, Mitchell]]></location>
+		<suburb><![CDATA[Mitchell]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-26.48765708]]></latitude>
+		<longitude><![CDATA[147.9753197]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[129]]></undefined0>
+		<name><![CDATA[Looranah Street Local]]></name>
+		<location><![CDATA[61 Looranah Street, Jindalee]]></location>
+		<suburb><![CDATA[Jindalee]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 7am-9pm]]></openinghours>
+		<latitude><![CDATA[-27.53240428]]></latitude>
+		<longitude><![CDATA[152.9418933]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[130]]></undefined0>
+		<name><![CDATA[Albert Street]]></name>
+		<location><![CDATA[Albert Street, Brisbane]]></location>
+		<suburb><![CDATA[Brisbane]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-27.46976516]]></latitude>
+		<longitude><![CDATA[153.0253948]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[131]]></undefined0>
+		<name><![CDATA[Stones Corner library]]></name>
+		<location><![CDATA[Logan Road, Greenslopes]]></location>
+		<suburb><![CDATA[Greenslopes]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-27.49792163]]></latitude>
+		<longitude><![CDATA[153.04367]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[132]]></undefined0>
+		<name><![CDATA[Annandale Central]]></name>
+		<location><![CDATA[101 MacArthur Drive, Annandale]]></location>
+		<suburb><![CDATA[Annandale]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8:30am-5:30pm, Sat 8:30am-4pm, Sun 8:30am-3pm]]></openinghours>
+		<latitude><![CDATA[-19.31673266]]></latitude>
+		<longitude><![CDATA[146.7908928]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[133]]></undefined0>
+		<name><![CDATA[Indooroopilly Shopping Centre]]></name>
+		<location><![CDATA[322 Moggill Road, Indooroopilly]]></location>
+		<suburb><![CDATA[Indooroopilly]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30am, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.49846593]]></latitude>
+		<longitude><![CDATA[152.972887]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[134]]></undefined0>
+		<name><![CDATA[Petrie Village Shopping Centre]]></name>
+		<location><![CDATA[Old Dayboro Road, Petrie]]></location>
+		<suburb><![CDATA[Petrie]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Fri-Wed 8am-5:30pm, Thu 8am-9pm]]></openinghours>
+		<latitude><![CDATA[-27.2703754]]></latitude>
+		<longitude><![CDATA[152.9748073]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[135]]></undefined0>
+		<name><![CDATA[Community Shopping Centre]]></name>
+		<location><![CDATA[Resevoir Road, Yarrabah]]></location>
+		<suburb><![CDATA[Yarrabah]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-5pm]]></openinghours>
+		<latitude><![CDATA[-16.9066]]></latitude>
+		<longitude><![CDATA[145.86586]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[136]]></undefined0>
+		<name><![CDATA[Maple Street Kiosk ]]></name>
+		<location><![CDATA[Maple Street, Maleny]]></location>
+		<suburb><![CDATA[Maleny]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[Currently closed]]></openinghours>
+		<latitude><![CDATA[-26.758323]]></latitude>
+		<longitude><![CDATA[152.852475]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[137]]></undefined0>
+		<name><![CDATA[William Landsborough Park]]></name>
+		<location><![CDATA[Landsborough Parade, Golden Beach]]></location>
+		<suburb><![CDATA[Golden Beach]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-26.806968]]></latitude>
+		<longitude><![CDATA[153.123136]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[138]]></undefined0>
+		<name><![CDATA[Arndale Shopping Centre]]></name>
+		<location><![CDATA[17 CINDERELLA DR, Springwood]]></location>
+		<suburb><![CDATA[Springwood]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-5pm, Sun 11am-5pm, Thu 9am-9pm]]></openinghours>
+		<latitude><![CDATA[-27.61131]]></latitude>
+		<longitude><![CDATA[153.12512]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[139]]></undefined0>
+		<name><![CDATA[Pialba Place Shopping Centre - Big W]]></name>
+		<location><![CDATA[MAIN ST, Pialba]]></location>
+		<suburb><![CDATA[Pialba]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 8:30am-6pm, Thu 8:30am-9pm, Sat 8:30am-5pm, Sun 9am-5pm]]></openinghours>
+		<latitude><![CDATA[-25.28293]]></latitude>
+		<longitude><![CDATA[152.83903]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[140]]></undefined0>
+		<name><![CDATA[Queens Plaza]]></name>
+		<location><![CDATA[226 Queen Street, Brisbane]]></location>
+		<suburb><![CDATA[Brisbane]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[Opening hours unknown]]></openinghours>
+		<latitude><![CDATA[-27.46874]]></latitude>
+		<longitude><![CDATA[153.02639]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[141]]></undefined0>
+		<name><![CDATA[QueensPlaza]]></name>
+		<location><![CDATA[226 Queen Street, Brisbane City]]></location>
+		<suburb><![CDATA[Brisbane City]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Thu 9am-5:30pm, Sat 9am-9pm, Sat 9am-5pm, Sun 10am-5pm]]></openinghours>
+		<latitude><![CDATA[-27.46837787]]></latitude>
+		<longitude><![CDATA[153.0265259]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[142]]></undefined0>
+		<name><![CDATA[Mountain Creek Shopping Centre]]></name>
+		<location><![CDATA[158-170 Karawatha Drive, Mountain Creek]]></location>
+		<suburb><![CDATA[Mountain Creek]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[Opening hours unknown]]></openinghours>
+		<latitude><![CDATA[-26.694026]]></latitude>
+		<longitude><![CDATA[153.0901775]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[143]]></undefined0>
+		<name><![CDATA[Learmonth Foodworks Shopping Complex]]></name>
+		<location><![CDATA[56 Walker Street, Walkervale]]></location>
+		<suburb><![CDATA[Walkervale]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6:30am-9pm]]></openinghours>
+		<latitude><![CDATA[-24.8788614]]></latitude>
+		<longitude><![CDATA[152.3539111]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[144]]></undefined0>
+		<name><![CDATA[Westfield Coomera]]></name>
+		<location><![CDATA[103 Foxwell Road, Coomera]]></location>
+		<suburb><![CDATA[Coomera]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-27.8553849]]></latitude>
+		<longitude><![CDATA[153.3145294]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[145]]></undefined0>
+		<name><![CDATA[Stockland Shopping Centre]]></name>
+		<location><![CDATA[100 Middle Street, Cleveland]]></location>
+		<suburb><![CDATA[Cleveland]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6:30am-6:30pm]]></openinghours>
+		<latitude><![CDATA[-27.5253903]]></latitude>
+		<longitude><![CDATA[153.2688368]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[Yes]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[146]]></undefined0>
+		<name><![CDATA[Gillespie Street]]></name>
+		<location><![CDATA[Gillespie Street, Moura]]></location>
+		<suburb><![CDATA[Moura]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-24.56749886]]></latitude>
+		<longitude><![CDATA[149.9756899]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[147]]></undefined0>
+		<name><![CDATA[Information Centre]]></name>
+		<location><![CDATA[2 Barrett Street, Biloela]]></location>
+		<suburb><![CDATA[Biloela]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-24.40450355]]></latitude>
+		<longitude><![CDATA[150.5135651]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[148]]></undefined0>
+		<name><![CDATA[Kawana Shoppingworld]]></name>
+		<location><![CDATA[119 Point Cartwright Drive, Buddina]]></location>
+		<suburb><![CDATA[Buddina]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10:30am-4pm]]></openinghours>
+		<latitude><![CDATA[-26.7029318]]></latitude>
+		<longitude><![CDATA[153.1310407]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[149]]></undefined0>
+		<name><![CDATA[Calamvale Central]]></name>
+		<location><![CDATA[662 Compton Road, Calamvale]]></location>
+		<suburb><![CDATA[Calamvale]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.6123701]]></latitude>
+		<longitude><![CDATA[153.053268]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[150]]></undefined0>
+		<name><![CDATA[Westfield Carindale]]></name>
+		<location><![CDATA[1151 Creek Road, Carindale]]></location>
+		<suburb><![CDATA[Carindale]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-5pm]]></openinghours>
+		<latitude><![CDATA[-27.5030925]]></latitude>
+		<longitude><![CDATA[153.1019724]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[151]]></undefined0>
+		<name><![CDATA[Westfield Chermside]]></name>
+		<location><![CDATA[Corner of Gympie and Hamilton Roads, Chermside]]></location>
+		<suburb><![CDATA[Chermside]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-5pm]]></openinghours>
+		<latitude><![CDATA[-27.3826351]]></latitude>
+		<longitude><![CDATA[153.0325653]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[152]]></undefined0>
+		<name><![CDATA[Dalby Shoppingworld]]></name>
+		<location><![CDATA[17-67 Cunningham Street, Dalby]]></location>
+		<suburb><![CDATA[Dalby]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7:30pm, Sat 9am-4pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.1811829]]></latitude>
+		<longitude><![CDATA[151.2674378]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[153]]></undefined0>
+		<name><![CDATA[Market Square Deception Bay]]></name>
+		<location><![CDATA[Bay Avenue, Deception Bay]]></location>
+		<suburb><![CDATA[Deception Bay]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.19445081]]></latitude>
+		<longitude><![CDATA[153.0288608]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[154]]></undefined0>
+		<name><![CDATA[The Plaza @ Emerald]]></name>
+		<location><![CDATA[144 Egerton Street, Emerald]]></location>
+		<suburb><![CDATA[Emerald]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-6pm, Sat 9am-3pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-23.5280464]]></latitude>
+		<longitude><![CDATA[148.1644875]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[155]]></undefined0>
+		<name><![CDATA[Westfield Helensvale]]></name>
+		<location><![CDATA[1-29 Millaroo Drive, Helensvale]]></location>
+		<suburb><![CDATA[Helensvale]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.9259351]]></latitude>
+		<longitude><![CDATA[153.3363655]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[156]]></undefined0>
+		<name><![CDATA[Ipswich Central]]></name>
+		<location><![CDATA[20 Nicholas Street, Ipswich]]></location>
+		<suburb><![CDATA[Ipswich]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[Opening hours unknown]]></openinghours>
+		<latitude><![CDATA[-27.61283809]]></latitude>
+		<longitude><![CDATA[152.7593282]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[157]]></undefined0>
+		<name><![CDATA[Sydney Street Markets]]></name>
+		<location><![CDATA[31 Gordon Street, Mackay]]></location>
+		<suburb><![CDATA[Mackay]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed 9am-5:30pm, Thu-Fri 9am-7pm, Sat 9am-4pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-21.14407997]]></latitude>
+		<longitude><![CDATA[149.1874344]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[158]]></undefined0>
+		<name><![CDATA[Big Top Shopping Centre]]></name>
+		<location><![CDATA[12-20 Ocean Street, Maroochydore]]></location>
+		<suburb><![CDATA[Maroochydore]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-26.6526799]]></latitude>
+		<longitude><![CDATA[153.0914827]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[159]]></undefined0>
+		<name><![CDATA[Middlemount Shopping Centre]]></name>
+		<location><![CDATA[James Randell Drive, Middlemount]]></location>
+		<suburb><![CDATA[Middlemount]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[Opening hours unknown]]></openinghours>
+		<latitude><![CDATA[-22.80967329]]></latitude>
+		<longitude><![CDATA[148.6995564]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[160]]></undefined0>
+		<name><![CDATA[Stockland Rockhampton]]></name>
+		<location><![CDATA[120-331 Yaamba Road, Coral Sea]]></location>
+		<suburb><![CDATA[Coral Sea]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-23.3547388]]></latitude>
+		<longitude><![CDATA[150.5214363]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[161]]></undefined0>
+		<name><![CDATA[Toombul Shopping Centre]]></name>
+		<location><![CDATA[1015 Sandgate Road, Toombul]]></location>
+		<suburb><![CDATA[Toombul]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7pm, Sat 9am-5pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.409113]]></latitude>
+		<longitude><![CDATA[153.0616173]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[162]]></undefined0>
+		<name><![CDATA[Redbank Plaza]]></name>
+		<location><![CDATA[1 Collingwood Drive, Redbank]]></location>
+		<suburb><![CDATA[Redbank]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.60595817]]></latitude>
+		<longitude><![CDATA[152.8679696]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[163]]></undefined0>
+		<name><![CDATA[Runaway Bay Centre]]></name>
+		<location><![CDATA[10-12 Lae Drive, Runaway Bay]]></location>
+		<suburb><![CDATA[Runaway Bay]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.9136584]]></latitude>
+		<longitude><![CDATA[153.4008168]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[164]]></undefined0>
+		<name><![CDATA[Orion Springfield Central]]></name>
+		<location><![CDATA[1 Main Street, Springfield Central]]></location>
+		<suburb><![CDATA[Springfield Central]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.6776615]]></latitude>
+		<longitude><![CDATA[152.9021193]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[165]]></undefined0>
+		<name><![CDATA[Toowoomba Plaza]]></name>
+		<location><![CDATA[878 Ruthven Street, Kearneys Spring]]></location>
+		<suburb><![CDATA[Kearneys Spring]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm, Sun 10am-4pm]]></openinghours>
+		<latitude><![CDATA[-27.5951974]]></latitude>
+		<longitude><![CDATA[151.9486415]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[166]]></undefined0>
+		<name><![CDATA[Wilsonton Shopping Centre]]></name>
+		<location><![CDATA[407 Bridge Street, Wilsonton]]></location>
+		<suburb><![CDATA[Wilsonton]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat-Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.5433337]]></latitude>
+		<longitude><![CDATA[151.9246776]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<undefined0><![CDATA[167]]></undefined0>
+		<name><![CDATA[High Street Shopping Centre]]></name>
+		<location><![CDATA[52 High Street, Toowoomba]]></location>
+		<suburb><![CDATA[Toowoomba]]></suburb>
+		<activitytype><![CDATA[Shopping Centre]]></activitytype>
+		<openinghours><![CDATA[OPEN: Mon-Fri 8am-9pm, Sat 8am-6pm, Sun 9am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.5858448]]></latitude>
+		<longitude><![CDATA[151.9783974]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+</data>

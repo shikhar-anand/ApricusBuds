@@ -1,0 +1,47 @@
+.hq-social-share ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: flex-start;
+}
+
+.hq-social-share ul li {
+    cursor: pointer;
+}
+
+.hq-social-share svg {
+    width: 20px;
+    display: inline-block;
+}
+.hq-social-share.hq-social-view-icon-title ul li {
+    padding-right: 15px;
+}
+.hq-social-share.hq-social-view-title ul li {
+    padding: 0px 15px;
+}
+
+.hq-social-share ul li i {
+    display: block;
+    float: left;
+    height: 42px;
+    line-height: 42px;
+    width: 42px;
+}
+.htmega-share-counter {
+    margin-left: 5px;
+}
+
+.hq-social-style-1 ul li {
+    display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    transition: 0.5s;
+    line-height: 42px;
+}
+
+.hq-social-style-1 ul li:hover {
+    opacity: 0.8;
+}

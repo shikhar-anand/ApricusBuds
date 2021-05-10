@@ -1,0 +1,37 @@
+.elementor-widget-hq-theme-countdown-timer > .elementor-widget-container {
+    display: flex;
+}
+.countdown-timer-widget {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+.countdown-timer {
+    font-size: 1em;
+    text-align: center;
+}
+.countdown-timer.labelformat {
+    display: flex;
+    flex-grow: 1;
+}
+.countdown-timer .timerDisplay {
+    display: flex;
+    flex-grow: 1;
+}
+.countdown-timer .displaySection {
+    text-align: center;
+    border-right: 0px solid #ccc;
+    flex-grow: 1;
+}
+.countdown-timer .displaySection:last-of-type {border-right: none;}
+
+.countdown-timer .label6 .displaySection {flex-basis: 16.6666%;}
+.countdown-timer .label5 .displaySection {flex-basis: 20%;}
+.countdown-timer .label4 .displaySection {flex-basis: 25%;}
+.countdown-timer .label3 .displaySection {flex-basis: 33.3333%;}
+.countdown-timer .label2 .displaySection {flex-basis: 50%;}
+.countdown-timer .label1 .displaySection {flex-basis: 100%;}
+
+.numberDisplay, .periodDisplay {display: block;}
+
+.countdown-message {text-align: center;}

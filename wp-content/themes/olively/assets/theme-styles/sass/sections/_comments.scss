@@ -1,0 +1,83 @@
+/**
+ *	Styling for the comment section of the theme
+ */
+ 
+// The Respond Section
+#respond {
+	label {
+		display:inline;
+		@extend %heading-font;
+	}
+	input {
+		border-radius: 0;
+	}
+	textarea {
+		border-radius: 0;
+		color: darken(white, 50%);
+		padding: .5em;
+	}
+	input.submit {
+		padding: .75em 1.25em;
+		@extend .olively-btn;
+		@extend .primary;
+	}
+}
+
+// The Comments area
+
+#comments {
+	.comments-title {
+		margin-bottom: 1em;
+	}
+	.comment-list, ul.children {
+		list-style: none;
+	}
+	.comment-body {
+		margin-bottom: 4em;
+	}
+	ol.comment-list {
+		margin-left: 0;
+		padding: 1.5em;
+		background-color: alpha(lightness(white, -27%), -0.9);
+		border-radius: 0;
+		overflow: hidden;
+	}
+	ul.children {
+		background-color: alpha(lightness(white, -27%), -0.9);
+		padding: 1.5em;
+		border-radius: 0;
+	}
+	.comment {
+		margin-bottom: 1em;
+		.comment-author, .comment-meta, .reply {
+			@extend %heading-font;
+		}
+		.comment-info {
+			display: flex;
+			align-items: center;
+			margin-bottom: 1em;
+		}
+		.vcard {
+			margin-right: .75em;
+			img {
+				border-radius: 50%;
+				margin-right: .75em;
+			}
+		}
+		.comment-meta {
+			a {
+				color: lightness(white, -30%);
+				font-size: .75em;
+				text-transform: uppercase;
+				letter-spacing: .05em;
+				margin-right: .75em;
+			}
+		}
+		.reply {
+			a {
+				@extend .olively-btn;
+				@extend .primary;
+			}
+		}
+	}
+}

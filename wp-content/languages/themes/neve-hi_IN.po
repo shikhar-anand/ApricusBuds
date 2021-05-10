@@ -1,0 +1,1069 @@
+# Translation of Themes - Neve in Hindi
+# This file is distributed under the same license as the Themes - Neve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-11 17:54:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: hi_IN\n"
+"Project-Id-Version: Themes - Neve\n"
+
+#. Description of the theme
+msgid "Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready. Look no further. Neve is the perfect theme for you!"
+msgstr "नेवे एक अत्यधिक तेज़, आसानी से अनुकूलन योग्य, बहुउद्देशीय थीम है। यह ब्लॉग, छोटे व्यवसाय, स्टार्टअप, एजेंसियों, फर्मों, ई-कॉमर्स दुकानों (वू कॉमर्स स्टोरफ्रंट) के साथ-साथ व्यक्तिगत पोर्टफोलियो साइट्स और अधिकांश प्रकार की परियोजनाओं के लिए उत्तम है। पूरी तरह से एएमप अनुकूलित और अनुक्रियाशील थीम, नेवे केवल सेकेंडो में लोड होती हैं और और इसे जिस भी यंत्र पर देखा जाता है उसके अनुरूप हो जाती हैं । थीम आसान और न्यूनतम डिज़ाइन की होने के बावजूद भी अत्यधिक विस्तार योग्य है, इसका कोड एसईओ के लिए अत्यधिक अनुकूलित है जिसके परिणाम स्वरूप गूगल के खोज परिणामो मे शीर्ष रैंकिंग मिलती है। नेवे गुटेनबर्ग और सबसे लोकप्रिय पेज बिल्डर्स (एलिमेंटर, ब्रिज़ी, बीवर बिल्डर, विजुअल कंपोज़र, साइटऑरिजिन, डिवी) के साथ पूरी तरह से काम करती है। नेवे वू कॉमर्स तैयार, अनुक्रियाशील, आरटीएल और अनुवाद के लिए तैयार भी है। और मत देखो। नेवे आपके लिए एकदम सही थीम है!"
+
+#. Theme Name of the theme
+msgid "Neve"
+msgstr "नेवे"
+
+#: inc/customizer/options/layout_sidebar.php:297
+msgid "edit"
+msgstr "संपादित करे"
+
+#. translators: %s is the header name
+#: header-footer-grid/Core/Customizer.php:270
+msgid "You are customizing the %s Header"
+msgstr "आप %s हैडर को कस्टमाइज़ कर रहे हैं"
+
+#: header-footer-grid/Core/Magic_Tags.php:637
+msgid "Checkout URL"
+msgstr "चेकआउट का यूआरएल"
+
+#: header-footer-grid/Core/Magic_Tags.php:633
+msgid "Cart URL"
+msgstr "कार्ट का यूआरएल"
+
+#: header-footer-grid/Core/Magic_Tags.php:629
+msgid "Product Title"
+msgstr "उत्पाद का शीर्षक"
+
+#: header-footer-grid/Core/Magic_Tags.php:625
+msgid "Product Price"
+msgstr "उत्पाद का मूल्य"
+
+#: header-footer-grid/Core/Magic_Tags.php:622
+msgid "WooCommerce"
+msgstr "वूकॉमर्स"
+
+#: header-footer-grid/Core/Magic_Tags.php:489
+msgid "Single"
+msgstr "इकलौता"
+
+#: header-footer-grid/Core/Magic_Tags.php:592
+msgid "Current Year"
+msgstr "वर्तमान साल"
+
+#: header-footer-grid/Core/Magic_Tags.php:588
+msgid "Home URL"
+msgstr "होम का यूआरएल"
+
+#: header-footer-grid/Core/Magic_Tags.php:584
+msgid "Site Tagline"
+msgstr "साईट टैगलाइन "
+
+#: header-footer-grid/Core/Magic_Tags.php:580
+msgid "Site Title"
+msgstr "साइट शीर्षक"
+
+#: header-footer-grid/Core/Magic_Tags.php:577
+msgid "Global"
+msgstr "सार्वत्रिक"
+
+#: header-footer-grid/Core/Magic_Tags.php:537
+msgid "Archive URL"
+msgstr "संग्रह का यूआरएल"
+
+#: header-footer-grid/Core/Magic_Tags.php:533
+msgid "Archive Title"
+msgstr "संग्रह का शीर्षक"
+
+#: header-footer-grid/Core/Magic_Tags.php:529
+msgid "Archive Description"
+msgstr "संग्रह का विवरण"
+
+#: header-footer-grid/Core/Magic_Tags.php:526
+msgid "Archive"
+msgstr "संग्रह"
+
+#: header-footer-grid/Core/Magic_Tags.php:500
+msgid "Current Single URL"
+msgstr "वर्तमान एकल यूआरएल"
+
+#: header-footer-grid/Core/Magic_Tags.php:496
+msgid "Current Single Excerpt"
+msgstr "वर्तमान एकल अंश"
+
+#: header-footer-grid/Core/Magic_Tags.php:492
+msgid "Current Single Title"
+msgstr "वर्तमान एकल शीर्षक"
+
+#: header-footer-grid/Core/Components/Logo.php:112
+msgid "Display"
+msgstr "प्रदर्शित करें"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:154
+#: header-footer-grid/Core/Components/CartIcon.php:116
+msgid "Icon Size"
+msgstr "आइकन का आकार"
+
+#: header-footer-grid/Core/Components/Search.php:306
+#: header-footer-grid/Core/Components/SearchResponsive.php:470
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Text and Border"
+msgstr "पाठ और किनारा"
+
+#: inc/customizer/options/buttons.php:98
+msgid "Button Appearance"
+msgstr "बटन की दिखावट"
+
+#: header-footer-grid/Core/Components/Button.php:131
+#: header-footer-grid/Core/Components/MenuIcon.php:148
+msgid "Appearance"
+msgstr "दिखावट"
+
+#: header-footer-grid/Core/Components/MenuIcon.php:101
+msgid "Menu label"
+msgstr "मेनू लेबल"
+
+#: header-footer-grid/Core/Components/CustomHtml.php:148
+msgid "Arbitrary HTML code. It supports also shortcodes."
+msgstr "मनमाना एचटीएमएल कोड। यह शॉर्टकोड का भी समर्थन करता है।"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:497
+msgid "Alignment"
+msgstr "संरेखन"
+
+#: header-footer-grid/templates/rows.php:78
+msgid "Hide"
+msgstr "छुपायें"
+
+#: header-footer-grid/templates/rows.php:77
+msgid "Show"
+msgstr "दिखायें"
+
+#: header-footer-grid/templates/rows.php:74
+#: header-footer-grid/Core/Builder/Header.php:183
+msgid "Mobile menu content"
+msgstr "मोबाइल मेनू सामग्री"
+
+#: inc/customizer/options/layout_blog.php:342
+msgid "Thumbnail Shadow"
+msgstr "थंबनेल की छाया"
+
+#: inc/customizer/options/typography.php:150
+msgid "Body"
+msgstr "प्रधान भाग"
+
+#: header-footer-grid/Core/Customizer/Instructions_Control.php:77
+#: header-footer-grid/Core/Customizer/Instructions_Section.php:75
+msgid "Quick Links"
+msgstr "त्वरित सम्पक"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:469
+msgid "Center"
+msgstr "केंद्र"
+
+#: header-footer-grid/Core/Builder/Footer.php:67
+msgid "Change Footer Color"
+msgstr "फुटर का रंग बदले"
+
+#: header-footer-grid/Core/Builder/Footer.php:63
+msgid "Change Copyright"
+msgstr "कॉपीराइट बदले"
+
+#: header-footer-grid/Core/Builder/Header.php:70
+msgid "Change Menu"
+msgstr "सूचि बदले"
+
+#: header-footer-grid/Core/Builder/Header.php:66
+msgid "Change Header Color"
+msgstr "हैडर का रंग बदले"
+
+#: header-footer-grid/Core/Builder/Header.php:62
+msgid "Change Logo"
+msgstr "प्रतीक चिन्ह बदले"
+
+#: inc/compatibility/pwa.php:63
+msgid "Oops! Something went wrong."
+msgstr "ओह! कुछ गलत हो गया।"
+
+#: inc/compatibility/pwa.php:50
+msgid "Oops! It looks like you&#8217;re offline."
+msgstr "ओह! ऐसा लगता है कि आप ऑफलाइन हैं।"
+
+#: dashboard/inc/Main.php:423
+msgid "LifterLMS Booster"
+msgstr "लिफ्टरएलएमएस बूस्टर"
+
+#: dashboard/inc/Main.php:393
+msgid "Page Header Builder"
+msgstr "पृष्ठ हैडर निर्माता"
+
+#. translators: %s link to documentation
+#: header-footer-grid/Core/Builder/Footer.php:41
+#: header-footer-grid/Core/Builder/Header.php:45
+msgid "Design your %1$s by dragging, dropping and resizing all the elements in real-time. %2$s."
+msgstr "वास्तविक समय में सभी तत्वों को खींचकर, गिराकर और आकार देकर अपना %1$s डिज़ाइन करें। %2$s।"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:361
+msgid "Row Background"
+msgstr "पंक्ति की पृष्ठभूमि"
+
+#: inc/views/partials/post_meta.php:188
+msgid "by"
+msgstr "द्वारा"
+
+#: inc/customizer/options/layout_blog.php:423
+msgid "Show Author Avatar"
+msgstr "लेखक का अवतार दिखाए"
+
+#: dashboard/inc/Main.php:442
+msgid "Simple but effective module to help you navigate back to the top of the really long pages."
+msgstr "बहुत लंबे पृष्ठों के शीर्ष पर वापस नेविगेट करने में आपकी सहायता करने के लिए सरल लेकिन प्रभावी मॉड्यूल।"
+
+#: dashboard/inc/Main.php:441
+msgid "Scroll To Top"
+msgstr "शीर्ष तक स्क्रॉल करें"
+
+#: dashboard/inc/Main.php:435
+msgid "White Label"
+msgstr "सफेद उपनाम"
+
+#: dashboard/inc/Main.php:381
+msgid "Page Builder Compatibility"
+msgstr "पृष्ठ निर्माता संगतता"
+
+#: dashboard/inc/Main.php:375
+msgid "Header/Footer builder"
+msgstr "हैडर/फुटर निर्माता"
+
+#: inc/customizer/controls/upsell_control.php:88
+msgid "PRO"
+msgstr "प्रो"
+
+#: inc/customizer/options/upsells.php:96 dashboard/inc/Main.php:411
+msgid "Elementor Booster"
+msgstr "एलीमेंटर बूस्टर"
+
+#: inc/customizer/options/upsells.php:94
+msgid "White Label module"
+msgstr "सफ़ेद लेबल मॉड्यूल"
+
+#: inc/customizer/options/upsells.php:93 dashboard/inc/Main.php:399
+msgid "Custom Layouts"
+msgstr "कस्टम लेआउट्स"
+
+#: inc/customizer/options/upsells.php:92 dashboard/inc/Main.php:417
+msgid "WooCommerce Booster"
+msgstr "वूकॉमर्स बूस्टर"
+
+#: inc/customizer/options/upsells.php:91 dashboard/inc/Main.php:405
+msgid "Blog Booster"
+msgstr "ब्लॉग बूस्टर"
+
+#: inc/customizer/options/upsells.php:90 dashboard/inc/Main.php:387
+msgid "Header Booster"
+msgstr "हैडर बूस्टर"
+
+#: inc/customizer/options/upsells.php:70
+msgid "View PRO Features"
+msgstr "प्रो विशेषतायें दिखाएं"
+
+#: inc/customizer/options/buttons.php:154
+msgid "Border radius"
+msgstr "सीमा त्रिज्या"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:205
+#: header-footer-grid/Core/Components/CartIcon.php:168
+msgid "Hover Color"
+msgstr "हॉवर रंग"
+
+#: inc/customizer/options/form_fields.php:379
+#: header-footer-grid/Core/Components/SearchResponsive.php:184
+#: header-footer-grid/Core/Components/CartIcon.php:142
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Color"
+msgstr "रंग"
+
+#: header-footer-grid/Core/Components/Search.php:284
+#: header-footer-grid/Core/Components/SearchResponsive.php:448
+msgid "Background Color"
+msgstr "पृष्ठभूमि का रंग"
+
+#: inc/customizer/options/form_fields.php:590
+#: inc/customizer/options/buttons.php:62
+msgid "Secondary"
+msgstr "माध्यमिक"
+
+#: inc/customizer/options/form_fields.php:589
+#: inc/customizer/options/buttons.php:59
+msgid "Primary"
+msgstr "मुख्य"
+
+#: inc/customizer/options/buttons.php:43
+msgid "Buttons"
+msgstr "बटन्स"
+
+#: header-footer-grid/Core/Settings/Manager.php:185
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Style"
+msgstr "स्टाइल"
+
+#: header-footer-grid/Core/Components/SecondNav.php:142
+msgid "Select Menu"
+msgstr "मेनू चुनें"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:558
+msgid "Margin"
+msgstr "हाशिया"
+
+#: inc/customizer/options/layout_sidebar.php:129
+#: header-footer-grid/Core/Components/Abstract_Component.php:465
+#: inc/admin/metabox/build/index.js:3656
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Left"
+msgstr "बांया"
+
+#: inc/customizer/options/layout_sidebar.php:133
+#: header-footer-grid/Core/Components/Abstract_Component.php:473
+#: inc/admin/metabox/build/index.js:3663
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Right"
+msgstr "दायाँ"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1294
+msgid "Slide from Left"
+msgstr "बाईं ओर से स्लाइड करें"
+
+#: inc/customizer/options/layout_single_product.php:125
+msgid "All"
+msgstr "सभी"
+
+#: inc/customizer/options/layout_single_product.php:92
+msgid "Title"
+msgstr "शीर्षक "
+
+#: inc/customizer/options/layout_single_product.php:71
+msgid "Exclusive Products"
+msgstr "अनन्य उत्पाद"
+
+#: inc/compatibility/lifter.php:314
+msgid "Catalog Sidebar"
+msgstr "कैटलॉग साइडबार"
+
+#: inc/customizer/options/buttons.php:135
+#: header-footer-grid/Core/Components/Abstract_Component.php:533
+msgid "Padding"
+msgstr "पैडिंग"
+
+#: header-footer-grid/Core/Builder/Footer.php:124
+msgid "Footer Bottom"
+msgstr "फुटर का निचला हिस्सा"
+
+#: header-footer-grid/Core/Builder/Footer.php:120
+msgid "Footer Top"
+msgstr "फुटर का ऊपरी हिस्सा"
+
+#: header-footer-grid/Core/Builder/Header.php:179
+msgid "Header Bottom"
+msgstr "हैडर का निचला हिस्सा"
+
+#: header-footer-grid/Core/Builder/Header.php:175
+msgid "Header Main"
+msgstr "हैडर मुख्य"
+
+#: header-footer-grid/Core/Builder/Header.php:171
+msgid "Header Top"
+msgstr "हैडर शीर्ष"
+
+#: header-footer-grid/templates/components/component-footer-sidebar.php:36
+msgid "Appearance &rarr; Customize &rarr; Footer &rarr;"
+msgstr "दिखावट &rarr; अनुकूल बनायें &rarr; फुटर &rarr;"
+
+#. translators: %s - customizer link
+#: header-footer-grid/templates/components/component-footer-sidebar.php:31
+msgid "Replace this widget content by going to %s and add widgets into this widget area."
+msgstr "%s पर जाकर इस विजेट सामग्री को बदलें और इस विजेट क्षेत्र में विजेट जोड़ें।"
+
+#: header-footer-grid/Core/Components/Nav.php:203
+msgid "Last Menu Item"
+msgstr "अंतिम मेनू आइटम"
+
+#: header-footer-grid/Core/Components/Nav.php:135
+msgid "Active Item Color"
+msgstr "सक्रिय आइटम रंग"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:48
+msgid "Search Icon"
+msgstr "खोज चिह्न"
+
+#: header-footer-grid/Core/Components/MenuIcon.php:77
+msgid "Menu Icon"
+msgstr "मेनू आइकन"
+
+#: header-footer-grid/Core/Components/Search.php:66
+#: header-footer-grid/Core/Components/SearchResponsive.php:98
+msgid "Placeholder"
+msgstr "स्थानधारक"
+
+#: header-footer-grid/Core/Components/Search.php:65
+#: header-footer-grid/Core/Components/Search.php:456
+#: header-footer-grid/Core/Components/Search.php:460
+#: header-footer-grid/Core/Components/SearchResponsive.php:97
+#: header-footer-grid/Core/Components/SearchResponsive.php:670
+#: header-footer-grid/Core/Components/SearchResponsive.php:674
+msgid "Search for..."
+msgstr "...के लिए खोजें"
+
+#: header-footer-grid/Core/Components/Search.php:42
+msgid "Search Form"
+msgstr "ढूँढने के लिए फॉर्म"
+
+#: header-footer-grid/Core/Components/NavFooter.php:108
+#: header-footer-grid/Core/Components/Nav.php:156
+#: header-footer-grid/Core/Components/SecondNav.php:109
+msgid "Items Hover Color"
+msgstr "हॉवर करने पर आइटम्स का रंग"
+
+#: header-footer-grid/Core/Components/NavFooter.php:86
+#: header-footer-grid/Core/Components/Nav.php:114
+#: header-footer-grid/Core/Components/SecondNav.php:86
+msgid "Items Color"
+msgstr "आइटम्स का रंग"
+
+#: inc/core/front_end.php:74
+#: header-footer-grid/templates/components/component-nav-secondary.php:23
+#: header-footer-grid/Core/Components/SecondNav.php:41
+#: header-footer-grid/Core/Components/SecondNav.php:136
+msgid "Secondary Menu"
+msgstr "माध्यमिक मेनू"
+
+#: header-footer-grid/Core/Components/Copyright.php:36
+#: header-footer-grid/Core/Components/Copyright.php:70
+msgid "Copyright"
+msgstr "कॉपीराइट"
+
+#: header-footer-grid/Core/Components/CartIcon.php:46
+msgid "Cart Icon"
+msgstr "कार्ट का चिन्ह"
+
+#: inc/customizer/options/form_fields.php:564
+#: header-footer-grid/Core/Components/Button.php:77
+#: header-footer-grid/Core/Components/Button.php:115
+msgid "Button"
+msgstr "बटन"
+
+#: header-footer-grid/Core/Components/Logo.php:132
+msgid "Show Site Tagline"
+msgstr "साइट की टैगलाइन दिखाएँ"
+
+#: header-footer-grid/Core/Components/Logo.php:147
+msgid "Show Site Title"
+msgstr "साइट का शीर्षक दिखाएँ"
+
+#: header-footer-grid/Core/Components/Logo.php:72
+msgid "Logo & Site Identity"
+msgstr "प्रतीक चिन्ह एवं साइट की पहचान"
+
+#: header-footer-grid/Core/Components/CustomHtml.php:35
+#: header-footer-grid/Core/Components/CustomHtml.php:147
+msgid "HTML"
+msgstr "एचटीएमएल"
+
+#: inc/views/pluggable/pagination.php:168
+msgid "next"
+msgstr "अगला"
+
+#: inc/views/pluggable/pagination.php:163
+msgid "previous"
+msgstr "पिछला"
+
+#: inc/customizer/options/layout_single_post.php:71
+msgid "Post navigation"
+msgstr "पोस्ट नेविगेशन"
+
+#. translators: %s - post type
+#: inc/admin/metabox/manager.php:128 inc/admin/metabox/manager.php:145
+msgid "%s Settings"
+msgstr "%s सेटिंग्स"
+
+#: inc/core/admin.php:244
+msgid "Return to your dashboard"
+msgstr "अपने नियंत्रण-पट्ट पर लौटें"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:230
+msgid "%s is now installed and ready to use. We've assembled some links to get you started."
+msgstr "%s अब स्थापित है और उपयोग के लिए तैयार है। हमने आपके शुरू करने के लिए कुछ लिंक इकट्ठे किए हैं।"
+
+#: inc/core/admin.php:227
+msgid "Congratulations!"
+msgstr "बधाई हो!"
+
+#: inc/core/admin.php:250
+msgid "or go to the theme settings"
+msgstr "या थीम सेटिंग्स पर जाएं"
+
+#: inc/core/admin.php:239
+msgid "Try one of our ready to use Starter Sites"
+msgstr "हमारी उपयोग के लिए तैयार स्टार्टर साइट्स में से एक का इस्तेमाल करें"
+
+#. translators: %s: number of comments
+#: inc/views/partials/post_meta.php:281
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s टिप्पणी"
+msgstr[1] "%s टिप्पणियाँ"
+
+#: functions.php:38
+msgid "upgrading PHP to the latest version"
+msgstr "पीएचपी को नवीनतम संस्करण में अपग्रेड करना"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width (Neve)"
+msgstr "पूर्ण चौड़ाई पृष्ठ निर्माता (नेवे)"
+
+#: inc/views/content_none.php:39
+msgid "Get started here"
+msgstr "यहाँ से शुरुआत करें"
+
+#. translators: %s is Link to new post
+#: inc/views/content_none.php:34
+msgid "Ready to publish your first post? %s."
+msgstr "अपनी पहली पोस्ट को प्रकाशित करने के लिए तैयार हैं? %s।"
+
+#: inc/views/template_parts.php:251
+msgid "Read More"
+msgstr "और पढ़ें"
+
+#: inc/customizer/options/layout_single_post.php:70
+#: inc/views/partials/post_meta.php:295 inc/admin/metabox/build/index.js:3792
+msgid "Tags"
+msgstr "टैग्स"
+
+#. translators: number of comments
+#: inc/views/partials/comments.php:185
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; पर %1$s विचार"
+msgstr[1] "&ldquo;%2$s&rdquo; पर %1$s विचार"
+
+#: inc/views/partials/comments.php:164
+msgid "Comment awaiting moderation."
+msgstr "मॉडरेशन की प्रतीक्षा करती टिप्पणियाँ।"
+
+#. translators: 1: date, 2: time
+#: inc/views/partials/comments.php:136
+msgid "%1$s at %2$s"
+msgstr " %1$s को %2$s बजे"
+
+#: inc/views/partials/comments.php:151
+msgid "Reply"
+msgstr "उत्तर दें"
+
+#: inc/views/partials/comments.php:114 inc/views/partials/comments.php:145
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Edit"
+msgstr "संपादित करें"
+
+#: inc/views/partials/comments.php:112
+msgid "Pingback:"
+msgstr "पिंगबेक:"
+
+#: inc/views/partials/comments.php:89
+msgid "Next"
+msgstr "अगला"
+
+#: inc/views/partials/comments.php:86
+msgid "Previous"
+msgstr "पिछला"
+
+#: inc/views/partials/comments.php:63
+msgid "Comments are closed."
+msgstr "टिप्पणियाँ बंद हैं।"
+
+#. translators: search result
+#: inc/views/page_header.php:78
+msgid "Search Results for: %s"
+msgstr "%s के लिए खोज के परिणाम"
+
+#: header-footer-grid/templates/components/component-menu-icon.php:26
+#: header-footer-grid/templates/row-wrapper-mobile.php:28
+msgid "Navigation Menu"
+msgstr "संचालन सूची"
+
+#: inc/views/layouts/layout_sidebar.php:144 inc/views/header.php:130
+#: header-footer-grid/templates/components/component-cart-icon.php:26
+#: header-footer-grid/Core/Customizer.php:290
+msgid "Close"
+msgstr "बंद करें"
+
+#: header-footer-grid/Core/Components/Search.php:120
+#: header-footer-grid/Core/Components/SearchResponsive.php:284
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Font Size"
+msgstr "फ़ॉन्ट का आकार"
+
+#: inc/customizer/options/typography.php:111
+msgid "Headings"
+msgstr "शीर्षक"
+
+#: inc/customizer/options/typography.php:107
+#: header-footer-grid/Core/Settings/Manager.php:177
+msgid "General"
+msgstr "सामान्य"
+
+#: inc/customizer/options/main.php:57
+#: header-footer-grid/Core/Components/Abstract_Component.php:784
+msgid "Typography"
+msgstr "मुद्रण कला"
+
+#: header-footer-grid/Core/Builder/Header.php:38
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:491
+msgid "Header"
+msgstr "शीर्ष"
+
+#: inc/customizer/options/layout_single_post.php:84
+msgid "Elements Order"
+msgstr "तत्वो का क्रम"
+
+#: inc/customizer/options/layout_sidebar.php:334
+msgid "Content Width (%)"
+msgstr "सामग्री की चौड़ाई (%)"
+
+#: inc/customizer/options/layout_sidebar.php:235
+msgid "Sidebar Layout"
+msgstr "साइडबार प्रारूप"
+
+#: inc/views/content_404.php:37
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ऐसा लगता है की आप जो खोज रहे हैं उसे हम नहीं ढूँढ सकते हैं। शायद खोज मदद कर सकाती हैं।"
+
+#: inc/views/content_none.php:57
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "क्षमा करें, लेकिन कुछ भी आपके खोज शब्द से मेल नहीं खाता है। कृपया कुछ अलग सूचक शब्द के साथ फ़िर से कोशिश करें।"
+
+#: inc/customizer/options/layout_sidebar.php:176
+msgid "Others"
+msgstr "अन्य"
+
+#: inc/customizer/options/layout_sidebar.php:172
+#: inc/customizer/options/layout_single_product.php:52
+msgid "Single Product"
+msgstr "एकल उत्पाद"
+
+#: inc/customizer/options/layout_sidebar.php:171
+msgid "Shop / Archive"
+msgstr "दुकान / संग्रह"
+
+#: inc/customizer/options/typography.php:338
+#: inc/customizer/options/layout_sidebar.php:164
+#: inc/customizer/options/layout_single_post.php:42
+msgid "Single Post"
+msgstr "एकल पोस्ट"
+
+#: inc/customizer/options/layout_sidebar.php:104
+msgid "Enable Advanced Options"
+msgstr "उन्नत विकल्प सक्षम करें"
+
+#: inc/customizer/options/layout_sidebar.php:81
+msgid "Sitewide Content Width (%)"
+msgstr "साइटवाइड सामग्री की चौड़ाई (%)"
+
+#: inc/customizer/options/layout_sidebar.php:62
+msgid "Sitewide Sidebar Layout"
+msgstr "साइटवाइड साइडबार का प्रारूप"
+
+#: header-footer-grid/Core/Components/Nav.php:177
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Search"
+msgstr "खोजे"
+
+#: header-footer-grid/Core/Builder/Footer.php:34
+#: header-footer-grid/Core/Builder/Footer.php:74
+msgid "Footer"
+msgstr "फुटर"
+
+#: inc/customizer/options/layout_container.php:112
+msgid "Single Product Container Style"
+msgstr "एकल उत्पाद कंटेनर की शैली"
+
+#: inc/views/partials/comments.php:81
+msgid "Comments Navigation"
+msgstr "टिप्पणी नेविगेशन"
+
+#: header-footer-grid/templates/components/component-menu-icon.php:39
+#: header-footer-grid/templates/row-wrapper-mobile.php:38
+msgid "Toggle Navigation"
+msgstr "टॉगल नेविगेशन"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:574
+msgid "Section Content"
+msgstr "अनुभाग की सामग्री"
+
+#. translators: %1$s is Theme Name ( Neve ), %2$s is WordPress
+#: header-footer-grid/Core/Components/Copyright.php:64
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | %2$s द्वारा संचालित"
+
+#: header-footer-grid/Core/Components/Button.php:116
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Text"
+msgstr "वाक्य"
+
+#: inc/customizer/options/layout_single_product.php:124
+#: inc/admin/metabox/build/index.js:3649
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "None"
+msgstr "कुछ भी नहीं"
+
+#: inc/customizer/options/layout_single_post.php:69
+#: inc/admin/metabox/build/index.js:3791
+msgid "Content"
+msgstr "सामग्री"
+
+#: inc/customizer/options/layout_blog.php:393
+#: inc/customizer/options/layout_single_post.php:72
+#: inc/views/partials/post_meta.php:146 inc/admin/metabox/build/index.js:3793
+msgid "Comments"
+msgstr "टिप्पणियाँ"
+
+#: inc/customizer/options/layout_blog.php:392
+#: inc/views/partials/post_meta.php:145
+msgid "Date"
+msgstr "दिनांक"
+
+#: inc/customizer/options/layout_blog.php:391
+#: inc/customizer/options/layout_single_product.php:107
+#: inc/views/partials/post_meta.php:144
+msgid "Category"
+msgstr "श्रेणी"
+
+#: inc/customizer/options/layout_blog.php:390
+#: inc/views/partials/post_meta.php:143
+#: header-footer-grid/Core/Magic_Tags.php:543
+msgid "Author"
+msgstr "लेखक"
+
+#: inc/customizer/options/layout_blog.php:302
+msgid "Post Content Order"
+msgstr "पोस्ट सामग्री का क्रम"
+
+#: inc/customizer/options/layout_blog.php:291
+msgid "Excerpt"
+msgstr "अंश"
+
+#: inc/customizer/options/main.php:53
+#: header-footer-grid/Core/Settings/Manager.php:181
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:303
+msgid "Layout"
+msgstr "प्रारूप"
+
+#: inc/customizer/options/typography.php:115
+msgid "Blog"
+msgstr "ब्लॉग"
+
+#: inc/customizer/options/layout_sidebar.php:163
+#: inc/customizer/options/layout_blog.php:80
+msgid "Blog / Archive"
+msgstr "ब्लॉग / संग्रहण"
+
+#: inc/customizer/options/colors_background.php:43
+msgid "Colors & Background"
+msgstr "रंग और पृष्ठभूमि"
+
+#. translators: %s is the header name
+#: header-footer-grid/Core/Customizer.php:270
+#: inc/admin/metabox/build/index.js:3679
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Default"
+msgstr "पूर्व विकल्पित"
+
+#: inc/customizer/options/layout_blog.php:289
+#: inc/customizer/options/layout_single_post.php:68
+msgid "Thumbnail"
+msgstr "लघुछवि"
+
+#: inc/customizer/options/layout_blog.php:276
+msgid "Infinite Scroll"
+msgstr "अनंत स्क्रॉल"
+
+#: inc/customizer/options/layout_blog.php:275
+msgid "Number"
+msgstr "संख्या"
+
+#: inc/customizer/options/layout_blog.php:270
+msgid "Post Pagination"
+msgstr "पोस्ट पृष्ठ अंकन"
+
+#: inc/customizer/options/layout_blog.php:319
+msgid "Excerpt Length"
+msgstr "अंश की लंबाई"
+
+#: inc/core/front_end.php:509
+#: header-footer-grid/Core/Components/FooterWidgetFour.php:32
+msgid "Footer Four"
+msgstr "चौथा फुटर"
+
+#: inc/core/front_end.php:508
+#: header-footer-grid/Core/Components/FooterWidgetThree.php:31
+msgid "Footer Three"
+msgstr "तीसरा फुटर"
+
+#: inc/core/front_end.php:507
+#: header-footer-grid/Core/Components/FooterWidgetTwo.php:32
+msgid "Footer Two"
+msgstr "दूसरा फुटर"
+
+#: inc/core/front_end.php:506
+#: header-footer-grid/Core/Components/FooterWidgetOne.php:31
+msgid "Footer One"
+msgstr "पहला फुटर"
+
+#: inc/compatibility/elementor.php:116
+#: inc/customizer/options/layout_blog.php:183 inc/core/front_end.php:115
+#: header-footer-grid/Core/Components/CustomHtml.php:163
+#: header-footer-grid/Core/Components/Logo.php:205
+#: header-footer-grid/Core/Components/Copyright.php:84
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:385
+#: inc/customizer/controls/react/bundle/controls.js:1
+msgid "Text Color"
+msgstr "वाक्य का रंग"
+
+#: inc/core/front_end.php:73
+#: header-footer-grid/templates/components/component-nav-footer.php:23
+#: header-footer-grid/Core/Components/NavFooter.php:41
+#: header-footer-grid/Core/Components/NavFooter.php:138
+msgid "Footer Menu"
+msgstr "फुटर की सूची"
+
+#: inc/core/front_end.php:72
+#: header-footer-grid/templates/components/component-nav.php:26
+#: header-footer-grid/Core/Components/Nav.php:43
+#: header-footer-grid/Core/Components/Nav.php:221
+msgid "Primary Menu"
+msgstr "प्राथमिक सूची"
+
+#: inc/customizer/options/layout_sidebar.php:43 dashboard/inc/Main.php:342
+msgid "Content / Sidebar"
+msgstr "सामग्री / साइडबार"
+
+#: dashboard/inc/Main.php:338
+msgid "Footer Options"
+msgstr "फुटर विकल्प"
+
+#: dashboard/inc/Main.php:334
+msgid "Blog Layouts"
+msgstr "ब्लॉग प्रारूप"
+
+#: dashboard/inc/Main.php:330
+msgid "Header Options"
+msgstr "हैडर विकल्प"
+
+#: dashboard/inc/Main.php:326
+msgid "Layout Options"
+msgstr "प्रारूप विकल्प"
+
+#: dashboard/inc/Main.php:322
+msgid "Customize Fonts"
+msgstr "लिपि अनुकूल करें"
+
+#: dashboard/inc/Main.php:318
+msgid "Set Colors"
+msgstr "रंग निर्धारित करें"
+
+#: dashboard/inc/Main.php:314
+msgid "Upload Logo"
+msgstr "लोगो अपलोड करें"
+
+#: inc/customizer/options/layout_container.php:108
+msgid "Shop / Archive Container Style"
+msgstr "दुकान / संग्रहण कंटेनर की शैली"
+
+#: inc/customizer/options/layout_container.php:98
+msgid "Single Post Container Style"
+msgstr "एकल पोस्ट कंटेनर की शैली"
+
+#: inc/customizer/options/layout_container.php:94
+msgid "Blog / Archive Container Style"
+msgstr "ब्लॉग / संग्रहण कंटेनर की शैली"
+
+#: inc/customizer/options/layout_container.php:90
+msgid "Default Container Style"
+msgstr "कंटेनर की पूर्व विकल्पित शैली"
+
+#: inc/core/front_end.php:500
+msgid "Shop Sidebar"
+msgstr "दुकान साइडबार"
+
+#: inc/core/admin.php:273 header-footer-grid/Core/Builder/Footer.php:47
+#: header-footer-grid/Core/Builder/Header.php:51
+msgid "Read full documentation"
+msgstr "पूर्ण प्रलेख पढ़ें"
+
+#: inc/core/admin.php:269 dashboard/build/dashboard.js:1
+msgid "Documentation"
+msgstr "दस्तावेज़"
+
+#: inc/views/header.php:165
+#: header-footer-grid/templates/components/component-cart-icon.php:50
+#: header-footer-grid/Core/Components/Nav.php:182
+#: header-footer-grid/Core/Magic_Tags.php:598
+msgid "Cart"
+msgstr "टोकरी"
+
+#: inc/compatibility/woocommerce.php:342
+msgid "Filter"
+msgstr "फिल्टर"
+
+#: inc/admin/plugin_install/main.php:128
+msgid "Jetpack Portfolio"
+msgstr "जेटपैक पोर्टफोलियो"
+
+#: inc/admin/plugin_install/main.php:171
+msgid "Activating "
+msgstr "सक्रिय कर रहे है"
+
+#: inc/admin/plugin_install/main.php:123 dashboard/build/dashboard.js:1
+msgid "Deactivate"
+msgstr "निष्क्रिय करें"
+
+#: inc/admin/plugin_install/main.php:108 inc/admin/plugin_install/main.php:128
+#: dashboard/build/dashboard.js:1
+msgid "Activate"
+msgstr "सक्रिय करें"
+
+#: inc/admin/plugin_install/main.php:104
+msgid "Install and activate"
+msgstr "स्थापित एवं सक्रिय करें"
+
+#: inc/admin/metabox/main.php:56 inc/core/front_end.php:499
+#: inc/admin/metabox/build/index.js:3633
+msgid "Sidebar"
+msgstr "साइडबार"
+
+#: inc/admin/metabox/main.php:54
+msgid "No Sidebar"
+msgstr "कोई साइडबार नही"
+
+#: inc/admin/metabox/main.php:53
+msgid "Right Sidebar"
+msgstr "दाहिना साइडबार"
+
+#: inc/admin/metabox/main.php:52
+msgid "Left Sidebar"
+msgstr "बायां साइडबार"
+
+#: inc/admin/metabox/main.php:41 inc/customizer/options/layout_container.php:43
+#: inc/admin/metabox/build/index.js:3670
+msgid "Container"
+msgstr "कंटेनर"
+
+#: inc/admin/metabox/main.php:39 inc/customizer/options/layout_sidebar.php:125
+#: inc/customizer/options/layout_container.php:134
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:308
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:309
+#: inc/admin/metabox/build/index.js:3691
+msgid "Full Width"
+msgstr "पूर्ण चौड़ाई"
+
+#: inc/admin/metabox/main.php:38
+#: inc/customizer/options/layout_container.php:133
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:308
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:310
+#: inc/admin/metabox/build/index.js:3685
+msgid "Contained"
+msgstr "निहित"
+
+#: inc/admin/metabox/main.php:37 inc/admin/metabox/main.php:51
+msgid "Customizer Setting"
+msgstr "अनुकूलक की सेटिंग्स"
+
+#: inc/admin/metabox/main.php:88 inc/admin/metabox/build/index.js:3832
+msgid "Disable Footer"
+msgstr "फुटर अक्षम करें"
+
+#: inc/admin/metabox/main.php:82
+msgid "Disable Featured Image"
+msgstr "निरूपित चित्र को अक्षम करें"
+
+#: inc/admin/metabox/main.php:76 inc/admin/metabox/build/index.js:3841
+msgid "Disable Title"
+msgstr "शीर्षक अक्षम करें"
+
+#: inc/admin/metabox/main.php:71 inc/admin/metabox/build/index.js:3823
+msgid "Disable Header"
+msgstr "शीर्ष अक्षम करें"
+
+#: inc/admin/metabox/main.php:70
+msgid "Components"
+msgstr "अवयव"
+
+#: inc/admin/metabox/main.php:129
+msgid "Enable Individual Content Width"
+msgstr "सामग्री की व्यक्तिगत चौड़ाई सक्षम करें"
+
+#: inc/admin/metabox/main.php:128
+msgid "Content Width"
+msgstr "सामग्री की चौड़ाई"
+
+#: header.php:80
+msgid "Skip to content"
+msgstr "छोड़कर सामग्री पर जाएँ"
+
+#: inc/customizer/options/layout_blog.php:405
+msgid "Meta Order"
+msgstr "मेटा क्रम"
+
+#: inc/customizer/options/layout_blog.php:290
+#: inc/customizer/options/layout_single_post.php:67
+msgid "Title & Meta"
+msgstr "शीर्षक और मेटा"
+
+#: inc/customizer/options/layout_blog.php:232
+msgid "Enable Masonry"
+msgstr "मेसन्री सक्षम करें"
+
+#. translators: %s - Theme name
+#: inc/core/admin.php:271 dashboard/inc/Main.php:216
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "अधिक जानकारी की आवश्यकता है? %s को उपयोग करने के तरीक़ो के बारे में विस्तृत जानकारी के लिए कृपया हमारा पूरा दस्तावेज़ीकरण देखें।"
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:214
+msgid "We want to make sure you have the best experience using %1$s, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using %1$s as much as we enjoy creating great products."
+msgstr "हम यह सुनिश्चित करना चाहते हैं कि आपको %1$s का उपयोग करने का सबसे अच्छा अनुभव मिले, और इसी कारण हमने आपके लिए यहां सभी आवश्यक जानकारी इकट्ठी की हैं। हम आशा करते हैं कि आप %1$s का आनंद उठाए जैसे हम आछे उत्पादो को बनाने का आनंद उठाते है।"
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:208
+msgid "With %s, you can choose from multiple unique demos, specially designed for you, that can be installed with a single click. You just need to choose your favorite, and we will take care of everything else."
+msgstr "%s के साथ, आप विशेष रूप से आपके लिए डिज़ाइन किए गए कई अद्वितीय डेमो मे से चुन सकते हैं, जिन्हें एक क्लिक के साथ इंस्टॉल किया जा सकता है। आपको बस अपना पसंदीदा डेमो चुनना होगा, और हम सब चीज़ो का ख्याल रखेंगे।"
+
+#. translators: %s - Theme name
+#: inc/core/admin.php:263 dashboard/inc/Main.php:204
+msgid "%s now comes with a sites library with various designs to pick from. Visit our collection of demos that are constantly being added."
+msgstr "%s अब एक साइट्स लाइब्रेरी के साथ आता है जिसमें से चुनने के लिए विभिन्न डिज़ाइन होते हैं। हमारे डेमो के संग्रह पर जाएं जहाँ डेमो लगातार जोड़े जा रहे हैं।"
+
+#: inc/core/admin.php:261
+msgid "Sites Library"
+msgstr "साइट्स संग्रह"
+
+#: inc/customizer/options/upsells.php:44 inc/customizer/options/upsells.php:104
+msgid "Get the PRO version!"
+msgstr "प्रो संस्करण प्राप्त करें!"
+
+#. Author URI of the theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr "थीमआईल"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/neve/"
+msgstr "https://themeisle.com/themes/neve/"

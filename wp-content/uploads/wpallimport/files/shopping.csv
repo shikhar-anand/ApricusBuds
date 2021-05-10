@@ -1,0 +1,169 @@
+,Name,Location,Suburb,Activity Type,Opening Hours,Latitude,Longitude,On-Premise Disability Parking,On-Premise Parking,Disability Accessible,Ambulant Toilet
+0,Noosa Fair Shopping Centre,"3 Lanyana Way, Noosa Heads",Noosa Heads,Shopping Centre,OPEN: 24 hours,-26.39807152,153.0898557,Yes,Yes,No,No
+1,Queen Street,"Queen Street, Ayr",Ayr,Shopping Centre,OPEN: 6am-10pm,-19.57494972,147.4060353,Yes,Yes,Yes,No
+2,Archibald Street,"Archibald Street, Dalby",Dalby,Shopping Centre,OPEN: 6am-7pm,-27.1819255,151.2638045,Yes,Yes,Yes,No
+3,Maple Street,"Maple Street, Maleny",Maleny,Shopping Centre,OPEN: Daylight hours,-26.75883612,152.8516196,No,Yes,Yes,No
+4,Centre Point,"Centre Point Arcade, Mackay",Mackay,Shopping Centre,"OPEN: Mon-Fri 8:30am-5:30pm, Sat 8:30am-12pm",-21.14169611,149.1850599,Yes,Yes,No,No
+5,Vernon Street,"Vernon Street, Atherton",Atherton,Shopping Centre,OPEN: 24 hours,-17.26591699,145.4752876,No,No,Yes,No
+6,Melton Park,"72 Grevillea Street, Biloela",Biloela,Shopping Centre,OPEN: 24 hours,-24.399629,150.5133541,No,Yes,Yes,No
+7,Kariboe Street,"Kariboe Street, Biloela",Biloela,Shopping Centre,OPEN: 24 hours,-24.40062525,150.5124004,Yes,Yes,Yes,No
+8,BiCentenial Park,"Callide Street, Biloela",Biloela,Shopping Centre,OPEN: 24 hours,-24.40205344,150.5112149,Yes,Yes,Yes,No
+9,Baralaba Community Hall,"24 Stopford Street, Baralaba",Baralaba,Shopping Centre,OPEN: 24 hours,-24.18195386,149.8112847,No,Yes,Yes,No
+10,Acacia Marketplace Shopping Centre,"1150 Beaudesert Road, Acacia Ridge",Acacia Ridge,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 8am-6pm",-27.57587678,153.0259873,No,Yes,No,No
+11,Centro Albany,"700 Albany Creek Road, Albany Creek",Albany Creek,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm",-27.34612578,152.9688616,Yes,Yes,Yes,No
+12,Alexandra Hills Shopping Centre,"Corner of Cambridge Drive & Finucane Road, Alexandra Hills",Alexandra Hills,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-4pm, Sun 10am-4pm, Thu 9am-9pm",-27.52320965,153.220765,Yes,Yes,Yes,No
+13,Allenstown Square,"Corner of Canning & Derby Street, Rockhampton",Rockhampton,Shopping Centre,"OPEN: Mon-Wed 9am-5:30pm, Sat 9am-2pm, Sun 10am-4pm, Thu-Fri 9am-7pm",-23.38940264,150.5036545,Yes,Yes,Yes,No
+14,Arana Hills Kmart Plaza,"Corner Dawson Parade & Patricks Road, Arana Hills",Arana Hills,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 8am-6pm",-27.39745414,152.9589018,Yes,Yes,Yes,No
+15,Australia Fair,"Marine Parade, Southport",Southport,Shopping Centre,"OPEN: Mon-Wed,Fri-Sat 9am-5:30pm, Thu 9am-9pm, Sun 10:30am-4pm",-27.96761798,153.4166371,Yes,Yes,Yes,No
+16,Bay Plaza,"Torquay Terrace, Hervey Bay",Hervey Bay,Shopping Centre,"OPEN: Mon-Thu 9am-5:30pm, Sun 10am-4pm, Fri 9am-5pm, Sat 9am-4pm",-25.28860605,152.8734184,Yes,Yes,Yes,No
+17,Bay Village On Hastings,"18 Hastings Street, Noosa Heads",Noosa Heads,Shopping Centre,OPEN: 8am-8pm,-26.386392,153.088972,Yes,Yes,Yes,No
+18,Beenleigh Marketplace,"George Street, Beenleigh",Beenleigh,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30am, Sat 9am-4pm, Sun 10:30am-4pm, Thu 9am-9pm",-27.7174881,153.206498,Yes,Yes,Yes,No
+19,Birkdale Fair,"Corner Birkdale & Mary Pleasants Drive, Birkdale",Birkdale,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm",-27.49166513,153.2185245,Yes,No,Yes,No
+20,Brookside Shopping Centre,"159 Osborne Road, Mitchelton",Mitchelton,Shopping Centre,"OPEN: Mon-Fri 9am-5:30pm, Sat 9am-4pm, Thu 9am-9pm, Sun 9am-6pm",-27.40885042,152.9779274,Yes,Yes,Yes,No
+21,Bundaberg Plaza,"14 Maryborough Street, Bundaberg Central",Bundaberg Central,Shopping Centre,"OPEN: Mon-Fri 8:30am-9pm, Sat 8:30am-5:30pm",-24.871261,152.348071,Yes,Yes,Yes,No
+22,Cairns Central,"Corner McLeod & Spence Streets, Cairns",Cairns,Shopping Centre,"OPEN: Mon-Wed,Fri-Sat 9am-5:30pm, Thu 9am-9pm, Sun 10:30am-4pm",-16.92616124,145.7736805,Yes,Yes,Yes,No
+23,Caneland Central,"Corner Mangrove & Victoria Streets, Mackay",Mackay,Shopping Centre,"OPEN: Mon-Fri 8:30am-9pm, Sat 8:30am-3pm",-21.13980683,149.1781386,Yes,Yes,Yes,No
+24,Capalaba Central Shopping Centre,"Moreton Bay Road, Capalaba",Capalaba,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm",-27.52307853,153.1950162,Yes,Yes,Yes,No
+25,Capalaba Park Shopping Centre,"Corner of Mount Cotton & Redland Bay Roads, Capalaba",Capalaba,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-6pm, Sun 10am-6pm",-27.52371942,153.1907396,Yes,Yes,Yes,No
+26,Centro Milton,"Corner Baroona Road & Wight Street, Milton",Milton,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4:30pm",-27.46804572,153.0021036,No,No,No,No
+27,My Centre Nerang,"57 Station Street, Nerang",Nerang,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 8:30am-5:30pm, Thu 9am-7pm, Sun 9am-6pm",-27.99778198,153.3388725,Yes,Yes,No,No
+28,Centro Oxenford,"Corner Old Pacific Highway & Tamborine-Oxenford Road, Oxenford",Oxenford,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5pm, Sat 9am-5pm, Thu 9am-9pm, Sun 9am-6pm",-27.89061756,153.3128144,Yes,Yes,Yes,No
+29,Southport Park Shopping Centre,"Corner Benowa & Ferry Roads, Southport",Southport,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10:30am-4pm",-27.98460658,153.4104462,Yes,Yes,Yes,No
+30,Springwood Shopping Mall,"Corner Rochedale Road & Fitzgerald Avenue, Springwood",Springwood,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sun 10am-4pm, Sat 9am-4pm",-27.61392217,153.1257148,Yes,Yes,Yes,No
+31,Paradise Centre,"Corner Cavill Avenue & Gold Coast Highway, Surfers Paradise",Surfers Paradise,Shopping Centre,OPEN: 9am-10pm,-28.00223114,153.4287003,Yes,Yes,Yes,No
+32,Chatswood Central Shopping Centre,"Corner Chatswood & Magellan Roads, Springwood",Springwood,Shopping Centre,"OPEN: Mon-Fri 8:30am-9pm, Sat 8:30am-5pm, Sun 8:30am-5:30pm",-27.63321524,153.1383146,Yes,Yes,Yes,No
+33,Chermside Markets,"Corner Gympie & Webster Roads, Chermside",Chermside,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm",-27.37508548,153.0245582,Yes,Yes,Yes,No
+34,Chevron Renaissance Shopping Centre,"3240 Surfers Paradise Blvd, Surfers Paradise",Surfers Paradise,Shopping Centre,"OPEN: Mon-Sat 8:30am-5:30pm, Sun 10am-4pm",-27.99925904,153.4288538,Yes,Yes,Yes,No
+35,City Centre Plaza,"Corner Bolsover & Fitzroy Streets, Rockhampton",Rockhampton,Shopping Centre,"OPEN: Mon-Fri 9am-9pm, Sat 9am-5pm, Sun 9am-6pm",-23.37677527,150.5106536,Yes,Yes,Yes,No
+36,Clifford Gardens Shopping Centre,"125 Anzac Avenue, Newtown",Newtown,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat-Sun 9am-6pm",-27.56490914,151.9311721,Yes,Yes,Yes,No
+37,Currimundi Markets,"Bellara Drive & Nicklin Way, Currimundi",Currimundi,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm",-26.77306983,153.1226048,Yes,Yes,Yes,No
+38,Everton Plaza Shopping Centre,"791 Stafford Road, Everton Park",Everton Park,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sun 10am-4pm, Sat 9am-5pm",-27.40641994,152.9915995,No,Yes,Yes,No
+39,Fairfield Gardens,"180 Fairfield Road, Fairfield",Fairfield,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sun 9am-4pm, Sat 9am-5pm",-27.50870653,153.0246507,Yes,Yes,Yes,No
+40,Forest Lake Shopping Centre,"235 Forest Lake Boulevard, Forest Lake",Forest Lake,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 8am-6pm",-27.62415555,152.9683405,Yes,Yes,Yes,No
+41,Gardentown Brand Direct Shopping Plus,"Corner Margaret & Victoria Streets, Toowoomba",Toowoomba,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm, Sun 10am-4pm",-27.56084456,151.9507597,No,Yes,Yes,No
+42,Goldfields Plaza Shopping Centre,"Corner Monkland & Nash Streets, Gympie",Gympie,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm",-26.18832605,152.6610434,Yes,Yes,Yes,No
+43,Grand Central Toowoomba,"Corner Dent & Margaret Streets, Toowoomba",Toowoomba,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm",-27.560937,151.9499128,Yes,Yes,Yes,No
+44,Grand Plaza Shopping Centre,"Browns Plains Road, Browns Plains",Browns Plains,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm, Sun 10am-4pm",-27.66149174,153.0412629,Yes,Yes,Yes,No
+45,Greenslopes Shopping Mall,"700 Logan Road, Greenslopes",Greenslopes,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-4pm, Sun 10am-4pm, Thu 9am-9pm",-27.51191421,153.0537487,Yes,Yes,Yes,No
+46,Centro Gympie,"Corner Bruce Highway & Excelsior Road, Gympie",Gympie,Shopping Centre,"OPEN: Mon-Fri 7:15am-9:15pm, Sat 7:15am-5:15pm",-26.1988595,152.666508,No,Yes,Yes,No
+47,Hermit Park Shopping Centre,"124 Charters Towers Road, Hermit Park",Hermit Park,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5:30pm",-19.27805352,146.8000628,Yes,Yes,Yes,No
+48,Hinkler Central,"16 Maryborough Street, Bundaberg Central",Bundaberg Central,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-5pm, Thu 9am-9pm, Sun 10am-3pm",-24.871261,152.348071,Yes,Yes,Yes,No
+49,Centro Indooroopilly,"322 Moggill Road, Indooroopilly",Indooroopilly,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm",-27.49826399,152.9729483,Yes,Yes,Yes,No
+50,Kenmore Plaza,"841 Moggill Road, Kenmore",Kenmore,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7pm, Sat 9am-4pm, Sun 10am-4pm",-27.50630638,152.9474081,Yes,Yes,Yes,No
+51,Kensington Village Shopping Centre,"Corner Kensington Way and Sovereign Avenue, Bray Park",Bray Park,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 8am-5pm, Sun 9am-6pm, Thu 9am-9pm",-27.29697979,152.9759004,Yes,Yes,Yes,No
+52,Kingaroy Shoppingworld,"Alford Street, Kingaroy",Kingaroy,Shopping Centre,"OPEN: Mon-Thu 8am-9pm, Fri 9am-9pm, Sat 8am-5pm",-26.54116695,151.8368873,Yes,Yes,Yes,No
+53,Kippa-Ring Village Shopping Centre,"284 Anzac Avenue, Kippa-Ring",Kippa-Ring,Shopping Centre,"OPEN: Mon-Wed,Fri 8:30am-5:30pm, Thu 8:30am-9pm, Sat 8:30am-5pm, Sun 8:30am-6pm",-27.22553911,153.087482,Yes,Yes,Yes,No
+54,Labrador Park Shopping Centre,"100 Brisbane Road, Labrador",Labrador,Shopping Centre,"OPEN: Mon-Sat 8am-6pm, Sun 8am-4pm",-27.93607138,153.3971733,Yes,Yes,Yes,No
+55,Logan Central Plaza,"38-74 Wembley Road, Logan Central",Logan Central,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm",-27.64294151,153.1149522,Yes,Yes,Yes,No
+56,Mareeba Plaza Shopping Centre,"241 Byrnes Street, Mareeba",Mareeba,Shopping Centre,"OPEN: Mon-Fri 9am-9pm, Sat 9am-5pm",-16.99852,145.423048,Yes,Yes,Yes,No
+57,Marina Mirage,"74 Seaworld Drive, Main Beach",Main Beach,Shopping Centre,OPEN: 10am-6pm,-27.96711677,153.4264132,Yes,Yes,Yes,No
+58,Maryborough Plaza Shopping Centre,"Bazaar Street, Maryborough",Maryborough,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm",-25.538933,152.702977,No,No,Yes,No
+59,Mooloolaba Central,"Venning Street, Mooloolaba",Mooloolaba,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm",-26.678332,153.116876,Yes,Yes,Yes,No
+60,Moranbah Fair Shopping Centre,"St Francis Drive, Moranbah",Moranbah,Shopping Centre,"OPEN: Mon-Fri 9am-9pm, Sat 9am-4pm",-22.00066,148.044138,Yes,Yes,Yes,No
+61,Morayfield Shopping Centre,"171 Morayfield Road, Morayfield",Morayfield,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-3:30pm",-27.10241145,152.9497034,Yes,Yes,Yes,No
+62,Morayfield Village,"Morayfield Road, Morayfield",Morayfield,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-3:30pm",-27.10433106,152.9483051,Yes,Yes,Yes,No
+63,Mount Ommaney Centre,"171 Dandenong Road, Mount Ommaney",Mount Ommaney,Shopping Centre,"OPEN: Thu 8:30am-9pm, Mon-Wed,Fri 8:30am-7pm, Sat 8:30am-5pm, Sun 9am-5pm",-27.54926871,152.9361925,Yes,Yes,Yes,No
+64,Mount Pleasant Shopping Centre,"Corner Bucasia Road & Phillip Street, Mount Pleasant",Mount Pleasant,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sun 10am-4pm, Sat 9am-3pm",-21.11777921,149.1575249,Yes,Yes,Yes,No
+65,Mt Gravatt Plaza,"Corner Creek & Logan Roads, Mount Gravatt",Mount Gravatt,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7pm, Sat 9am-4pm, Sun 10am-4pm",-27.5392664,153.0809955,Yes,Yes,Yes,No
+66,Mudgeeraba Market Shopping Centre,"Swan Lane, Mudgeeraba",Mudgeeraba,Shopping Centre,"OPEN: Mon-Fri 6am-9pm, Sat 6am-7pm, Sun 9am-6pm",-28.0789093,153.3656642,Yes,Yes,Yes,No
+67,Myer Centre,"91 Queen Street, Brisbane",Brisbane,Shopping Centre,"OPEN: Mon-Thu 9am-5:30pm, Fri 9am-9pm, Sat 9am-5pm, Sun 10am-5pm",-27.470141,153.024554,Yes,Yes,Yes,No
+68,Nambour Plaza,"Ann Street, Nambour",Nambour,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-5pm, Thu 9am-9pm, Sun 10am-4pm",-26.62587145,152.9612322,Yes,Yes,Yes,No
+69,Niecon Plaza & Niecon Tower,"Victoria Avenue, Broadbeach",Broadbeach,Shopping Centre,OPEN: 6am-9pm,-28.029088,153.43279,Yes,Yes,Yes,No
+70,Noosa Fair Shopping Centre,"Lanyana Way, Noosa Heads",Noosa Heads,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5:30pm, Sun 9am-6pm",-26.397693,153.089893,Yes,Yes,Yes,No
+71,Noosa Junction Plaza,"Cnr Sunshine Beach Road & Noosa Drive, Noosa Heads",Noosa Heads,Shopping Centre,"OPEN: Mon-Fri 8am-7:30pm, Sat 8am-5:30pm, Sun 9am-6pm",-26.39642,153.08902,Yes,Yes,Yes,No
+72,Pacific Fair Shopping Centre,"Hooker Boulevard, Broadbeach Waters",Broadbeach Waters,Shopping Centre,"OPEN: Mon-Wed,Fri-Sat 9am-5:30pm, Thu 9am-9pm, Sun 9am-5pm",-28.03636768,153.4276805,Yes,Yes,Yes,No
+73,Parkside Plaza Shopping Centre,"148 Bamford Lane, Kirwan",Kirwan,Shopping Centre,"OPEN: Mon-Fri 7am-9pm, Sat 7am-6pm, Sun 7am-3pm",-19.303765,146.740956,Yes,Yes,Yes,No
+74,Pialba Place Shopping Centre - Coles,"Main Street, Pialba",Pialba,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8:30am-5:30pm, Sun 9am-6pm",-25.28273577,152.8389733,Yes,Yes,Yes,No
+75,Pier Shopping,"Pier Point Road, Cairns",Cairns,Shopping Centre,OPEN: 9am-9pm,-16.920377,145.779915,Yes,Yes,Yes,No
+76,Pinelands Plaza,"663 Beenleigh Road, Sunnybank Hills",Sunnybank Hills,Shopping Centre,OPEN: 7am-11pm,-27.58922434,153.0611539,Yes,Yes,Yes,No
+77,Plaza Parade,"Plaza Parade, Maroochydore",Maroochydore,Shopping Centre,"OPEN: Mon-Wed,Fri-Sat 9am-5:30pm, Thu 9am-9pm, Sun 10:30am-4pm",-26.65604318,153.088618,Yes,Yes,Yes,No
+78,Post Office Square,"Queen Street, Brisbane",Brisbane,Shopping Centre,OPEN: Mon-Fri 8:30am-5:30pm,-27.467274,153.0274025,No,Yes,Yes,No
+79,Raintrees Shopping Centre,"Corner Alfred & Koch Streets, Manunda",Manunda,Shopping Centre,"OPEN: Sat 8:30am-5:30pm, Mon-Fri 8:30am-9pm, Sun 9am-6pm",-16.92539608,145.7406109,Yes,Yes,Yes,No
+80,Robina Town Centre,"Robina Town Centre Drive, Robina",Robina,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sun 10:30am-4pm, Sat 8:30am-5:30pm",-28.07665744,153.3839664,Yes,Yes,Yes,No
+81,Rose City Shoppingworld,"81 Palmerin Street, Warwick",Warwick,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm",-28.214712,152.032959,Yes,Yes,Yes,No
+82,Sanctuary Cove Marine Shopping Village,"Masthead Way, Hope Island",Hope Island,Shopping Centre,OPEN: 9:30am-5:30pm,-27.8536,153.361,Yes,Yes,Yes,No
+83,Smithfield Centre,"Corner Cook & Kennedy Highways, Smithfield",Smithfield,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5:30pm, Sun 9am-6pm",-16.83947044,145.6923247,Yes,Yes,Yes,No
+84,Southtown Shopping Centre,"140 South Street, Centenary Heights",Centenary Heights,Shopping Centre,OPEN: Variable hours,-27.58022828,151.9621233,Yes,Yes,Yes,No
+85,Springfield Fair Shopping Centre,"Corner Springfield Parkway & Topaz Road, Springfield",Springfield,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Sat-Sun 9am-5pm, Thu 9am-9pm",-27.65334782,152.9187205,Yes,Yes,Yes,No
+86,Stanthorpe Plaza Shopping Centre,"Corner High & Lock Streets, Stanthorpe",Stanthorpe,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm",-28.65421868,151.9352902,No,Yes,Yes,No
+87,Station Square Shopping Centre,"142 Lennox Street, Maryborough",Maryborough,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm",-25.5394,152.699525,Yes,Yes,Yes,No
+88,Stockland Burleigh Heads,"149 West Burleigh Road, Burleigh Heads",Burleigh Heads,Shopping Centre,"OPEN: Mon-Fri 8:30am-9pm, Sat 8:30am-6pm, Sun 9am-6pm",-28.0975253,153.4416568,Yes,Yes,Yes,No
+89,Stockland Cairns,"537 Mulgrave Road, Earlville",Earlville,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10:30am-4pm",-16.94333694,145.739984,Yes,Yes,Yes,No
+90,Stockland Caloundra,"47 Bowman Road, Caloundra",Caloundra,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5:30pm, Sun 9am-6pm",-26.80285524,153.1253727,Yes,Yes,Yes,No
+91,Stockland Cleveland,"91 Middle Street, Cleveland",Cleveland,Shopping Centre,"OPEN: Mon-Fri 8:30am-9pm, Sat-Sun 8:30am-6pm",-27.52548181,153.2684098,Yes,Yes,Yes,No
+92,Stockland Gladstone,"Corner Dawson Highway & Philip Street, Gladstone",Gladstone,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-8pm, Sat 9am-3pm, Sun 10am-4pm",-23.87035,151.24105,Yes,Yes,Yes,No
+93,Stockland Bundaberg,"115 Takalvan Street, Avoca",Avoca,Shopping Centre,OPEN: 9am-9pm,-24.88769925,152.3185784,Yes,Yes,Yes,Yes
+94,Sunny Park Shopping Centre,"Corner Mains Road & McCullough Street, Sunnybank",Sunnybank,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-4pm, Thu 9am-9pm, Sun 11am-4pm",-27.57134561,153.0651671,Yes,Yes,Yes,No
+95,Sunnybank Hills Shoppingtown,"661 Compton Road (Corner Calam & Compton Roads), Sunnybank Hills",Sunnybank Hills,Shopping Centre,"OPEN: Mon-Sat 7am-9pm, Sun 9am-6pm",-27.61065402,153.0554608,Yes,Yes,Yes,Yes
+96,Sunnybank Plaza Shopping Centre,"Corner Mains Road & McCullough Street, Sunnybank",Sunnybank,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8:30am-5pm, Sun 9am-5pm",-27.57044381,153.0629653,Yes,Yes,Yes,No
+97,Sunshine Plaza,"Horton Parade, Maroochydore",Maroochydore,Shopping Centre,"OPEN: Mon-Wed,Fri-Sat 9am-5:30pm, Sun 10:30am-4pm, Thu 9am-9pm",-26.65313736,153.0905894,Yes,Yes,Yes,No
+98,Sunshine Coast Home,"100 Maroochydore Road, Maroochydore",Maroochydore,Shopping Centre,"OPEN: Mon-Sat 9am-5pm, Sun 10am-4pm",-26.65141317,153.0809658,Yes,Yes,Yes,No
+99,The Gap Village Shopping Centre,"1000 Waterworks Road, The Gap",The Gap,Shopping Centre,OPEN: Variable hours,-27.44558667,152.9521052,Yes,Yes,Yes,No
+100,The Oasis Shopping Centre,"Victoria Avenue, Broadbeach",Broadbeach,Shopping Centre,"OPEN: Mon-Wed,Fri-Sat 9am-5:30pm, Thu 9am-7pm, Sun 10:30am-4pm",-28.02947198,153.4328476,Yes,Yes,Yes,No
+101,Toowong Village,"9 Sherwood Road, Toowong",Toowong,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-4pm, Sun 10am-4pm, Thu 9am-9pm",-27.48499459,152.9921973,Yes,No,Yes,No
+102,Town Centre at Victoria Point,"Colburn Avenue, Victoria Point",Victoria Point,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 9am-5pm, Sun 10am-6pm",-27.58502837,153.2832966,Yes,Yes,Yes,No
+103,Valley Metro,"230 Brunswick Street, Fortitude Valley",Fortitude Valley,Shopping Centre,"OPEN: Mon-Fri 6am-8pm, Sat 5am-8pm, Sun 6am-4pm",-27.45638006,153.0332539,Yes,Yes,Yes,No
+104,Vincent Shopping Centre,"Corner of Fulham Road & Nathan Street, Vincent",Vincent,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5:30pm, Sun 10am-6pm",-19.28770233,146.7616651,Yes,Yes,Yes,No
+105,Direct Factory Outlet Cairns,"274 MULGRAVE RD, Westcourt",Westcourt,Shopping Centre,OPEN: 9am-5pm,-16.93535,145.75364,Yes,Yes,Yes,No
+106,Westfield North Lakes,"Corner Anzac Avenue & Northlakes Drive, Mango Hill",Mango Hill,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Tue,Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm",-27.24226666,153.020491,Yes,Yes,Yes,No
+107,Westfield Strathpine,"295 Gympie Road, Strathpine",Strathpine,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm",-27.30632556,152.9919811,Yes,Yes,Yes,No
+108,Westside Fresh Food Fair,"14 Heidke Street, Bundaberg Central",Bundaberg Central,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm",-24.8866,152.3199,Yes,Yes,Yes,No
+109,Whitsunday Shopping Centre,"226 Shute Harbour Road, Cannonvale",Cannonvale,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7pm, Sat 9am-4pm, Sun 10am-2pm",-20.27726,148.69932,Yes,Yes,Yes,No
+110,Willows Shoppingtown,"2 Thuringowa Drive, Thuringowa Central",Thuringowa Central,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5:30pm, Sun 7am-6pm",-19.31521,146.72877,Yes,Yes,Yes,No
+111,Winston Glades Shopping Centre,"259 Ash Street, Flinders View",Flinders View,Shopping Centre,OPEN: Variable hours,-27.655335,152.75989,Yes,Yes,Yes,No
+112,Wintergarden,"Queen Street Mall, Brisbane",Brisbane,Shopping Centre,"OPEN: Mon-Thu 9am-5:30pm, Fri 9am-9pm, Sat 9am-5pm, Sun 10:30am-4pm",-27.46914516,153.0263336,Yes,Yes,Yes,No
+113,Woolworths Marketplace,"Corner Albany Forest Drive & Old Northern Road, Albany Creek",Albany Creek,Shopping Centre,"OPEN: Mon-Sat 7am-9pm, Sun 9am-6pm",-27.3592272,152.9693816,Yes,Yes,Yes,No
+114,Ascot Plaza,"Racecourse Road, Ascot",Ascot,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm",-27.4337238,153.0651261,Yes,Yes,Yes,No
+115,Bribie Island Shopping Centre,"Goodwin Drive, Bongaree",Bongaree,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm",-27.06371196,153.1570031,Yes,Yes,Yes,No
+116,Gatton Plaza,"Spencer Street, Gatton",Gatton,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 9am-4pm",-27.55954052,152.2772563,Yes,Yes,Yes,No
+117,Kallangur Fair,"1473 Anzac Avenue, Kallangur",Kallangur,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm",-27.24946126,153.0002252,Yes,Yes,Yes,No
+118,Brassall Shopping Centre,"60 Hunter Street, Brassall",Brassall,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm",-27.59684272,152.7472,Yes,Yes,Yes,No
+119,Kenmore Village Shopping Centre,"9 Brookfield Road, Kenmore",Kenmore,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7pm, Sat 9am-4pm, Sun 10am-4pm",-27.50643975,152.9385867,Yes,Yes,Yes,No
+120,Sunland Plaza,"14 Hervey Range Road, Thuringowa Central",Thuringowa Central,Shopping Centre,OPEN: Variable hours,-19.31814,146.72645,Yes,Yes,Yes,No
+121,Centrepoint Plaza,"Corner Herbert Street & The Soldiers Road, Bowen",Bowen,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 8am-12pm",-20.00169594,148.2400783,Yes,Yes,Yes,No
+122,Biloela Shoppingworld,"Gladstone Road, Biloela",Biloela,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7pm, Sat 9am-4pm",-24.40290853,150.5130068,Yes,Yes,Yes,No
+123,Bracken Ridge Plaza,"Corner Norris & Telegraph Roads, Bracken Ridge",Bracken Ridge,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 8am-6pm",-27.33018164,153.0260797,Yes,Yes,Yes,No
+124,Great Western Super Centre,"1028 Samford Road, Keperra",Keperra,Shopping Centre,"OPEN: Mon-Wed,Fri 8:30am-5:30pm, Thu 8:30am-9pm, Sat 9am-5pm, Sun 9am-6pm",-27.41509352,152.9496871,Yes,Yes,Yes,No
+125,Heritage Shopping Centre,"Central Avenue, Weipa Airport",Weipa Airport,Shopping Centre,"OPEN: Mon-Wed,Fri 8am-7pm, Thu 8am-9pm, Sat 8am-5pm",-12.62996153,141.8788987,Yes,Yes,No,No
+126,Mt Sheridan Plaza,"106 Barnard Drive, Mount Sheridan",Mount Sheridan,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8:30am-6pm, Sun 9am-6pm",-16.991113,145.739181,Yes,Yes,Yes,No
+127,Surfers Paradise,"19 Cavill Avenue, Surfers Paradise",Surfers Paradise,Shopping Centre,OPEN: 24 hours,-28.00192356,153.4289906,No,No,No,No
+128,Main Street,"138 Alice Street, Mitchell",Mitchell,Shopping Centre,OPEN: 24 hours,-26.48765708,147.9753197,No,Yes,Yes,No
+129,Looranah Street Local,"61 Looranah Street, Jindalee",Jindalee,Shopping Centre,OPEN: 7am-9pm,-27.53240428,152.9418933,Yes,Yes,Yes,No
+130,Albert Street,"Albert Street, Brisbane",Brisbane,Shopping Centre,OPEN: 24 hours,-27.46976516,153.0253948,No,No,Yes,No
+131,Stones Corner library,"Logan Road, Greenslopes",Greenslopes,Shopping Centre,OPEN: Daylight hours,-27.49792163,153.04367,No,Yes,Yes,No
+132,Annandale Central,"101 MacArthur Drive, Annandale",Annandale,Shopping Centre,"OPEN: Mon-Fri 8:30am-5:30pm, Sat 8:30am-4pm, Sun 8:30am-3pm",-19.31673266,146.7908928,Yes,Yes,Yes,No
+133,Indooroopilly Shopping Centre,"322 Moggill Road, Indooroopilly",Indooroopilly,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30am, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm",-27.49846593,152.972887,No,No,Yes,No
+134,Petrie Village Shopping Centre,"Old Dayboro Road, Petrie",Petrie,Shopping Centre,"OPEN: Fri-Wed 8am-5:30pm, Thu 8am-9pm",-27.2703754,152.9748073,No,Yes,Yes,No
+135,Community Shopping Centre,"Resevoir Road, Yarrabah",Yarrabah,Shopping Centre,OPEN: Mon-Fri 8am-5pm,-16.9066,145.86586,No,Yes,No,No
+136,Maple Street Kiosk ,"Maple Street, Maleny",Maleny,Shopping Centre,Currently closed,-26.758323,152.852475,No,Yes,Yes,No
+137,William Landsborough Park,"Landsborough Parade, Golden Beach",Golden Beach,Shopping Centre,OPEN: Daylight hours,-26.806968,153.123136,No,Yes,Yes,No
+138,Arndale Shopping Centre,"17 CINDERELLA DR, Springwood",Springwood,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Sat 9am-5pm, Sun 11am-5pm, Thu 9am-9pm",-27.61131,153.12512,Yes,Yes,Yes,No
+139,Pialba Place Shopping Centre - Big W,"MAIN ST, Pialba",Pialba,Shopping Centre,"OPEN: Mon-Wed,Fri 8:30am-6pm, Thu 8:30am-9pm, Sat 8:30am-5pm, Sun 9am-5pm",-25.28293,152.83903,Yes,Yes,Yes,No
+140,Queens Plaza,"226 Queen Street, Brisbane",Brisbane,Shopping Centre,Opening hours unknown,-27.46874,153.02639,No,Yes,Yes,No
+141,QueensPlaza,"226 Queen Street, Brisbane City",Brisbane City,Shopping Centre,"OPEN: Mon-Thu 9am-5:30pm, Sat 9am-9pm, Sat 9am-5pm, Sun 10am-5pm",-27.46837787,153.0265259,Yes,Yes,Yes,No
+142,Mountain Creek Shopping Centre,"158-170 Karawatha Drive, Mountain Creek",Mountain Creek,Shopping Centre,Opening hours unknown,-26.694026,153.0901775,No,No,No,No
+143,Learmonth Foodworks Shopping Complex,"56 Walker Street, Walkervale",Walkervale,Shopping Centre,OPEN: 6:30am-9pm,-24.8788614,152.3539111,Yes,Yes,No,No
+144,Westfield Coomera,"103 Foxwell Road, Coomera",Coomera,Shopping Centre,OPEN: Daylight hours,-27.8553849,153.3145294,No,No,No,No
+145,Stockland Shopping Centre,"100 Middle Street, Cleveland",Cleveland,Shopping Centre,OPEN: 6:30am-6:30pm,-27.5253903,153.2688368,Yes,No,Yes,Yes
+146,Gillespie Street,"Gillespie Street, Moura",Moura,Shopping Centre,OPEN: 24 hours,-24.56749886,149.9756899,No,Yes,No,No
+147,Information Centre,"2 Barrett Street, Biloela",Biloela,Shopping Centre,OPEN: Daylight hours,-24.40450355,150.5135651,Yes,Yes,Yes,No
+148,Kawana Shoppingworld,"119 Point Cartwright Drive, Buddina",Buddina,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10:30am-4pm",-26.7029318,153.1310407,Yes,Yes,Yes,No
+149,Calamvale Central,"662 Compton Road, Calamvale",Calamvale,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm, Sun 10am-4pm",-27.6123701,153.053268,Yes,Yes,Yes,No
+150,Westfield Carindale,"1151 Creek Road, Carindale",Carindale,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-5pm",-27.5030925,153.1019724,Yes,Yes,Yes,No
+151,Westfield Chermside,"Corner of Gympie and Hamilton Roads, Chermside",Chermside,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-5pm",-27.3826351,153.0325653,Yes,Yes,Yes,No
+152,Dalby Shoppingworld,"17-67 Cunningham Street, Dalby",Dalby,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7:30pm, Sat 9am-4pm, Sun 9am-6pm",-27.1811829,151.2674378,Yes,Yes,Yes,No
+153,Market Square Deception Bay,"Bay Avenue, Deception Bay",Deception Bay,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-5pm, Sun 9am-6pm",-27.19445081,153.0288608,Yes,Yes,Yes,No
+154,The Plaza @ Emerald,"144 Egerton Street, Emerald",Emerald,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-6pm, Sat 9am-3pm, Sun 10am-4pm",-23.5280464,148.1644875,Yes,Yes,Yes,No
+155,Westfield Helensvale,"1-29 Millaroo Drive, Helensvale",Helensvale,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm",-27.9259351,153.3363655,Yes,Yes,Yes,No
+156,Ipswich Central,"20 Nicholas Street, Ipswich",Ipswich,Shopping Centre,Opening hours unknown,-27.61283809,152.7593282,Yes,Yes,Yes,No
+157,Sydney Street Markets,"31 Gordon Street, Mackay",Mackay,Shopping Centre,"OPEN: Mon-Wed 9am-5:30pm, Thu-Fri 9am-7pm, Sat 9am-4pm, Sun 10am-4pm",-21.14407997,149.1874344,Yes,Yes,Yes,No
+158,Big Top Shopping Centre,"12-20 Ocean Street, Maroochydore",Maroochydore,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm, Sun 10am-4pm",-26.6526799,153.0914827,Yes,Yes,Yes,No
+159,Middlemount Shopping Centre,"James Randell Drive, Middlemount",Middlemount,Shopping Centre,Opening hours unknown,-22.80967329,148.6995564,Yes,Yes,Yes,No
+160,Stockland Rockhampton,"120-331 Yaamba Road, Coral Sea",Coral Sea,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm",-23.3547388,150.5214363,Yes,Yes,Yes,No
+161,Toombul Shopping Centre,"1015 Sandgate Road, Toombul",Toombul,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-7pm, Sat 9am-5pm, Sun 10am-4pm",-27.409113,153.0616173,Yes,Yes,Yes,No
+162,Redbank Plaza,"1 Collingwood Drive, Redbank",Redbank,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm, Sun 10am-4pm",-27.60595817,152.8679696,Yes,Yes,Yes,No
+163,Runaway Bay Centre,"10-12 Lae Drive, Runaway Bay",Runaway Bay,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm",-27.9136584,153.4008168,Yes,Yes,Yes,No
+164,Orion Springfield Central,"1 Main Street, Springfield Central",Springfield Central,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-5pm, Sun 10am-4pm",-27.6776615,152.9021193,Yes,Yes,Yes,No
+165,Toowoomba Plaza,"878 Ruthven Street, Kearneys Spring",Kearneys Spring,Shopping Centre,"OPEN: Mon-Wed,Fri 9am-5:30pm, Thu 9am-9pm, Sat 9am-4pm, Sun 10am-4pm",-27.5951974,151.9486415,Yes,Yes,Yes,No
+166,Wilsonton Shopping Centre,"407 Bridge Street, Wilsonton",Wilsonton,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat-Sun 9am-6pm",-27.5433337,151.9246776,Yes,Yes,Yes,No
+167,High Street Shopping Centre,"52 High Street, Toowoomba",Toowoomba,Shopping Centre,"OPEN: Mon-Fri 8am-9pm, Sat 8am-6pm, Sun 9am-6pm",-27.5858448,151.9783974,Yes,Yes,Yes,No

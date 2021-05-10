@@ -1,0 +1,17 @@
+.elementor-widget-hq-theme-post-meta-data .elementor-post-meta-data__terms-list a {
+    display: inline-block;
+    width: auto;
+}
+.elementor-widget-hq-theme-post-meta-data .elementor-icon-list-item {
+    position: relative;
+}
+.elementor-widget-hq-theme-post-meta-data .elementor-icon-list-item,
+.elementor-widget-hq-theme-post-meta-data .elementor-icon-list-item a {
+    align-items: center;
+}
+.elementor-widget-hq-theme-post-meta-data .elementor-icon-list-icon {
+    display: flex;
+}
+.elementor-widget-hq-theme-post-meta-data .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    position: absolute;
+}

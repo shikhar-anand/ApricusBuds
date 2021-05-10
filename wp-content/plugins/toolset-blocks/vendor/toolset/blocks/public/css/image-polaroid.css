@@ -1,0 +1,2 @@
+.tb-image .tb-image-polaroid-shadow{position:absolute;z-index:1;box-shadow:0 0 20px rgba(0,0,0,0.8);top:50%;bottom:2px;left:10px;right:10px;border-radius:100px / 10px}.tb-image .tb-image-polaroid{position:relative;display:inline-block;transition:transform 0.25s ease}.tb-image .tb-image-polaroid-inner{position:relative;padding:15px;background-color:#fff;width:100%;z-index:2}.tb-image .tb-image-polaroid-inner img{display:block;width:100%}
+

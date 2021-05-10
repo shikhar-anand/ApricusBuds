@@ -1,0 +1,32 @@
+[27/Apr/2021:08:18:19] (I): WordPress Instance Info:
+[27/Apr/2021:08:18:19] (I): Home URL : http://apricustravel3.azurewebsites.net
+[27/Apr/2021:08:18:19] (I): Site URL : http://apricustravel3.azurewebsites.net
+[27/Apr/2021:08:18:19] (I): WordPress Version : 5.7.1
+[27/Apr/2021:08:18:19] (I): Onboarding Version : 1.1.7
+[27/Apr/2021:08:18:19] (I): Multisite : No
+[27/Apr/2021:08:18:19] (I): Server Info : Microsoft-IIS/10.0
+[27/Apr/2021:08:18:19] (I): PHP Version : 7.3.27
+[27/Apr/2021:08:18:19] (I): HTTPS : No
+[27/Apr/2021:08:18:19] (I): PHP Max Execution Time : 0
+[27/Apr/2021:08:18:19] (I): PHP Max Input Vars : 1000
+[27/Apr/2021:08:18:19] (I): Max Upload Size : 52428800
+[27/Apr/2021:08:18:19] (I): Plugins:
+[27/Apr/2021:08:18:19] (I): [PLUGIN] All-in-One WP Migration : v6.68 (ServMask)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Breadcrumb NavXT : v6.6.0 (John Havlik)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Duplicate Page : v4.4 (mndpsingh287)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Easy Google Fonts : v1.4.4 (Titanium Themes)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Elementor : v3.1.4 (Elementor.com)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Fancy Elementor Flipbox : v2.0.0 (ThemePrix)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Hello Dolly : v1.7.2 (Matt Mullenweg)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Flipbox - Awesomes Flip Boxes Image Overlay : v2.5.0 (Biplob Adhikari)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] LocateAndFilter : v1.4.8 (Andrii Monin)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Magic Liquidizer Responsive Table : v2.0.4 (Elvin D.)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Password Protected : v2.4 (Ben Huson)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Popup Maker : v1.16.1 (Popup Maker)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Smart Slider 3 : v3.4.1.17 (Nextend)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] TablePress Extension: Responsive Tables : v1.8 (Tobias Bäthge)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] TablePress : v1.13 (Tobias Bäthge)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Templates Patterns Collection : v1.1.7 (ThemeIsle)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Orbit Fox Companion : v2.10.4 (Themeisle)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] Yoast SEO : v16.1.1 (Team Yoast)
+[27/Apr/2021:08:18:19] (I): [PLUGIN] WP Mapbox GL JS Maps : v3.0.0 (Mapster Tech)

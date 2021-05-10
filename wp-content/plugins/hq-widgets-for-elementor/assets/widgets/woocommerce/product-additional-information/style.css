@@ -1,0 +1,36 @@
+
+/* SHOP ATTRIBUTES TABLE */
+.elementor-widget-hq-woocommerce-product-additional-information table.shop_attributes {
+    border: 0;
+    border-top: 1px dotted rgba(0, 0, 0, .1);
+    margin-bottom: 1.618em;
+    width: 100%
+}
+.elementor-widget-hq-woocommerce-product-additional-information table.shop_attributes th {
+    width: 150px;
+    font-weight: 700;
+    padding: 8px;
+    border: none;
+    border-bottom: 1px dotted rgba(0, 0, 0, .1);
+    margin: 0;
+    line-height: 1.5
+}
+
+.elementor-widget-hq-woocommerce-product-additional-information table.shop_attributes td {
+    font-style: italic;
+    padding: 0;
+    border: none;
+    border-bottom: 1px dotted rgba(0, 0, 0, .1);
+    margin: 0;
+    line-height: 1.5
+}
+
+.elementor-widget-hq-woocommerce-product-additional-information table.shop_attributes td p {
+    margin: 0;
+    padding: 8px 0
+}
+
+.elementor-widget-hq-woocommerce-product-additional-information table.shop_attributes tr:nth-child(even) td,
+.elementor-widget-hq-woocommerce-product-additional-information table.shop_attributes tr:nth-child(even) th {
+    background: rgba(0, 0, 0, .025)
+}

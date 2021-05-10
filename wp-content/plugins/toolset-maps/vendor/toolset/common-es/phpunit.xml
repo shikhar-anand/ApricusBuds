@@ -1,0 +1,22 @@
+<phpunit
+		bootstrap="./test/phpunit/bootstrap.php"
+		backupGlobals="false"
+		colors="true"
+		convertErrorsToExceptions="true"
+		convertNoticesToExceptions="true"
+		convertWarningsToExceptions="true"
+>
+	<testsuites>
+		<testsuite name="toolset-blocks">
+			<directory suffix="Test.php">./server</directory>
+		</testsuite>
+	</testsuites>
+	<coverage includeUncoveredFiles="true">
+		<include>
+			<directory suffix=".php">./server</directory>
+		</include>
+		<exclude>
+			<directory suffix="Test.php">./server</directory>
+		</exclude>
+	</coverage>
+</phpunit>

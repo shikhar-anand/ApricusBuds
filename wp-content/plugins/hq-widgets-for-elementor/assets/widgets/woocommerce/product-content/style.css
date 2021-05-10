@@ -1,0 +1,3 @@
+.elementor-widget-hq-woocommerce-product-content .elementor-widget-container *:not(p) {
+    column-span: all;
+}

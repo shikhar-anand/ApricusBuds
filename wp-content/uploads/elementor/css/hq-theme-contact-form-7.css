@@ -1,0 +1,308 @@
+.hq-cf7-wrapper .wpcf7-checkbox, .wpcf7-radio {
+    display: flex;
+    flex-direction: column;
+}
+.hq-cf7-wrapper .wpcf7-acceptance {
+    display: block;
+}
+.cf7-checkbox-align-inline .hq-cf7-wrapper .wpcf7-checkbox {
+    flex-direction: row;
+}
+.cf7-checkbox-align-block .hq-cf7-wrapper .wpcf7-checkbox {
+    flex-direction: column;
+}
+.cf7-radio-align-inline .hq-cf7-wrapper .wpcf7-radio {
+    flex-direction: row;
+}
+.cf7-radio-align-block .hq-cf7-wrapper .wpcf7-radio {
+    flex-direction: column;
+}
+.hq-cf7-wrapper .wpcf7-checkbox .wpcf7-list-item,
+.hq-cf7-wrapper .wpcf7-acceptance .wpcf7-list-item,
+.hq-cf7-wrapper .wpcf7-radio .wpcf7-list-item {
+    margin: 0;
+    text-align: left;
+}
+.hq-cf7-wrapper .wpcf7-checkbox .wpcf7-list-item:not(.last),
+.hq-cf7-wrapper .wpcf7-radio .wpcf7-list-item:not(.last) {
+    margin-bottom: 1em;
+}
+.hq-cf7-wrapper .wpcf7-checkbox label,
+.hq-cf7-wrapper .wpcf7-radio label {
+    display: inline-block;
+}
+.hq-cf7-wrapper .wpcf7 .screen-reader-response {
+    position: absolute;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    width: 1px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+@media(max-width: 767px) {
+    .cf7-checkbox-align-inline .hq-cf7-wrapper .wpcf7-checkbox,
+    .cf7-radio-align-inline .hq-cf7-wrapper .wpcf7-radio {
+        flex-direction: column;
+    }
+    .cf7-checkbox-align-inline .hq-cf7-wrapper .wpcf7-checkbox .wpcf7-list-item,
+    .cf7-radio-align-inline .hq-cf7-wrapper .wpcf7-radio .wpcf7-list-item {
+        margin-right: 0!important;
+    }
+}
+/* CHECKBOXES */
+.cf7-checkbox-align-inline .hq-cf7-wrapper .wpcf7-checkbox .wpcf7-list-item:not(.last) {
+    margin-right: 1em;
+}
+.cf7-checkbox-align-block .hq-cf7-wrapper .wpcf7-checkbox .wpcf7-list-item:not(.last) {
+    margin-bottom: 1em;
+}
+.hq-cf7-wrapper .wpcf7-checkbox label input,
+.hq-cf7-wrapper .wpcf7-acceptance label input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+.hq-cf7-wrapper .wpcf7-checkbox label .wpcf7-list-item-label,
+.hq-cf7-wrapper .wpcf7-acceptance label .wpcf7-list-item-label {
+    cursor: pointer;
+    display: block!important;
+    position: relative;
+    padding-left: 30px;
+    line-height: normal;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.hq-cf7-wrapper .wpcf7-checkbox label .wpcf7-list-item-label:before,
+.hq-cf7-wrapper .wpcf7-acceptance label .wpcf7-list-item-label:before {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    height: 20px;
+    width: 20px;
+    background-color: #fff;
+    border: 1px solid #999;
+}
+.hq-cf7-wrapper .wpcf7-checkbox label .wpcf7-list-item-label:after,
+.hq-cf7-wrapper .wpcf7-acceptance label .wpcf7-list-item-label:after {
+    content: '';
+    display: inline-block;
+    cursor: pointer;
+    height: 12px;
+    width: 8px;
+    border: none;
+    transform: rotate(45deg);
+    top: -4px;
+    bottom: 0;
+    left: 6px;
+    margin: auto;
+    position: absolute;
+}
+.hq-cf7-wrapper .wpcf7-checkbox label input:checked ~ .wpcf7-list-item-label:after,
+.hq-cf7-wrapper .wpcf7-acceptance label input:checked ~ .wpcf7-list-item-label:after {
+    border: solid #666;
+    border-width: 0 2px 2px 0;
+}
+/* RADIO BUTTONS */
+.cf7-radio-align-inline .hq-cf7-wrapper .wpcf7-radio .wpcf7-list-item:not(.last) {
+    margin-right: 1em;
+}
+.cf7-radio-align-block .hq-cf7-wrapper .wpcf7-radio .wpcf7-list-item:not(.last) {
+    margin-bottom: 1em;
+}
+.hq-cf7-wrapper .wpcf7-radio label input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+.hq-cf7-wrapper .wpcf7-radio label .wpcf7-list-item-label {
+    cursor: pointer;
+    display: block!important;
+    position: relative;
+    padding-left: 30px;
+    line-height: normal;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.hq-cf7-wrapper .wpcf7-radio label .wpcf7-list-item-label:before {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    height: 20px;
+    width: 20px;
+    background-color: #fff;
+    border: 1px solid #999;
+    border-radius: 99px;
+}
+.hq-cf7-wrapper .wpcf7-radio label .wpcf7-list-item-label:after {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 6px;
+    margin: auto;
+    cursor: pointer;
+    height: 8px;
+    width: 8px;
+    border-radius: 99px;
+    background: none;
+}
+
+.hq-cf7-wrapper .wpcf7-radio label input:checked ~ .wpcf7-list-item-label:after {
+    background: #666;
+
+}
+/* OVERWRITE CF7 GRID STYLES */
+.hq-cf7-wrapper .cf7sg-container .cf7-smart-grid.has-grid .container {
+    max-width: none;
+    padding: 0;
+}
+.hq-cf7-wrapper .wpcf7-form input.wpcf7-form-control:not([type="button"]):not([type="submit"]),
+.hq-cf7-wrapper .wpcf7-form textarea.wpcf7-form-control,
+.hq-cf7-wrapper .wpcf7-form select.wpcf7-form-cotrol, 
+.hq-cf7-wrapper .cf7-smart-grid.has-grid input.wpcf7-form-control,
+.hq-cf7-wrapper .cf7-smart-grid.has-grid textarea.wpcf7-form-control,
+.hq-cf7-wrapper .cf7-smart-grid.has-grid select.wpcf7-form-control {
+    width: 100%;
+    display: block;
+}
+.hq-cf7-wrapper .wpcf7-form .wpcf7-form-control.wpcf7-textarea,
+.hq-cf7-wrapper .cf7-smart-grid.has-grid .wpcf7-form-control.wpcf7-textarea {
+    height: 100px;
+}
+
+.hq-cf7-wrapper .wpcf7-form .wpcf7-form-control:focus, 
+.hq-cf7-wrapper .cf7-smart-grid.has-grid .wpcf7-form-control:focus {
+    outline: none;
+}
+.hq-cf7-wrapper .wpcf7-form input.wpcf7-submit {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+.hq-cf7-wrapper .submit-wrapper {
+    display: flex;
+    align-items: center;
+    width: max-content;
+}
+.hq-cf7-wrapper .cf7-smart-grid.has-grid div.field span.wpcf7-not-valid-tip,
+.hq-cf7-wrapper .wpcf7-not-valid-tip {
+    display: block;
+    position: static;
+    top: auto;
+    left: auto;
+    right: auto;
+    bottom: auto;
+    background: none;
+    border-radius: 0;
+    padding: 6px 12px;
+    z-index: initial;
+}
+.hq-cf7-wrapper .wpcf7-validation-errors,
+.hq-cf7-wrapper .wpcf7-acceptance-missing {
+    border: none;
+}
+.hq-cf7-wrapper .wpcf7 .wpcf7-response-output {
+    margin: 1em 0;
+    padding: 6px 12px;
+    border: none;
+}
+
+/* HQ CF7 STYLES */
+.hq-cf7-wrapper {
+    display: flex;
+}
+.hq-cf7-container {
+    width: 100%;
+}
+.hq-cf7-wrapper label {
+    display: block;
+}
+.hq-cf7-wrapper .wpcf7-form-control-wrap {
+    display: block;
+}
+.hq-cf7-wrapper .wpcf7-submit {
+    cursor: pointer;
+}
+
+/* AJAX LOADER */
+.cf7-smart-grid.has-grid .wpcf7 .ajax-loader,
+.hq-cf7-wrapper div.wpcf7 .ajax-loader {
+    display: none;
+    position: relative;
+    margin-left: 10px;
+    width: 30px;
+    height: 20px;
+    background: none;
+}
+.cf7-smart-grid.has-grid .wpcf7 .submitting .ajax-loader,
+.hq-cf7-wrapper div.wpcf7 .submitting .ajax-loader {
+    display: inline-block;
+}
+.hq-cf7-wrapper .ajax-loader span {
+    position: absolute;
+    top: 7px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #333;
+    animation-timing-function: cubic-bezier(0, 1, 1, 0);
+}
+.hq-cf7-wrapper .ajax-loader span:nth-child(1) {
+    left: 0px;
+    animation: lds-ellipsis1 0.6s infinite;
+}
+.hq-cf7-wrapper .ajax-loader span:nth-child(2) {
+    left: 0px;
+    animation: lds-ellipsis2 0.6s infinite;
+}
+.hq-cf7-wrapper .ajax-loader span:nth-child(3) {
+    left: 10px;
+    animation: lds-ellipsis2 0.6s infinite;
+}
+.hq-cf7-wrapper .ajax-loader span:nth-child(4) {
+    left: 20px;
+    animation: lds-ellipsis3 0.6s infinite;
+}
+@keyframes lds-ellipsis1 {
+    0% {
+        transform: scale(0);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+@keyframes lds-ellipsis2 {
+    0% {
+        transform: translate(0, 0);
+    }
+    100% {
+        transform: translate(10px, 0);
+    }
+}
+@keyframes lds-ellipsis3 {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(0);
+    }
+}

@@ -1,0 +1,147 @@
+/* COMMENT LIST */
+.elementor-widget-hq-theme-post-comments .comment-list {
+    list-style:none;
+    margin:0 0 1em;
+    padding:0;
+    text-indent:0;
+}
+.elementor-widget-hq-theme-post-comments .comment-list .comment {
+    padding: 1em;
+}
+.elementor-widget-hq-theme-post-comments .comment-list .comment .children {
+    list-style:none;
+    padding: 0;
+    margin: 1em 0 0 2em;
+    text-indent:0;
+}
+.elementor-widget-hq-theme-post-comments .comment-list .comment-content p {
+    margin-top: 1em;
+}
+
+/* COMMENT VCARD */
+.elementor-widget-hq-theme-post-comments .comment-list .comment .vcard b{
+    display: block;
+}
+
+@media (min-width: ELEMENTOR_SCREEN_MD_MIN) {
+    .elementor-comment--avatar-position-tablet-right .comment-list .comment .vcard {flex-direction: row-reverse;}
+
+    /* COMMENT VCARD */
+    .elementor-widget-hq-theme-post-comments .comment-list .comment .vcard,
+    .elementor-widget-hq-theme-post-comments .comment-list .comment .vcard a {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items: flex-start;
+        position: relative;
+    }
+    
+    .elementor-comment--avatar-position-mobile-right .comment-list .comment .vcard {flex-direction: row-reverse;}
+}
+@media (min-width: ELEMENTOR_SCREEN_LG_MIN) {
+    .elementor-comment--avatar-position-right .comment-list .comment .vcard {flex-direction: row-reverse;}
+}
+
+.elementor-widget-hq-theme-post-comments .comment-list .comment .vcard img {
+    flex: 0 0 auto;
+    border-radius: 0;
+}
+.elementor-comment--hide-avatar-yes .comment-list .comment .vcard img {
+    display: none!important;
+}
+
+/* AUTHOR NAME */
+.elementor-widget-hq-theme-post-comments .comment-list .says {
+    display: none!important;
+}
+.elementor-widget-hq-theme-post-comments .comment-list .comment .vcard .fn {
+    flex: 1 0 auto;
+}
+.elementor-comment--author-valign-top .comment-list .comment .vcard .fn {align-self: flex-start;}
+.elementor-comment--author-valign-middle .comment-list .comment .vcard .fn {align-self: center;}
+.elementor-comment--author-valign-bottom .comment-list .comment .vcard .fn {align-self: flex-end;}
+
+/* METADATA */
+.elementor-comment--hide-metadata-yes .comment-list .comment-metadata > a {
+    display: none!important;
+}
+
+/* REPLY BUTTON */
+.elementor-widget-hq-theme-post-comments .comment-list .reply {
+    margin-top: 1em;
+}
+.elementor-widget-hq-theme-post-comments .comment-list .comment-reply-link {
+display: inline-block;
+    padding: 6x
+     12px;
+    background: #ddd;
+}
+.elementor-comment--reply-position-mobile-left .comment-list .comment .reply {text-align: left;}
+.elementor-comment--reply-position-mobile-right .comment-list .comment .reply {text-align: right;}
+
+@media (min-width: ELEMENTOR_SCREEN_MD_MIN) {
+    .elementor-comment--reply-position-tablet-left .comment-list .comment .reply {text-align: left;}
+    .elementor-comment--reply-position-tablet-right .comment-list .comment .reply {text-align: right;}
+}
+@media (min-width: ELEMENTOR_SCREEN_LG_MIN) {
+    .elementor-comment--reply-position-left .comment-list .comment .reply {text-align: left;}
+    .elementor-comment--reply-position-right .comment-list .comment .reply {text-align: right;}
+}
+.comment-reply-title {
+    display: flex;
+    justify-content: space-between;
+}
+/* CANCEL REPLY BUTTON */
+.elementor-widget-hq-theme-post-comments #cancel-comment-reply-link {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: normal;
+letter-spacing: normal;
+padding: 6px 12px;
+display: inline-block;}
+
+
+/* POST COMMENT FORM */
+.elementor-widget-hq-theme-post-comments .comment-respond {
+    padding: 1em;
+}
+.elementor-widget-hq-theme-post-comments .comment-form label {
+display: inline-block;}
+
+.elementor-widget-hq-theme-post-comments .comment-form textarea,
+.elementor-widget-hq-theme-post-comments .comment-form input[type="text"],
+.elementor-widget-hq-theme-post-comments .comment-form input[type="email"],
+.elementor-widget-hq-theme-post-comments .comment-form input[type="url"] {
+    width: 100%;
+    padding: 10px;
+}
+.elementor-widget-hq-theme-post-comments #respond input#submit {
+    outline: none;
+}
+.elementor-widget-hq-theme-post-comments .comment-form .comment-notes {
+    margin-bottom: 1em;
+}
+
+.elementor-widget-hq-theme-post-comments .comment-form .comment-form-comment,
+.elementor-widget-hq-theme-post-comments .comment-form .comment-form-author,
+.elementor-widget-hq-theme-post-comments .comment-form .comment-form-email,
+.elementor-widget-hq-theme-post-comments .comment-form .comment-form-url {
+    margin-bottom: 1em;
+}
+@media (min-width: ELEMENTOR_SCREEN_MD_MIN) {
+    .elementor-widget-hq-theme-post-comments .comment-form .comment-form-author,
+    .elementor-widget-hq-theme-post-comments .comment-form .comment-form-email,
+    .elementor-widget-hq-theme-post-comments .comment-form .comment-form-url {
+        float: left;
+        width: 33.3333%;
+    }
+    .elementor-widget-hq-theme-post-comments .comment-form .comment-form-author {padding-right: 10px;}
+    .elementor-widget-hq-theme-post-comments .comment-form .comment-form-email {padding-left: 10px; padding-right: 10px;}
+    .elementor-widget-hq-theme-post-comments .comment-form .comment-form-url {padding-left: 10px;}
+
+    .elementor-widget-hq-theme-post-comments .comment-form .comment-form-cookies-consent,
+    .elementor-widget-hq-theme-post-comments .comment-form .form-submit {
+        clear: both;
+        padding-top: 1em;
+    }
+}

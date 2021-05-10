@@ -1,0 +1,35 @@
+/* WIDGETS TOP BAR */
+.hqt-container-buttons {
+    padding-bottom: 20px;
+    border-bottom: solid 1px #e2e4e7;
+}
+.hqt-container-buttons .btn-toggle {
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin-right: 1em;
+    transition: all 0.3s ease;
+}
+.hqt-container-buttons .btn-toggle:focus {
+    box-shadow: none;
+}
+.hqt-container-buttons .btn-toggle.btn-activate {
+    color: #2196F3;
+    border: solid 1px #2196f3;
+}
+.hqt-container-buttons .btn-toggle.btn-deactivate {
+    color: #FF414D;
+    border: solid 1px #ff0048;
+}
+.hqt-container-buttons .btn-toggle:hover {
+    box-shadow: 0 0 5px 2px #eee;
+    color: #fff;
+}
+.hqt-container-buttons .btn-toggle.btn-activate:hover {
+    background: #2196f3;
+}
+.hqt-container-buttons .btn-toggle.btn-deactivate:hover {
+    background: #ff0048;
+}

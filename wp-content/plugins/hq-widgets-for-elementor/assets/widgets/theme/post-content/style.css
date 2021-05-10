@@ -1,0 +1,19 @@
+.elementor-widget-hq-theme-post-content .elementor-widget-container p {
+    margin-top: 0;
+}
+.elementor-widget-hq-theme-post-content .elementor-widget-container *:not(p) {
+    column-span: all;
+}
+.hq-page-links {
+    display: flex;
+}
+.hq-page-links .hq-page-links-title, 
+.hq-page-links .post-page-numbers {
+    display: inline-block;
+}
+.hq-page-links .hq-page-links-title {
+    align-self: center;
+}
+.hq-page-links .post-page-numbers {
+    align-content: center;
+}

@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<name><![CDATA[Wangan Sports Ground]]></name>
+		<location><![CDATA[Cheshire Street, Wangan]]></location>
+		<suburb><![CDATA[Wangan]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 8am-5pm]]></openinghours>
+		<latitude><![CDATA[-17.57451729]]></latitude>
+		<longitude><![CDATA[146.0085622]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[North Tamborine]]></name>
+		<location><![CDATA[Knoll Road, Tamborine Mountain]]></location>
+		<suburb><![CDATA[Tamborine Mountain]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-27.92254701]]></latitude>
+		<longitude><![CDATA[153.185196]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Mavor Park]]></name>
+		<location><![CDATA[Helen Street, Beaudesert]]></location>
+		<suburb><![CDATA[Beaudesert]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-27.97381667]]></latitude>
+		<longitude><![CDATA[152.9916847]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Everdell]]></name>
+		<location><![CDATA[Mount Lindesay Highway, Veresdale]]></location>
+		<suburb><![CDATA[Veresdale]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-27.93873083]]></latitude>
+		<longitude><![CDATA[152.9831959]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Moriarty Park]]></name>
+		<location><![CDATA[Coburg Road, Canungra]]></location>
+		<suburb><![CDATA[Canungra]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-28.01907655]]></latitude>
+		<longitude><![CDATA[153.1594418]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Merv and Ollie Musch Park]]></name>
+		<location><![CDATA[Quinzeh Creek Road, Logan Village]]></location>
+		<suburb><![CDATA[Logan Village]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-27.76355961]]></latitude>
+		<longitude><![CDATA[153.1171135]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Rathdowney Memorial Grounds]]></name>
+		<location><![CDATA[Mount Lindesay Highway, Rathdowney]]></location>
+		<suburb><![CDATA[Rathdowney]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-28.21210377]]></latitude>
+		<longitude><![CDATA[152.8642119]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Clifton Recreation Grounds]]></name>
+		<location><![CDATA[2 Davenport Street, Clifton]]></location>
+		<suburb><![CDATA[Clifton]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-27.92618481]]></latitude>
+		<longitude><![CDATA[151.9137118]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Whites Road]]></name>
+		<location><![CDATA[Whites Road, Laidley]]></location>
+		<suburb><![CDATA[Laidley]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-27.63375324]]></latitude>
+		<longitude><![CDATA[152.3969021]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Wondecla Showgrounds]]></name>
+		<location><![CDATA[1181 Longlands Gap Road, Wondecla]]></location>
+		<suburb><![CDATA[Wondecla]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-17.41138203]]></latitude>
+		<longitude><![CDATA[145.390159]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Carbeen Street Sports Complex]]></name>
+		<location><![CDATA[Off Baden Powell Drive, Tieri]]></location>
+		<suburb><![CDATA[Tieri]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-23.03477084]]></latitude>
+		<longitude><![CDATA[148.3405004]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Sports Oval]]></name>
+		<location><![CDATA[Capricorn Street, Tieri]]></location>
+		<suburb><![CDATA[Tieri]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-23.03604942]]></latitude>
+		<longitude><![CDATA[148.350916]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Skate Park]]></name>
+		<location><![CDATA[Chinchilla Street, Chinchilla]]></location>
+		<suburb><![CDATA[Chinchilla]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-26.73734024]]></latitude>
+		<longitude><![CDATA[150.6261352]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Bauple Recreation Grounds]]></name>
+		<location><![CDATA[Mackellar Street, Bauple Forest]]></location>
+		<suburb><![CDATA[Bauple Forest]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-25.81206085]]></latitude>
+		<longitude><![CDATA[152.6211656]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Commonwealth Oval]]></name>
+		<location><![CDATA[Wattle Street, Harlaxton]]></location>
+		<suburb><![CDATA[Harlaxton]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-27.53777133]]></latitude>
+		<longitude><![CDATA[151.9524151]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Rockville Oval]]></name>
+		<location><![CDATA[226 Tor Street, Rockville]]></location>
+		<suburb><![CDATA[Rockville]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-27.53681156]]></latitude>
+		<longitude><![CDATA[151.9319564]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Captain Cook Oval]]></name>
+		<location><![CDATA[Mcgregor Street, Wilsonton]]></location>
+		<suburb><![CDATA[Wilsonton]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6am-6pm]]></openinghours>
+		<latitude><![CDATA[-27.5469919]]></latitude>
+		<longitude><![CDATA[151.924407]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Captain Cook Oval - Centre]]></name>
+		<location><![CDATA[McGregor Street,, Wilsonton]]></location>
+		<suburb><![CDATA[]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-27.54762197]]></latitude>
+		<longitude><![CDATA[151.9273475]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Kearney Spring Sporting Ovals]]></name>
+		<location><![CDATA[Spring Street, Kearneys Spring]]></location>
+		<suburb><![CDATA[Kearneys Spring]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-27.60157244]]></latitude>
+		<longitude><![CDATA[151.943827]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[St Lawrence Sportsground]]></name>
+		<location><![CDATA[Macartney Street, St Lawrence]]></location>
+		<suburb><![CDATA[St Lawrence]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-22.345392]]></latitude>
+		<longitude><![CDATA[149.534586]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[St Lawrence Recreation Ground]]></name>
+		<location><![CDATA[St Lawrence Connection Road, St Lawrence]]></location>
+		<suburb><![CDATA[St Lawrence]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-22.34927947]]></latitude>
+		<longitude><![CDATA[149.5211901]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[William Taylor Memorial Sportsfield]]></name>
+		<location><![CDATA[Mooroondu Road, Thorneside]]></location>
+		<suburb><![CDATA[Thorneside]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6:30am-6:30pm]]></openinghours>
+		<latitude><![CDATA[-27.48666928]]></latitude>
+		<longitude><![CDATA[153.2067195]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Sam Sciacca Sportsfields]]></name>
+		<location><![CDATA[Old Cleveland Road, Capalaba]]></location>
+		<suburb><![CDATA[Capalaba]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6:30am-6:30pm]]></openinghours>
+		<latitude><![CDATA[-27.5204179]]></latitude>
+		<longitude><![CDATA[153.1942287]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Keith Surridge Park]]></name>
+		<location><![CDATA[Windemere Road, Alexandra Hills]]></location>
+		<suburb><![CDATA[Alexandra Hills]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6:30am-6:30pm]]></openinghours>
+		<latitude><![CDATA[-27.52304435]]></latitude>
+		<longitude><![CDATA[153.2164155]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Ern Dowling Sportsfields]]></name>
+		<location><![CDATA[Link Road, Victoria Point]]></location>
+		<suburb><![CDATA[Victoria Point]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6:30am-6:30pm]]></openinghours>
+		<latitude><![CDATA[-27.58445766]]></latitude>
+		<longitude><![CDATA[153.2926317]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Jackson Road Park]]></name>
+		<location><![CDATA[Jackson Road, Russell Island]]></location>
+		<suburb><![CDATA[Russell Island]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6:30am-6:30pm]]></openinghours>
+		<latitude><![CDATA[-27.65805924]]></latitude>
+		<longitude><![CDATA[153.366555]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Ron Stark Oval - Swimming Enclosure]]></name>
+		<location><![CDATA[Cunningham Street, Dunwich]]></location>
+		<suburb><![CDATA[Dunwich]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6:30am-6:30pm]]></openinghours>
+		<latitude><![CDATA[-27.50043915]]></latitude>
+		<longitude><![CDATA[153.4015568]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Point Lookout Surf Life Saving Club]]></name>
+		<location><![CDATA[Kennedy Drive, Point Lookout]]></location>
+		<suburb><![CDATA[Point Lookout]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6:30am-6:30pm]]></openinghours>
+		<latitude><![CDATA[-27.4365504]]></latitude>
+		<longitude><![CDATA[153.5428568]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Dunwich Sporting Club]]></name>
+		<location><![CDATA[Ballow Road, Dunwich]]></location>
+		<suburb><![CDATA[Dunwich]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6:30am-6:30pm]]></openinghours>
+		<latitude><![CDATA[-27.49995657]]></latitude>
+		<longitude><![CDATA[153.4024635]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Taroom Tennis Courts]]></name>
+		<location><![CDATA[McCorley Street, Taroom]]></location>
+		<suburb><![CDATA[Taroom]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-25.6376335]]></latitude>
+		<longitude><![CDATA[149.8029799]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Rodeo Grounds-Golf Course]]></name>
+		<location><![CDATA[Alldridge Street, Croydon]]></location>
+		<suburb><![CDATA[Croydon]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-18.21372879]]></latitude>
+		<longitude><![CDATA[142.2455585]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Wading Pool - Jetty]]></name>
+		<location><![CDATA[Doonella Street, Tewantin]]></location>
+		<suburb><![CDATA[Tewantin]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-26.3931279]]></latitude>
+		<longitude><![CDATA[153.0408731]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Bridgeman Oval]]></name>
+		<location><![CDATA[Briggs Street, Pittsworth]]></location>
+		<suburb><![CDATA[Pittsworth]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-27.72023761]]></latitude>
+		<longitude><![CDATA[151.6336018]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Gargett Recreation Ground]]></name>
+		<location><![CDATA[24 Gargett Mia Mia Road, Gargett]]></location>
+		<suburb><![CDATA[Gargett]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-21.15795436]]></latitude>
+		<longitude><![CDATA[148.7439452]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Colts Cricket]]></name>
+		<location><![CDATA[Warrego Highway, Roma]]></location>
+		<suburb><![CDATA[Roma]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-26.57584189]]></latitude>
+		<longitude><![CDATA[148.801591]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Cardwell Sports Reserve]]></name>
+		<location><![CDATA[Brasenose Street, Cardwell]]></location>
+		<suburb><![CDATA[Cardwell]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-18.27070682]]></latitude>
+		<longitude><![CDATA[146.0236208]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Slade Park]]></name>
+		<location><![CDATA[Wood Street, Warwick]]></location>
+		<suburb><![CDATA[Warwick]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-28.22178429]]></latitude>
+		<longitude><![CDATA[152.0352774]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[St Marks Park]]></name>
+		<location><![CDATA[Jackie Howe Drive, Warwick]]></location>
+		<suburb><![CDATA[Warwick]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-28.20684964]]></latitude>
+		<longitude><![CDATA[152.0387656]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Yandaran Sports Reserve]]></name>
+		<location><![CDATA[South Littabella Road, Yandaran]]></location>
+		<suburb><![CDATA[Yandaran]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-24.71992717]]></latitude>
+		<longitude><![CDATA[152.1134954]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[Yes]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Bargara Sports Complex]]></name>
+		<location><![CDATA[Courtice Drive, Bargara]]></location>
+		<suburb><![CDATA[Bargara]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-24.80400833]]></latitude>
+		<longitude><![CDATA[152.4549782]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Dallarnil Sports Ground]]></name>
+		<location><![CDATA[Isis Highway, Dallarnil]]></location>
+		<suburb><![CDATA[Dallarnil]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-25.3884613]]></latitude>
+		<longitude><![CDATA[152.0450506]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Maroochydore Surf Club]]></name>
+		<location><![CDATA[Alexandra Parade, Maroochydore]]></location>
+		<suburb><![CDATA[Maroochydore]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-26.6566923]]></latitude>
+		<longitude><![CDATA[153.1036911]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Lindsay Road Park]]></name>
+		<location><![CDATA[Lindsay Road, Buderim]]></location>
+		<suburb><![CDATA[Buderim]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-26.684991]]></latitude>
+		<longitude><![CDATA[153.0506111]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Sunset Oval]]></name>
+		<location><![CDATA[Hercules Road, Pioneer]]></location>
+		<suburb><![CDATA[Pioneer]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-20.71266137]]></latitude>
+		<longitude><![CDATA[139.5091519]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Captain Cook Oval]]></name>
+		<location><![CDATA[Brilliant Street, Mornington]]></location>
+		<suburb><![CDATA[Mornington]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-20.74369121]]></latitude>
+		<longitude><![CDATA[139.489937]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Kev Bannah Oval]]></name>
+		<location><![CDATA[Julia Street, Julia Creek]]></location>
+		<suburb><![CDATA[Julia Creek]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-20.65467874]]></latitude>
+		<longitude><![CDATA[141.745874]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Multipurpose Centre]]></name>
+		<location><![CDATA[15 Macrossan Street, Jundah]]></location>
+		<suburb><![CDATA[Jundah]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-24.82987274]]></latitude>
+		<longitude><![CDATA[143.0618674]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Tennis Courts]]></name>
+		<location><![CDATA[Mary Street, Windorah]]></location>
+		<suburb><![CDATA[Windorah]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-25.41944837]]></latitude>
+		<longitude><![CDATA[142.6515303]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[One Mile Oval]]></name>
+		<location><![CDATA[Crescent Road, Gympie]]></location>
+		<suburb><![CDATA[Gympie]]></suburb>
+		<activitytype><![CDATA[Sporting Facility]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-26.19922236]]></latitude>
+		<longitude><![CDATA[152.6766575]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+</data>

@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<name><![CDATA[Camp Area]]></name>
+		<location><![CDATA[Bingil Bay Road, Bingil Bay]]></location>
+		<suburb><![CDATA[Bingil Bay]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-17.82990204]]></latitude>
+		<longitude><![CDATA[146.0997934]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Yarramalong Weir]]></name>
+		<location><![CDATA[Yarramalong Road, Pampas]]></location>
+		<suburb><![CDATA[Pampas]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-27.83547419]]></latitude>
+		<longitude><![CDATA[151.4501383]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Darlington Park]]></name>
+		<location><![CDATA[Kerry Road, Darlington]]></location>
+		<suburb><![CDATA[Darlington]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-28.18623186]]></latitude>
+		<longitude><![CDATA[153.0413241]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Stinson Park]]></name>
+		<location><![CDATA[Christmas Creek Road, Southern Lamington]]></location>
+		<suburb><![CDATA[Southern Lamington]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-28.28729982]]></latitude>
+		<longitude><![CDATA[153.0360018]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Sharp Park]]></name>
+		<location><![CDATA[Beechmont Road, Witheren]]></location>
+		<suburb><![CDATA[Witheren]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-28.04900123]]></latitude>
+		<longitude><![CDATA[153.1890703]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Bigriggan Camping Reserve]]></name>
+		<location><![CDATA[Bigriggan Road, Rathdowney]]></location>
+		<suburb><![CDATA[Rathdowney]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Daylight hours]]></openinghours>
+		<latitude><![CDATA[-28.1985516]]></latitude>
+		<longitude><![CDATA[152.7777735]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Centenary Park]]></name>
+		<location><![CDATA[Mulgowie Road, Thornton]]></location>
+		<suburb><![CDATA[Thornton]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-27.79803861]]></latitude>
+		<longitude><![CDATA[152.3738276]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Wuruma Dam]]></name>
+		<location><![CDATA[Wuruma Dam Recreation Area, Wuruma Dam]]></location>
+		<suburb><![CDATA[Wuruma Dam]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-25.22699168]]></latitude>
+		<longitude><![CDATA[151.0534308]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Bluewater Park]]></name>
+		<location><![CDATA[Bruce Highway, Bluewater]]></location>
+		<suburb><![CDATA[Bluewater]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-19.17724117]]></latitude>
+		<longitude><![CDATA[146.5508631]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[Yes]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Toomulla Beach Campgrounds]]></name>
+		<location><![CDATA[The Esplanade, Toomulla]]></location>
+		<suburb><![CDATA[Toomulla]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 6am-6pm]]></openinghours>
+		<latitude><![CDATA[-19.08218531]]></latitude>
+		<longitude><![CDATA[146.4778563]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Vincent Bushy Parker Park]]></name>
+		<location><![CDATA[Rollingstone Street, Rollingstone]]></location>
+		<suburb><![CDATA[Rollingstone]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-19.04531563]]></latitude>
+		<longitude><![CDATA[146.3940839]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[Yes]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Balgal Beach South]]></name>
+		<location><![CDATA[Justin Street, Balgal Beach]]></location>
+		<suburb><![CDATA[Balgal Beach]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-19.02752966]]></latitude>
+		<longitude><![CDATA[146.4166791]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[Yes]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Calliope River Camping Grounds Southside]]></name>
+		<location><![CDATA[Bruce Highway, River Ranch]]></location>
+		<suburb><![CDATA[River Ranch]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-23.95956379]]></latitude>
+		<longitude><![CDATA[151.1535948]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Boynedale Rest Area]]></name>
+		<location><![CDATA[Gladstone - Monto Road, Boynedale]]></location>
+		<suburb><![CDATA[Boynedale]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-24.13757]]></latitude>
+		<longitude><![CDATA[151.19542]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Glebe Weir]]></name>
+		<location><![CDATA[2525 Glebe Weir Road, Ghinghinda]]></location>
+		<suburb><![CDATA[Ghinghinda]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-25.46357033]]></latitude>
+		<longitude><![CDATA[150.0338078]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Hull Heads Camping Grounds]]></name>
+		<location><![CDATA[Luff Street, Hull Heads]]></location>
+		<suburb><![CDATA[Hull Heads]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-17.99466565]]></latitude>
+		<longitude><![CDATA[146.0712655]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Sharon Gorge]]></name>
+		<location><![CDATA[Bundaberg - Gin Gin Road, Sharon]]></location>
+		<suburb><![CDATA[Sharon]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-24.88373344]]></latitude>
+		<longitude><![CDATA[152.2429706]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Anzac Park]]></name>
+		<location><![CDATA[33 Seib Street, Kilcoy]]></location>
+		<suburb><![CDATA[Kilcoy]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-26.94250215]]></latitude>
+		<longitude><![CDATA[152.5679096]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Ball Bay Camp Ground]]></name>
+		<location><![CDATA[9 Ward Esplanade, Ball Bay]]></location>
+		<suburb><![CDATA[Ball Bay]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-20.90275269]]></latitude>
+		<longitude><![CDATA[148.9953861]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[St Helens Camp Ground]]></name>
+		<location><![CDATA[Murrays Road, St Helens Beach]]></location>
+		<suburb><![CDATA[St Helens Beach]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-20.84148031]]></latitude>
+		<longitude><![CDATA[148.8436165]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Seaforth Camping Ground]]></name>
+		<location><![CDATA[Palm Avenue, Seaforth]]></location>
+		<suburb><![CDATA[Seaforth]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-20.89897219]]></latitude>
+		<longitude><![CDATA[148.9661498]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Sapphire Camping Reserve]]></name>
+		<location><![CDATA[Drummond Road, The Gemfields]]></location>
+		<suburb><![CDATA[The Gemfields]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-23.46461763]]></latitude>
+		<longitude><![CDATA[147.7203506]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Moura Rotary Park]]></name>
+		<location><![CDATA[160 Dawson Highway Moura, Moura]]></location>
+		<suburb><![CDATA[Moura]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-24.56512725]]></latitude>
+		<longitude><![CDATA[149.9775929]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Castle Rock Camping Area - Girraween National Park]]></name>
+		<location><![CDATA[Pyramids Road, Eukey]]></location>
+		<suburb><![CDATA[Eukey]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-28.83687643]]></latitude>
+		<longitude><![CDATA[151.9385623]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Bald Rock Creek Camping Area - Girraween National Park]]></name>
+		<location><![CDATA[Pyramids Road, Eukey]]></location>
+		<suburb><![CDATA[Eukey]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-28.83316977]]></latitude>
+		<longitude><![CDATA[151.9327997]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Platypus Creek - Lake Tinaroo]]></name>
+		<location><![CDATA[Danbulla Road, Tinaroo]]></location>
+		<suburb><![CDATA[Tinaroo]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-17.16063611]]></latitude>
+		<longitude><![CDATA[145.5599667]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Kauri Creek - Lake Tinaroo]]></name>
+		<location><![CDATA[Danbulla Road, Tinaroo]]></location>
+		<suburb><![CDATA[Tinaroo]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-17.1383]]></latitude>
+		<longitude><![CDATA[145.5978639]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[School Point - Lake Tinaroo]]></name>
+		<location><![CDATA[Danbulla Road, Tinaroo]]></location>
+		<suburb><![CDATA[Tinaroo]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-17.14818056]]></latitude>
+		<longitude><![CDATA[145.6108]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Fong-On Bay - Lake Tinaroo]]></name>
+		<location><![CDATA[Access Road, Tinaroo]]></location>
+		<suburb><![CDATA[Tinaroo]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-17.15759444]]></latitude>
+		<longitude><![CDATA[145.5830472]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Clancy's Campground]]></name>
+		<location><![CDATA[Benarkin State Forest, Cherry Creek]]></location>
+		<suburb><![CDATA[Cherry Creek]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-26.97210571]]></latitude>
+		<longitude><![CDATA[152.1647741]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Camp Mountain Lookout]]></name>
+		<location><![CDATA[Off Mount Nebo Road, Camp Mountain]]></location>
+		<suburb><![CDATA[Camp Mountain]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-27.41065207]]></latitude>
+		<longitude><![CDATA[152.8797812]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[No]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Jowarra Park]]></name>
+		<location><![CDATA[2859 Steve Irwin Way, Glenview]]></location>
+		<suburb><![CDATA[Glenview]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-26.77353006]]></latitude>
+		<longitude><![CDATA[153.0378914]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Six Mile Creek]]></name>
+		<location><![CDATA[612 Bruce Highway, Glanmire]]></location>
+		<suburb><![CDATA[Glanmire]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-26.23189833]]></latitude>
+		<longitude><![CDATA[152.697088]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Gunalda]]></name>
+		<location><![CDATA[Bruce Highway, Gunalda]]></location>
+		<suburb><![CDATA[Gunalda]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-25.98646333]]></latitude>
+		<longitude><![CDATA[152.5712107]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Gin Gin Creek]]></name>
+		<location><![CDATA[34593 Bruce Highway, Gin Gin]]></location>
+		<suburb><![CDATA[Gin Gin]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-24.97445773]]></latitude>
+		<longitude><![CDATA[151.9464055]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Frances Creek]]></name>
+		<location><![CDATA[Bruce Highway, Helens Hill]]></location>
+		<suburb><![CDATA[Helens Hill]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-18.74792593]]></latitude>
+		<longitude><![CDATA[146.1368644]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Bilyana]]></name>
+		<location><![CDATA[Bruce Highway, Bilyana]]></location>
+		<suburb><![CDATA[Bilyana]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-18.11879114]]></latitude>
+		<longitude><![CDATA[145.912227]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Campaspe River]]></name>
+		<location><![CDATA[Flinders Highway, Pentland]]></location>
+		<suburb><![CDATA[Pentland]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-20.44130846]]></latitude>
+		<longitude><![CDATA[145.5332495]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Coolabunia]]></name>
+		<location><![CDATA[2-24 Gipps Street, Coolabunia]]></location>
+		<suburb><![CDATA[Coolabunia]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-26.58933173]]></latitude>
+		<longitude><![CDATA[151.9030536]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Ban Ban Springs]]></name>
+		<location><![CDATA[13384 Burnett Highway, Ban Ban Springs]]></location>
+		<suburb><![CDATA[Ban Ban Springs]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-25.68236202]]></latitude>
+		<longitude><![CDATA[151.8163511]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Binjour Range]]></name>
+		<location><![CDATA[Swains Road, Reids Creek]]></location>
+		<suburb><![CDATA[Reids Creek]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-25.5337089]]></latitude>
+		<longitude><![CDATA[151.4994171]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Ceratodus Rest Area]]></name>
+		<location><![CDATA[unknown, Ceratodus]]></location>
+		<suburb><![CDATA[Ceratodus]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-25.28175114]]></latitude>
+		<longitude><![CDATA[151.1389612]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Coominglah Range]]></name>
+		<location><![CDATA[Burnett Highway, Moonford]]></location>
+		<suburb><![CDATA[Moonford]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-24.7998035]]></latitude>
+		<longitude><![CDATA[150.9846424]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Fat Hen Creek]]></name>
+		<location><![CDATA[Wide Bay Hwy, Kilkivan]]></location>
+		<suburb><![CDATA[Kilkivan]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-26.08957353]]></latitude>
+		<longitude><![CDATA[152.2885076]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Tilley's Bridge]]></name>
+		<location><![CDATA[10527 Mount Lindesay Highway, Rathdowney]]></location>
+		<suburb><![CDATA[Rathdowney]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-28.22111758]]></latitude>
+		<longitude><![CDATA[152.8589893]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Stuart River]]></name>
+		<location><![CDATA[15 Toomeys Road, Taabinga]]></location>
+		<suburb><![CDATA[Taabinga]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: 24 hours]]></openinghours>
+		<latitude><![CDATA[-26.61125998]]></latitude>
+		<longitude><![CDATA[151.783349]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Reid River]]></name>
+		<location><![CDATA[Flinders Highway, Reid River]]></location>
+		<suburb><![CDATA[Reid River]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-19.75714356]]></latitude>
+		<longitude><![CDATA[146.8336984]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[No]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Crawford Creek]]></name>
+		<location><![CDATA[Landsborough Highway, Corfield]]></location>
+		<suburb><![CDATA[Corfield]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-22.55703417]]></latitude>
+		<longitude><![CDATA[143.4247029]]></longitude>
+		<onpremisedisabilityparking><![CDATA[Yes]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+	<node>
+		<name><![CDATA[Alice River]]></name>
+		<location><![CDATA[4 Jillian Court, Alice River]]></location>
+		<suburb><![CDATA[Alice River]]></suburb>
+		<activitytype><![CDATA[Camping Ground]]></activitytype>
+		<openinghours><![CDATA[OPEN: Variable hours]]></openinghours>
+		<latitude><![CDATA[-19.33059857]]></latitude>
+		<longitude><![CDATA[146.6032869]]></longitude>
+		<onpremisedisabilityparking><![CDATA[No]]></onpremisedisabilityparking>
+		<onpremiseparking><![CDATA[Yes]]></onpremiseparking>
+		<disabilityaccessible><![CDATA[Yes]]></disabilityaccessible>
+		<ambulanttoilet><![CDATA[No]]></ambulanttoilet>
+	</node>
+</data>

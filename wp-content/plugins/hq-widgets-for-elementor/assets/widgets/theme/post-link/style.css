@@ -1,0 +1,31 @@
+/* POST LINK */
+.post-link__wrapper {
+    display: flex;
+}
+.post-link__button {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.post-link__button > i, .post-link__button > span {
+    flex: 0 0 auto;
+}
+
+.post-link--justify-flex-start .post-link__wrapper,
+.post-link--justify-flex-end.post-link--icon-left .post-link__button {
+    justify-content: flex-start;
+}
+.post-link--justify-center .post-link__wrapper {
+    justify-content: center;
+}
+.post-link--justify-flex-end .post-link__wrapper,
+.post-link--justify-flex-start.post-link--icon-left .post-link__button {
+    justify-content: flex-end;
+}
+
+.post-link--icon-left .post-link__button {
+    flex-direction: row-reverse;
+}
+.post-link--icon-right .post-link__button {
+    flex-direction: row;
+}
